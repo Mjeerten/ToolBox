@@ -1,0 +1,13 @@
+language: en (100%)
+[   0.0-   4.5] Grock might have just killed day trading forever, see people are putting 6 Grock bots into one
+[   4.5-   9.2] group chat letting them trade and they say it's making them thousands. One guy said he turned
+[   9.2-  16.1] $87 into $8000 and another one claims he turned $90 into $14000. And no single bot does it alone,
+[  16.1-  20.8] so let me break down exactly how it works. Grock let's you set up 6 bots in one group chat.
+[  20.8-  25.3] The first one is the scout, which watches the markets for any big moves. The second one
+[  25.3-  30.2] is the news bot, it finds exactly why it's moving according to the news. And then we have the chart
+[  30.2-  34.9] bot, which picks the entry, the exit and the stop. But this is the one that matters the most, it's
+[  34.9-  40.0] called the skeptic. Its whole job is to argue against every single trade, it tells the desk to buy,
+[  40.0-  44.7] wait or skip. So no bad idea, it gets past it before any money moves. And the best part
+[  44.7-  49.6] it is is that it runs on its own cloud computer 24 sevens. You can run this exact setup without
+[  49.6-  53.6] lifting a finger. If you want to learn how to set this up, comment the word Grock and I'll
+[  53.6-  55.6] send it right over to you.

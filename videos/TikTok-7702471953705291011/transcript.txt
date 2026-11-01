@@ -1,0 +1,22 @@
+language: en (100%)
+[   0.0-   1.5] I built a trading bot with AI.
+[   1.5-   2.0] Hi.
+[   2.0-   3.0] Let me tell you how he works.
+[   3.0-   4.8] I gave him three setups to use.
+[   4.8-   6.8] Firstly, continuation breakouts.
+[   6.8-   8.2] Edward looks for a trend.
+[   8.2-  13.3] Ways for Price to reject, then gets in when Price breaks out of that level.
+[  13.3-  15.6] Second, WIC reversal breakouts.
+[  15.6-  17.3] Price rejects after a trend.
+[  17.3-  21.3] Prince and WIC in the opposite direction fails to break it, then when Price does
+[  21.3-  24.7] break it, he gets in, again banking on more continuation.
+[  24.7-  27.8] Lastly, now this is the real money maker.
+[  27.8-  32.3] Every day, Edward marks the first 15-minute opening range, starting at 7 a.m.
+[  32.3-  33.5] Central Standard Time.
+[  33.5-  38.1] During the New York session, he looks for a breakout, a retest, and then he gets long
+[  38.1-  42.8] at the middle of that range, with a much bigger target of $1,000.
+[  42.8-  46.1] Now, these three setups are great, but could they be better?
+[  46.1-  46.8] Follow me.
+[  46.8-  51.1] I'll show you his performance, his failings, and hopefully teach you a thing or two about
+[  51.1-  54.2] what it's like being a trader trying to code a bot.
+[  54.2-  55.2] Not a bad bar, you know?

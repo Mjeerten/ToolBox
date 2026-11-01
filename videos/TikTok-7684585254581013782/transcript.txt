@@ -1,0 +1,12 @@
+language: en (100%)
+[   0.0-   3.9] Grok's new AI trading agent can make enough money to keep itself alive.
+[   3.9-   9.3] It runs autonomously on polymarket without requiring API keys or a manual VPS setup.
+[   9.3-  14.1] Plus, it gets its own cloud computer, browser and terminal, then handles the entire workflow
+[  14.1-  15.1] itself.
+[  15.1-  20.9] Every 10 minutes, it scans hundreds of markets, analyzes live X sentiment and looks for mispricings
+[  20.9-  22.3] above 8%.
+[  22.3-  27.4] It then uses the Kelly criterion to calculate position sizes with the maximum of 6% of
+[  27.4-  31.3] its bankroll at risk before executing trades through its browser.
+[  31.3-  36.2] And when market conditions changed, it reportedly adjusted its strategy and searched for a new
+[  36.2-  37.2] edge.
+[  37.2-  38.8] Follow me for more content on AI.

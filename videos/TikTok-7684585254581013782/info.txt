@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXNxS44/
+uploader: sferro.ai (7234808654737114138)
+date: 2026-09-12
+duration_s: 38
+views: 84700  likes: 3069  comments: 27
+frame every 1 s (frames/0001.jpg = second 0)
+
+title/caption:
+Grok’s AI trading agent reportedly scans prediction markets, analyzes live sentiment, identifies potential mispricings, calculates position sizes, and executes trades autonomously.
