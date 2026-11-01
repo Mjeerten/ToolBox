@@ -5,6 +5,8 @@ a speech transcript and caption / account info. Used by .github/workflows/video.
 
 Per video  -> <out>/<extractor>-<id>/ info.txt, transcript.txt, ocr.txt, sheets/NN.jpg (12 frames each, 4x3,
               timestamps burned in), frames/NNNN.jpg (frame k = second (k-1)*every).
+              Sheets hold only the frames where the picture changes (plus at least one every MAX_GAP seconds), so a
+              talking head does not fill ten sheets; every frame stays in frames/ and is OCR'd (4 at a time).
 Per account (TikTok @user, YouTube channel, Instagram profile...) -> <out>/account-<extractor>-<name>/index.txt
               (every listed video: date, views, likes, duration, caption, link) and the newest `max` videos processed
               as above (their folders are listed at the end of index.txt).
@@ -18,8 +20,12 @@ import re
 import shutil
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
 
 import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+DIFF, MAX_GAP = 6.0, 4   # sheet frame kept when its 48x48 grey thumbnail differs this much (0-255 mean) / every 4 s
 
 YTDLP = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings"]
 
@@ -75,15 +81,50 @@ def account(info, url, out, max_n, every, whisper):
 def ocr_frames(frames, every):
     """Text per frame with tesseract; only lines that change are kept, with the second they appear."""
     out, last = [], set()
-    for k, f in enumerate(frames):
-        r = sh(["tesseract", f, "-", "--psm", "11"])
-        txt = {re.sub(r"\s+", " ", t).strip() for t in r.stdout.splitlines()}
+    with ThreadPoolExecutor(4) as ex:
+        texts = list(ex.map(lambda f: sh(["tesseract", f, "-", "--psm", "11"]).stdout, frames))
+    for k, raw in enumerate(texts):
+        txt = {re.sub(r"\s+", " ", t).strip() for t in raw.splitlines()}
         txt = {t for t in txt if len(t) >= 3 and sum(ch.isalnum() for ch in t) >= 3}
         new = sorted(txt - last)
         if new:
             out.append(f"[{k * every:5.0f}s] " + " | ".join(new))
         last = txt
     return out
+
+
+def key_frames(frames, every):
+    """Indexes of frames that look different from the last kept one, or MAX_GAP seconds after it."""
+    keep, last, last_t = [], None, -1e9
+    for k, f in enumerate(frames):
+        g = np.asarray(Image.open(f).convert("L").resize((48, 48)), np.float32)
+        if last is None or np.abs(g - last).mean() >= DIFF or k * every - last_t >= MAX_GAP:
+            keep.append(k)
+            last, last_t = g, k * every
+    return keep
+
+
+def sheets(frames, keep, every, folder):
+    """Contact sheets of the kept frames: 4x3, 360 px wide each, the second in the corner."""
+    try:
+        font = ImageFont.truetype("DejaVuSans-Bold.ttf", 34)
+    except OSError:
+        font = ImageFont.load_default()
+    for n in range(0, len(keep), 12):
+        tiles = []
+        for k in keep[n:n + 12]:
+            im = Image.open(frames[k]).convert("RGB")
+            im = im.resize((360, round(im.height * 360 / im.width)))
+            d = ImageDraw.Draw(im)
+            label = f"{k * every:g}s"
+            d.rectangle((0, 0, 12 + 22 * len(label), 44), fill=(0, 0, 0))
+            d.text((6, 4), label, fill=(255, 255, 0), font=font)
+            tiles.append(im)
+        w, h = 360, max(t.height for t in tiles)
+        sheet = Image.new("RGB", (w * 4, h * ((len(tiles) + 3) // 4)), (0, 0, 0))
+        for i, t in enumerate(tiles):
+            sheet.paste(t, ((i % 4) * w, (i // 4) * h))
+        sheet.save(f"{folder}/sheets/{n // 12 + 1:02d}.jpg", quality=80)
 
 
 def transcript(path, whisper):
@@ -119,16 +160,15 @@ def video(url, out, every, whisper):
     sh(["ffmpeg", "-loglevel", "error", "-i", vid, "-vf", f"fps=1/{every},scale=720:-2", "-q:v", "4",
         f"{folder}/frames/%04d.jpg"])
     frames = sorted(glob.glob(f"{folder}/frames/*.jpg"))
-    # contact sheets: 12 frames each, second burned into the corner
-    sh(["ffmpeg", "-loglevel", "error", "-framerate", "1", "-i", f"{folder}/frames/%04d.jpg", "-vf",
-        f"drawtext=text='%{{eif\\:n*{every}\\:d}}s':x=8:y=8:fontsize=40:fontcolor=yellow:box=1:boxcolor=black@0.6,"
-        "scale=360:-2,tile=4x3", "-q:v", "4", f"{folder}/sheets/%02d.jpg"])
+    keep = key_frames(frames, every) if frames else []
+    sheets(frames, keep, every, folder)
     i = json.load(open(glob.glob(f"{tmp}/*.info.json")[0]))
     info = [f"url: {url}", f"uploader: {i.get('uploader') or i.get('channel')} ({i.get('uploader_id')})",
             f"date: {fmt_date(i.get('upload_date'))}", f"duration_s: {i.get('duration')}",
             f"views: {i.get('view_count')}  likes: {i.get('like_count')}  comments: {i.get('comment_count')}",
             f"frames: {len(frames)}, one every {every} s (frames/0001.jpg = second 0); "
-            f"sheets: {len(glob.glob(folder + '/sheets/*.jpg'))} (12 frames each)",
+            f"sheets: {len(glob.glob(folder + '/sheets/*.jpg'))} (12 frames each; {len(keep)} frames where the picture "
+            f"changes, at least one every {MAX_GAP} s; all frames in frames/)",
             "", "title/caption:", (i.get("description") or i.get("title") or "").strip()]
     open(f"{folder}/info.txt", "w").write("\n".join(info) + "\n")
     open(f"{folder}/ocr.txt", "w").write("\n".join(ocr_frames(frames, every) or ["(no text found)"]) + "\n")
@@ -137,7 +177,7 @@ def video(url, out, every, whisper):
     except Exception as e:   # noqa: a transcript is optional
         tr = [f"(transcript failed: {e!r})"]
     open(f"{folder}/transcript.txt", "w").write("\n".join(tr) + "\n")
-    print(f"== {folder}\n" + "\n".join(info) + "\n" + "\n".join(tr[:60]))
+    print(f"== {folder}\n" + "\n".join(info) + "\n" + "\n".join(tr[:60]), flush=True)
     return folder
 
 

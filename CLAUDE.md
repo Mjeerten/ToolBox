@@ -7,7 +7,8 @@ Related repos: day-trading-desk (Nasdaq, private), Meme-Desk (memecoin research,
   (videos and/or accounts, space-separated), `every` (seconds per frame, default 1), `max` (newest videos per account,
   default 10). Output on the `videos` branch:
   - per video `videos/<extractor>-<id>/`: info.txt (caption, views, date), transcript.txt (speech), ocr.txt (on-screen
-    text with the second it appears), sheets/NN.jpg (12 frames each, second in the corner), frames/NNNN.jpg.
+    text with the second it appears, every frame), sheets/NN.jpg (12 frames each, second in the corner; only frames
+    where the picture changes, at least one every 4 s, so read all sheets), frames/NNNN.jpg (every frame).
   - per account `videos/account-<extractor>-<name>/index.txt`: every listed video (date, views, likes, caption, link)
     and the folders of the processed ones.
   Trigger: `gh api -X POST repos/Mjeerten/toolbox/actions/workflows/video.yml/dispatches -f ref=main -f 'inputs[urls]=...'`

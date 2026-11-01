@@ -36,7 +36,7 @@ jobs:
           python-version: "3.12"
       - run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg tesseract-ocr >/dev/null
-          pip install -q -U yt-dlp faster-whisper numpy
+          pip install -q -U yt-dlp faster-whisper numpy pillow
           cp tools/video.py /tmp/video.py
       - name: Switch to the videos branch
         run: |
