@@ -24,12 +24,12 @@ import numpy as np
 YTDLP = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings"]
 
 
-def sh(cmd, **kw):
-    return subprocess.run(cmd, capture_output=True, text=True, **kw)
+def sh(cmd, text=True):
+    return subprocess.run(cmd, capture_output=True, text=text)
 
 
 def probe(url, max_n):
-    r = sh(YTDLP + ["--flat-playlist", "--playlist-end", str(max_n * 5), "-J", url])
+    r = sh(YTDLP + ["--flat-playlist", "--playlist-end", str(max(max_n * 3, 30)), "-J", url])
     if r.returncode != 0:
         print("PROBE FAILED:", url, r.stderr[-400:])
         return None
@@ -47,7 +47,8 @@ def fmt_date(d):
 
 
 def account(info, url, out, max_n, every, whisper):
-    name = re.sub(r"[^\w.-]", "_", str(info.get("uploader_id") or info.get("id") or info.get("title")))
+    m = re.search(r"/@([\w.-]+)", url)
+    name = re.sub(r"[^\w.-]", "_", m.group(1) if m else str(info.get("uploader") or info.get("title") or info.get("id")))
     folder = f"{out}/account-{info.get('extractor_key', 'web')}-{name}"
     os.makedirs(folder, exist_ok=True)
     entries = [e for e in info.get("entries") or [] if e]
