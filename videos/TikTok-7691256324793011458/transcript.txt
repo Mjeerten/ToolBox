@@ -1,0 +1,13 @@
+language: en (100%)
+[   0.0-   3.1] An user gave his GROC agent $50 and tell it,
+[   3.1-   5.0] pay for yourself or you die.
+[   5.0-   7.0] Two days later, the agent was still alive
+[   7.0-   8.9] with over $5,000.
+[   8.9-  10.9] This autonomous polymarket bot runs
+[  10.9-  13.6] from its own cloud computer, watches markets,
+[  13.6-  16.9] analyzes X sentiment, hunts for mispricings,
+[  16.9-  19.8] uses the Kelly criterion to size positions
+[  19.8-  22.0] and executes trades by itself.
+[  22.0-  25.0] It even covers its $200 per month subscription
+[  25.0-  28.2] from the profits and adjusts when the market changes.
+[  28.2-  30.8] Comment, GROC, and I'll send you the setup.

@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXNocau/
+uploader: sebintel (7408160055877125152)
+date: 2026-09-30
+duration_s: 30
+views: 53100  likes: 2029  comments: 523
+frame every 1 s (frames/0001.jpg = second 0)
+
+title/caption:
+Someone gave a Grok Agent $50 and told it: “Pay for yourself or die.” Two days later, it reportedly had over $5,000 while autonomously analyzing Polymarket, tracking X sentiment, finding market mispricings, sizing positions, and executing trades.

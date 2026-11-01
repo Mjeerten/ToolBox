@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXNsGe8/
+uploader: juliofutures (6761215923305317381)
+date: 2026-09-24
+duration_s: 98
+views: 119100  likes: 9905  comments: 126
+frame every 1 s (frames/0001.jpg = second 0)
+
+title/caption:
+I stopped staring at charts all day 👀 My Grok Bot watches GBPJPY every 5 minutes on weekdays and only pings me when MY setup shows up: liquidity sweep, then FVG, then IFVG. It grades every setup A+ to C, so I only look at the A's. That's the edge. I'm not faster than the market, I just never miss my setup and I stop forcing bad trades. It's built around your rules, so it works for your pair and your strategy too. No coding, and setup takes about 15 minutes. If you want to build this, the link is in my bio. Just copy, paste and customize it to your own pair and strategy. 🔗
