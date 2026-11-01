@@ -1,0 +1,98 @@
+name: video
+# Paste one or more video links (TikTok, YouTube Shorts, Instagram, X...). The runner downloads each video, saves a
+# frame every N seconds, transcribes the speech (faster-whisper) and stores caption/uploader info. Output is committed
+# to the separate `videos` branch (folder videos/<id>/) so Claude can read it; main stays clean. Public repo on purpose: Actions minutes are free.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Video link(s), separated by spaces"
+        required: true
+      every:
+        description: "Seconds between saved frames"
+        default: "1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video
+  cancel-in-progress: false
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q -U yt-dlp faster-whisper
+      - name: Switch to the videos branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git fetch --depth 1 origin videos; then
+            git checkout -B videos FETCH_HEAD
+          else
+            git checkout --orphan videos && git rm -rfq . && git clean -fdq
+            echo "Video frames + transcripts made by .github/workflows/video.yml (on main)." > README.md
+          fi
+      - name: Download, frames, transcript
+        env:
+          URLS: ${{ inputs.urls }}
+          EVERY: ${{ inputs.every || '1' }}
+        run: |
+          mkdir -p /tmp/dl videos
+          for url in $URLS; do
+            echo "::group::$url"
+            rm -rf /tmp/dl/*
+            if ! yt-dlp -q --no-warnings --no-playlist -f "b[height<=1080]/b" --write-info-json \
+                 -o "/tmp/dl/%(extractor)s-%(id)s.%(ext)s" "$url"; then
+              echo "DOWNLOAD FAILED: $url"; echo "::endgroup::"; continue
+            fi
+            vid=$(ls /tmp/dl | grep -v '\.info\.json$' | head -1)
+            id="${vid%.*}"
+            out="videos/$id"
+            rm -rf "$out" && mkdir -p "$out/frames"
+            ffmpeg -loglevel error -i "/tmp/dl/$vid" -vf "fps=1/$EVERY,scale=720:-2" -q:v 4 "$out/frames/%04d.jpg"
+            python - "/tmp/dl/$id.info.json" "$out/info.txt" "$url" "$EVERY" <<'PY'
+          import json, sys, datetime
+          i = json.load(open(sys.argv[1]))
+          d = i.get("upload_date") or ""
+          lines = [f"url: {sys.argv[3]}", f"uploader: {i.get('uploader') or i.get('channel')} ({i.get('uploader_id')})",
+                   f"date: {d[:4]}-{d[4:6]}-{d[6:]}", f"duration_s: {i.get('duration')}",
+                   f"views: {i.get('view_count')}  likes: {i.get('like_count')}  comments: {i.get('comment_count')}",
+                   f"frame every {sys.argv[4]} s (frames/0001.jpg = second 0)", "", "title/caption:",
+                   (i.get("description") or i.get("title") or "").strip()]
+          open(sys.argv[2], "w").write("\n".join(lines) + "\n")
+          PY
+            python - "/tmp/dl/$vid" "$out/transcript.txt" <<'PY' || true
+          import subprocess, sys
+          import numpy as np
+          from faster_whisper import WhisperModel
+          raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", sys.argv[1], "-ac", "1", "-ar", "16000",
+                                "-f", "s16le", "-"], capture_output=True, check=True).stdout
+          audio = np.frombuffer(raw, np.int16).astype(np.float32) / 32768.0
+          m = WhisperModel("small", device="cpu", compute_type="int8")
+          segs, info = m.transcribe(audio, vad_filter=True)
+          with open(sys.argv[2], "w") as f:
+              f.write(f"language: {info.language} ({info.language_probability:.0%})\n")
+              for s in segs:
+                  f.write(f"[{s.start:6.1f}-{s.end:6.1f}] {s.text.strip()}\n")
+          PY
+            [ -s "$out/transcript.txt" ] || echo "(no transcript)" > "$out/transcript.txt"
+            cat "$out/info.txt" "$out/transcript.txt"
+            echo "frames: $(ls $out/frames | wc -l)"
+            echo "::endgroup::"
+          done
+      - name: Commit to the videos branch
+        run: |
+          git add -A videos README.md 2>/dev/null || git add -A videos
+          git commit -qm "Video frames + transcripts (${{ github.run_id }})" || { echo "nothing new"; exit 0; }
+          for i in 1 2 3; do git push -q origin videos && break; git pull -q --rebase origin videos; done
