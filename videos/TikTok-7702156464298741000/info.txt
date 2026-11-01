@@ -2,7 +2,7 @@ url: https://vm.tiktok.com/ZGdXNGw2w/
 uploader: ekrnmdhpfjy (7496884627584615479)
 date: 2026-10-29
 duration_s: 992
-views: 38300  likes: 1729  comments: 29
+views: 38900  likes: 1752  comments: 29
 frames: 992, one every 1 s (frames/0001.jpg = second 0); sheets: 22 (12 frames each; 259 frames where the picture changes, at least one every 4 s; all frames in frames/)
 
 title/caption:

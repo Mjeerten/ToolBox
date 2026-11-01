@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXFJCKH/
+uploader: runitbankexe (7364453719289316358)
+date: 2026-09-27
+duration_s: 30
+views: 234800  likes: 8355  comments: 19
+frames: 30, one every 1 s (frames/0001.jpg = second 0); sheets: 1 (12 frames each; 9 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+terimakasih grok bot
