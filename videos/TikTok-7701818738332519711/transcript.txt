@@ -1,1 +1,2 @@
-(transcript failed: TypeError("subprocess.run() got multiple values for keyword argument 'text'"))
+language: en (48%)
+[   0.1-  16.3] BUMBAKLAD WALAHIM
