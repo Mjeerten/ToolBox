@@ -49,6 +49,7 @@ jobs:
             echo "Video frames + transcripts made by .github/workflows/video.yml (on main)." > README.md
           fi
       - name: Process links
+        timeout-minutes: 130   # leaves time to commit whatever is done
         env:
           URLS: ${{ inputs.urls }}
           EVERY: ${{ inputs.every || '1' }}

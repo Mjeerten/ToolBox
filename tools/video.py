@@ -25,6 +25,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
+OCR_ENV = dict(os.environ, OMP_THREAD_LIMIT="1")
 DIFF, MAX_GAP = 6.0, 4   # sheet frame kept when its 48x48 grey thumbnail differs this much (0-255 mean) / every 4 s
 
 YTDLP = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings"]
@@ -82,7 +83,9 @@ def ocr_frames(frames, every):
     """Text per frame with tesseract; only lines that change are kept, with the second they appear."""
     out, last = [], set()
     with ThreadPoolExecutor(4) as ex:
-        texts = list(ex.map(lambda f: sh(["tesseract", f, "-", "--psm", "11"]).stdout, frames))
+        # one thread per tesseract (OMP_THREAD_LIMIT=1): 4 copies with their own thread pools on 4 CPUs crawl
+        texts = list(ex.map(lambda f: subprocess.run(["tesseract", f, "-", "--psm", "11"], capture_output=True,
+                                                     text=True, timeout=60, env=OCR_ENV).stdout, frames))
     for k, raw in enumerate(texts):
         txt = {re.sub(r"\s+", " ", t).strip() for t in raw.splitlines()}
         txt = {t for t in txt if len(t) >= 3 and sum(ch.isalnum() for ch in t) >= 3}
@@ -160,6 +163,7 @@ def video(url, out, every, whisper):
     sh(["ffmpeg", "-loglevel", "error", "-i", vid, "-vf", f"fps=1/{every},scale=720:-2", "-q:v", "4",
         f"{folder}/frames/%04d.jpg"])
     frames = sorted(glob.glob(f"{folder}/frames/*.jpg"))
+    print(f"-- {folder}: {len(frames)} frames, OCR + transcript...", flush=True)
     keep = key_frames(frames, every) if frames else []
     sheets(frames, keep, every, folder)
     i = json.load(open(glob.glob(f"{tmp}/*.info.json")[0]))
