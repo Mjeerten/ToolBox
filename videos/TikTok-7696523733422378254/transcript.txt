@@ -1,0 +1,16 @@
+language: en (100%)
+[   0.0-   3.4] This strategy catches perfect reversals and it's super easy to learn.
+[   3.4-   6.4] Pay attention, go to Trading View and open up your favorite asset,
+[   6.4-   8.6] then drop down to the 5 minute time frame.
+[   8.6-  10.6] We'll need two indicators for this strategy.
+[  10.6-  14.5] The first indicator plots two Bollinger Bands on your chart and highlights their crossovers.
+[  14.5-  17.1] In the settings, change the higher time frame to 30 minutes.
+[  17.1-  20.8] Look for buys when there's a green triangle and sells when there's a red triangle.
+[  20.8-  23.5] Here, the Bands crossover and a bullish signal is generated.
+[  23.5-  24.4] Don't enter yet though.
+[  24.4-  27.5] We'll use the second indicator to confirm where the real volume has been trading.
+[  27.5-  32.2] Once you see the signal line up right on top of the POC line, you can take a super clean long entry.
+[  32.2-  36.0] Set your stop loss at the most recent low and take a two risk reward trade.
+[  36.0-  38.0] Use the same logic in reverse for shorts.
+[  38.0-  41.5] To use this strategy, you'll need these two free indicators by Flux Charts.
+[  41.5-  45.5] The Bollinger Bands MTF and Kalman Filter and the weighted volume profile.

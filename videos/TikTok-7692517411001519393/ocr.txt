@@ -1,0 +1,118 @@
+[    0s] # expected value | (1 + rate) | (ret | 1,08 PLAYERS x 1,000 SPINS | @@@ season_1_key_lines | BALANCE IN $ | IAS. | PART 12 | QUANT FINANCE FROM SCRATCH | SBS: | The Big Picture | Uv LI | WHERE THEY END | aes) | ante: | cae | drag = vol | education only - not financial advice | ees | ev=p*i1+(1-p) * -1 | leer | log = np.log(p[1:] | mix | np.sqrt(252) | one line per part | price = 108 + step.cumsum() | print(np.bincount(rights, minlength=13) ) | python | r = (za * zb).mean() | real scenes from real runs | return ret, | risk, | safe) / risk | season 1 in one story | season 1 recap - parts 1 to 11 | simulated data | spread = walks.std(axis=0) | today = future | total / | ve = calm.std()
+[    1s] # the drag rule | $100 | +11.0 % | 10 yrs | 100 | 30 yrs | AVERAGE | CALM + VOLATILITY 10 % | VOLATILITY 50 % | WILD | buf | cale | calm.std | drag = vol ** 2 / 2 | education only | future | log | mean | not financial advice | np. log(p | np.sqrt | parts 1 to 11 | price | print(np.bincount(rights, minlength=13 | rate | ret | risk | safe | season 1 recap | season_1_key_lines | spread | start | step.cumsum | today | total | urn ret | walks.std(axis=0
+[    2s] 10 x | 11.6 % | 12.2% | 20 x! | 20.0 % | RISK OF THE MIX | drag | equal | minlength | mix = total / i | np. sqrt | number of assets | print(np.bincount (rights | return ret | spl | step. cumsum | vol | walks.std(axis
+[    3s] QUANTITATIVE
+[    4s] FINANCE | FROM SCRATCH
+[    5s] PART 12 | THE BIG PICTURE | VON | Vials | Vy p | aie | ay /f
+[    6s] A fh | Vist | education only | not financial advice
+[    7s] @ © © season_1_key_lines | Expected Value | ONE SPIN + A BET ON RED | QUANT FINANCE FROM SCRATCHE | Wig | a bet with an edge | a tiny edge per bet | part 1 | roulette, a bet on red | “oan
+[    8s] A Bet With an Edge | Sony? | THE RED THREAD | aetls
+[    9s] advice | coo | education only | not financial | simulated data
+[   10s] # expectedll | +0.486 | -0.514 | @ @@ season_1_key_lines | EXPECTED VALUE | ONE $1 BET ON RED | Paes) | QUANT FINANCE FROM SCRATCH | not financial advice | p*1+(1-p) * | qtle | win x 18/37 | | 2 ev
+[   11s] # expected value | -0.027 | @@@ season_1_key_lines | the sum:
+[   12s] -2.7¢ per $1 bet | Pac) | eee | per $1 bet, on average | season_1_key_lines | “i AS
+[   13s] @@@ season_1_key_lines | inancial adv | lated data | po tare
+[   14s] # expected value | $19,216 | 1,00 PLAYERS - BALANCE IN $ | THE CASINO - PROFIT IN $ - 1,000,000 BETS | ev=p*i1+(1-p) * -1 | expected "$27,027 | not financial advice | part | part 1 - a tiny edge per bet | python | rar e3) | season_1_key_lines | simulated data
+[   15s] $24,782 | 027 | 1,08 PLAYERS - BALANCE IN $ | QUANT FINANCE FROM SCRATCHE
+[   16s] $27,288 | 1 ev | 1,000 PLAYERS - BALANCE IN $ | 7,027 | Pree (AcS ip) ied. | casino: $27,288 in 1,000,000 bets | one line per part | rar e3) | ‘THE CASINO - PROFIT IN $ - 1,000,000 BETS
+[   17s] a tiny edge per bet | coo | part 1
+[   18s] $100 | 1,000 FLIPS ADDED UP | 100 + SCT | @ © @ season_1_key_lines | PRICE IN $ | The Random Walk | advice | coin flips add up | coin flips that look like a chart | inancial | part 2 | the random walk | | 2 price
+[   19s] 1,008 FLIPS ADDED UP | 100 + Sm: cumsum() | Iz price | PRICE IN | ‘start $100
+[   20s] 1,000 FLIPS ADDED UP | 100 + AONeT ITO | @ @@ season_1_key_lines | PRICE IN $ | QUANT FINANCE FROM SCRATCH | rar | start $100 | | 2 price
+[   21s] 100 + Sian Sis | @@©@ season_1_key_lines | Ez price | Start $100 | not financial
+[   22s] # the random walk | 1,00 | 1,00 PRICES - 4,000 STEPS EACH | 1,000 | 1: aS; | 2,000 | 3,008 | 4,000 | Maia | Mis | chart | coin flips that look like a | education only - not financial advice | jas | mae | may | one lin | part | poh | price = 100 + step.cumsum() | prices | python | season_1_key_lines | wes
+[   23s] 1,000 PRICES - 4,000 STEPS EACH | 1: wa | 2,008 | 4,020 | Ape | Mie | Mlb | Paes) | Wok | aan | coin flips that look like a chart | drift +2.7¢ per step | one line per part
+[   24s] 1 wa | 1,08 | 10@ + step.cumsum() | 3,000 | 4,000 | Pas: | coo | fir | price
+[   25s] 1,00 | 1,08 PRICES - 4,000 STEPS EACH | 100 + step.cumsum() | 2 price | Leth | Pas | QUANT FINANCE FROM SCRATCHE | aie | inf
+[   26s] 108 | 25's | 4x THE STEPS, 2x THE SPREAD | 588. Steps = | @ @@ season_1_key lines | Bacaee ster | EES | Pa e=3) | Pate | Pats | Saar | THE PATTERN | The Square Root Rule | Wed | ane | cis | education only | ei 9 | ies | not financial advice | part 3 | price | spread grows like vtime | spread grows with the square root of time | step.cumsum | the square root rule | | 3 spread = walks.
+[   27s] # typical | («4 FF | Se ME gain | distance | ierpors | ig t00. steps | oH oy | season_1_key_lines | | 3 spread = walks.std(axis=0)
+[   28s] # typical distance | 1@ v4e0 | 5 100 | Ear aee ster | Foner | Kis | Pala) | ah a | aie | asap ar, | eel ovr nua | hyok | myer | sae | v25 | ‘sia
+[   29s] 1,000 RANDOM WALKS | 200 | 3 spread = walks.std(axis=0) | 408 | SAAC, | THE BAND: ONE STANDARD DEVIATION | a bee | one | part | rae) | tep | walks.
+[   30s] 1,008 RANDOM WALKS | 400 steps | QUANT FINANCE FROM SCRATCH | ares | art | ci eyt | pst | python | spread = walks.std(axis=0) | step. cumsum( | walks
+[   31s] 1,08 RANDOM WALKS | 408 | Las | Line per part | Pir i | Ta ape | ats | att: | fal | part 3 - spread grows with the square root of time | step. cumsum( )
+[   32s] + step.cumsum( ) | 1,000 | 1,000 RANDOM WALKS - THE BAND: ONE STANDARD DEVIATION | 100 steps: about 10 away | 2 price | 200 | Ahad | Bee dpe | Besrzane steps | Ney | eee | one lin | part | vad
+[   33s] 100 | 12 COIN FLIPS | 12 ROWS | ONE BALL | The Bell Curve | many small random steps | many small steps, one shape | part 4 | price | print(@ | spread | step.cumsum | the bell curve | walks. std(axis=0)
+[   34s] (Gail #1 of 1,000 ) | 100 + | 12 COIN | @ @@ season_1_key_lines | FLIPS | many small | random steps | walks. std(axis=0 | | 4 print(np.bincount(rights, minlength=13)) # pile
+[   35s] 12 COIN FLIPS | Paes) | QUANT FINANCE FROM SCRATCHE | cumsum | ies | many small random steps | many small steps, | one shape | pets | random walk, part 2) | walks.std(axis
+[   36s] many small steps, one shape | season_1_key_lines | step. cumsum | | 4 print(np.bincount(rights, minlength=13) )
+[   37s] # pile | 100,000 SUMS | 28 + step.cumsum() | 68 % within one sd | Paes) | THE NORMAL DISTRIBUTION | coo | normal distribution | one 1 | part | price = | print(np.bincount(rights, minlength=13) ) | “walks. std(axis=0)
+[   38s] + step.cumsum() | 1 ev | 2 price = | THE NORMAL DISTRIBUTION - 100,000 SUMS | e Fil | is n | walks. std(axis=0)
+[   39s] 2 price = 100 + step.cumsum() | 3 spread | Mim. | ares) | e rill | python | ¢ print(np.bincount(rights, minlength=13)) # pile
+[   40s] 1+ (1 - p) | 10@ + step.cumsum() | 4 [os5) 6 | PERCENT MOVES MULTIPLY | QUANT FINANCE FROM SCRATCH | Returns | education only - not financial advice | err re | ev =p* | log = | moves multiply | one line per part | part 5 + percent moves multiply | percent | price | print(np.bincount(rights, minlength=13) ) | ret | returns | sea oaeaee | spread = walks.std(axis=0)
+[   41s] # -0.69, | +0.69 | @@@ season_1_key_lines | education only | ev =p * | log = np.log(p[1:] / p[:-1]) | not financial advice | rare=3) | wewcaw nde | yeueneue
+[   42s] # -@.69, +0.69 | + step.cumsum() | 4 [ess] 6 | PERCENT MOVES a a | ape aan | as ta | coo | education only - not financial advice | ies) | price = 100 | season_1_key_lines
+[   43s] # -0.69, | $100 | + A FALL, THEN A RECOVERY | + step | +0.69 | 100 | ONE STOCK + $100 | cumsum | education only | not financial advice | one 1 | part 5 | percent moves multiply | price | print(np.bincount(rights, minlength | spread | sython | walks,std(axis
+[   44s] -50 x50 | ONE STOCK + $100 - A FALL, THEN A RECOVERY | Paes) | print(np.bincount(rights, minlength=1 | step.cumsum | walks.std(axis
+[   45s] -5@ % needs +100 % | 100 | ONE STOCK - $10@ - A FALL, THEN A RECOVERY | QUANT FINANCE FROM SCRATCHE | print(np.bincount(rights, minlength | “438 %
+[   46s] + A FALL, THEN A RECOVERY | +108 % | BREAK EVEN ) | ONE STOCK - $100 | eae | eens | part | part 5 + percent moves multiply | print(np.bincount(rights, minlength=1 | std(axis=¢ | walks
+[   47s] + step.cumsum() | 10 yrs | 5 % interest a year | Em 0 Ie | Paes) | Present Value | WHAT $10@ IN 10 YEARS IS WORTH TODAY | part 6 + money has a time value | present value | price = 100 | print(np.bincount(rights, minlength=13) ) | python | spread = walks.std(axis=0) | today
+[   48s] (Gee) | / pl:-1]) | log = np.log(p{1:] | price = | spread | step.cumsum() | today = future / (1 + rate) ** 10 | walks.std(axis=0)
+[   49s] (xa year) | WHAT $10@ IN 1@ YEARS IS WORTH TODAY | are | log | np. log(p[1 | part 6 - money has a time value | print(np.bincount(rights, minlength=13 | step.cumsum( )
+[   50s] Ears) | Fa 0 med | QUANT FINANCE FROM SCRATCH | WHAT $10@ IN 10 YEARS IS WORTH TODAY | np.log(p[ | part 6 + money has a time value | price = 1¢ | print(np.bincount(rights, minlength=13) ) | step.cumsum()
+[   51s] 108 + step.cumsum() | @@@ season_1_key_lines | WHAT $10@ IN 1@ YEARS IS WORTH TODAY | education only - not financial advice | ev=p*1+(1-p) * -1 | log = np.log(p[1:] / p[:-1]) | one line per part | price | python | spread = walks.std(axis=@) | xa year)
+[   52s] $100 in 10 years: $61.39 today | $61.39 | 1 yrs | education only | log | not financial advice | np.log(p[1:] / p[:-1]) | part | part 6 - money has a time value | price = 10@ + step.cumsum() | season_1_key_lines | spread = walks.std(axis=0)
+[   53s] (xa year) | 10 yrs | @ + step.cumsum() | coo | eae3) | np.log(p[ 1: ] | one line per part | price = 1
+[   54s] $100 | 10 YEARS | 20 yrs | Volatility | calm.std() * np.sil | future | np. log(p | part 7 | price | print(np.bincount(rights, minlength | rate) | risk as one number | same average, other swings | spread | start | step. cumsum | volatility | walks.std(axis | — wild | —calm | ‘TWO SIMULATED INVESTMENTS
+[   55s] $200 | QUANT FINANCE FROM SCRATCHE | calm.std() * np.sqrt(252) | ility | np.log(p | rate | step.cumsum | vola | — calm
+[   56s] # volatility | $1ee | TWO SIMULATED INVESTMENTS | aes | both built for +8 % | erage | part | print(np.bincount(rights, minlength=1 | year on | —calm
+[   57s] $1ea | * np.sqrt(252) | Paes) | both built for +8 % a year on average | calm.std() | — calm
+[   58s] + rate | calm.std() * np.sqrt(252) | coo | np. log(p | one line | v252
+[   59s] 0.25 % | 1.99 % | 252 trading days | = 15.87 | FROM A DAY TO A YEAR | THE SQUARE ROOT RULE | future / | np.log(p | per day | per year | rate | square root rule
+[   60s] QUANT FINANCE FROM SCRATCH | future
+[   61s] + rate) | + step.cumsum | 3.9 % vs | 31.6 % a year | 31.6% | @ @@ season_1_key_lines | future / | | 7 ve
+[   62s] BESS SSCS e soe EES eeeos | PER YEAR | RETURN AND RISK | The Sharpe Ratio | a year | calm | calm.std | extra return per unit of risk | futur, | minlength=1 | np. log(p | np. sqrt | np.bincount (rights | part 8 | rate | return | risk: volatility, % a year | safe | step. cumsum | the Sharpe ratio | wild | | = ral
+[   63s] @ @© season_1_key_lines | BapSst oc See See Hee See | future | int(np.bincount (rights | minlength | safe | | | 8 return ret, risk, (ret - safe) / risk
+[   64s] (cera) | calm | safe | © @© season_1_key_lines
+[   65s] Paes) | QUANT FINANCE FROM SCRATCHE | int(np.bincount(rights | np.sqrt | season_1_key_lines | step.cumsum
+[   66s] [@.117 0.24 (0.363) | [e.06 0.03 9.993 | np.log(p | np.sgrt
+[   67s] (steepness = sharpe ratio) | Paes) | Sha | [0.06 0.03 9.993 | [0.117 0.24 | inpe | np. log(p | np. sqrt
+[   68s] 7 ww: | [@.06 0.03 9.993] | int(np.bincount (rights | np.log(p | | 8 return ret, risk, (ret - safe) / risk +
+[   69s] (steepness = sharpe ratio) | Sha | [0.06 0.03 | [@.117 0.24 | calm @.99 | imac) | inpe | int (np.bincount(rights | np.sqrt | step. cumsum | wild 0.36 | | 8 return ret, risk, (ret - safe) / risk
+[   70s] (steepness = sharpe ratio | 7 GB > | QUANT FINANCE FROM SCRATCH | [e.06 0.03 | alm.std | anpe | np. log(p | np. sqrt
+[   71s] # -0.69, | # expected value | # the random walk | # typical distance | $100 | +8,69 | 10@ + step.cumsum() | 3s & x | EACH TILE: $1 | Sharpe | calm.std() * np.sqrt(252) | education only - not financial advice | ev =p *1+(1-p) * -1 | log = np.log(p[1:] / p[:-1]) | one line per part | pile | print(np.bincount(rights, minlength=13) ) | python | return ret, risk, (ret - safe) / risk | spread = walks.std(axis=0) | start | swings cost growth | today = future / (1 + rate) ** 10 | volatility | wolatility drag | “ @@@ season_1_key_lines
+[   72s] @@@ <season_1_key_lines | Volatility Drag | cun | ducat | financial | on only | part 9 | pread | pri | risk | simulate: | volatility drag | | ° drag = Tai
+[   73s] $150 | @aae8a | @eaa | S55ea | Seaaea | aeo | ass | calm.std | eaace | eas | education only | eo0e8e | futur | log | minlength | n ret | not financial advice | np. sqrt | np.bincount (rights | np.log(p | price | rate | ret | safe | season_1_key_lines | simulated data | spread | step.cumsum | today | walks.std(axis | | 9 drag = vol ** 2/2
+[   74s] @@@ season_1_key_lines | Sarre, | calm | cun | inancial | minlengt | ncoun | on only | simul | | ° drag = vol
+[   75s] 5@ %: down 25 % | QUANT FINANCE FROM SCRATCHE | Szn/me. | TegcecgeeuE | average return@ % | ead | education only | inancia | minler | simulated | your money | | 9 cee = vol z
+[   76s] Heqcesoooess | minlength | pane sss | pread | |e "drag =1vol ** 2 2
+[   77s] +50 %, -5@ %: down 25 % | BHSS8aneen | EACH TILE: | SSEEE | ae ttt t+ 4 | ag ru | calm.std | future | log | not financial advice | np. bincount (rights | np. log(p | np. sqrt | per step: about % of 25 % | price | rate | ret | safe | season_1_key_lines | simulated data | spread | step.cumsum | today | urn | walks.std(axis | | 9 drag = vol ** 2 / 2
+[   78s] -50 %: down 25 % | @ © @ season_1_key_lines | EACH TILE: $1 | advice | cun | data | futur | hts | ial | nly | ot fina | simulated | ttt t+ as | |» drag = vol ** 2/2
+[   79s] -5@ %: down 25 % | @ © @ season_i_key_lines | Finai | Ganae | Sesceessne | cui | ducation | ights | ncoun | only | simulated data | ute | | » drag = vol ** 2/2 | ‘Boo
+[   80s] +50 %, -50 %: down 25 % | Ii drag = vol ** 2 / 2 | QUANT FINANCE FROM SCRATCH | calm.std | drag | education only | future | log | minlength | not financial advice | np. log(p | np. sqrt | print(np.bincount(rights | rate | ret | return | risk, | rul | safe | season_1_key_lines | spread | step.cumsum | the | today | walks.std(axis
+[   81s] $100 | (za * zb).mean | Correlation | [xe r | correlation | cory | eturn | fey. | fone dot per day | how two assets move together | minlength=1 | part 10 | vol | |= hidden market, shared by A and 8
+[   82s] "= hidden market, shared by A and 8 | # correlation | (za * 2b) imean() | +0.80 | CORRELATION | hee | minlength | np.log(p | sale | trys,
+[   83s] [22 r | np.sqrt | print(np. bincount(rights | {= hidden market, shared by A and 8
+[   84s] (= hidden market, shared by A and 8 | (za * zb).mean() | 10.0 % | 14.1% | 19.0 % | @ @© season_1_key_lines | advice | mix risk | not financial | np. log(p | np. sqrt | nt(np.bincount (rights | step. cumsum | urn ret | vce
+[   85s] "count | +0.00 14.1% | +0.80 19.0% | -@.50 10.0% | 50/5@ mix risk | @@@ season_1_key_lines | QUANT FINANCE FROM SCRATCHE | adv | calm | correlation.py prints | cum | ture | | 2 r = (za * zb).mean() | “each alone 20 x
+[   86s] (a * zb) .mean() | +8.80 19.0% | 40.00 14.1% | 50/S@ mix risk | Jeach alone 20 % | data | futu | inancia | min | oS: BS | unt
+[   87s] (za * zb).mean() | +0.00 14.1% | 50/5@ mix risk | jeach alone 20 X | |aenr
+[   88s] -0.50 10.0% | 50/5 mix risk | @ @@ season_1_key_lines | Jeach alone 20 X | oS: BS | | Senne |
+[   89s] +0.80 19.0% | 50/S@ mix risk | @@@ season_1_key_lines | Baas | Jeach alone 20 x | how two assets move togethei
+[   90s] 5@/5@ mix: 19.0 % to 10.0 % | @@@ season | Jeach alone 20 X | QUANT FINANCE FROM SCRATCH | [Rae oF | _key_lines
+[   91s] 1 asset | 1 asset: 20.0 % | 20.0 % | ALL MONEY IN ONE ASSET | DAILY MOVES, 10,000 YEARS | Diversification | SPLIT EVENLY ACROSS TEN | calm.std | diversification | drag | education only | future | int(np.bincount(rights | log | mean | minlength | mixing assets lowers risk, up to a point | not financial advice | np. log(p | np. sqrt | part 11 | price | rate | ret | return ret | risk | safe | season_1_key_lines | simulated data | spread | step. cumsum | today | vol | walks.std(axis | | 2 mix = total / i
+[   92s] # equal split | int(np.bincount (rights | mix = total / i | seat
+[   93s] 1 asset: | @ @@ season_1_key_lines | SPLIT EVENLY ACROSS TE! | equal | eturn ret | hay | int | minlength=1 | np. bincount (rights | spl | step.cumsum | total /i | | a mix
+[   94s] Paye | Psy | a )G2) | minlength | np.bincount (rights | return | split | step. cumsum | | a. mix
+[   95s] 10 assets | 12.2 % | 1@ assets: | QUANT FINANCE FROM SCRATCHE | SPLIT EVENLY ACROSS TEN | Wea, | np.bincount(rights | np.sqrt | plit | qual | simul | step.cumsum | ted data | urn ret | | a mix
+[   96s] 108 | 11.4 | 11.6 % | 12.2% | 20 x! | 8@ more assets: -@.5 points | Pry | RISK OF THE MIX | equal | market alone 11. | number of assets | print(np.bincount (rights | return ret | simulated data | step. cumsum | weeee------ =o | | 2 mix
+[   97s] -0.5 points | 10 x | 100 | 11.1% | 11.2 % | 8@ more assets: | @@@ season_1_key_lines | advice | eturn | floor: | int | market 11. | market alone 11.0 % | not financia | np. sqrt | np.bincount (rights | split
+[   98s] @@© season_1_key_lines | market alone 11.@ % | not financial advice | np.sqrt | urn
+[   99s] # -0.69, | # Sharpe | # correlation | # equal | # pile | # the drag rule | +0.69 | 100 + step.cumsum() | 2 expected value | 2 random walk | 3 square root rule | 4 bell curve | Beeemet® | The Big Picture | a bet with an edge | calm.std() * np.sqrt(252) | drag = vol ** 2/2 | ev=p*1+(1-p) * -1 | log = np.log(p[1:] / p[:-1]) | mix | one bet with an edge, from part 1 to part 11 | plit | print(np.bincount(rights, minlength=13) ) | r= (za * zb).mean() | random walk | return ret, risk, (ret - safe) / risk | spread = walks.std(axis=0) | the | the big picture | today = future / (1 + rate) ** 10 | typical distance | volatility | xpected value
+[  100s] # typical distance | # volatility | 1 expected value | 11 diversification | 20 correlation | 5 returns | 6 present value | 7 volatility | 8 sharpe ratio | 9 volatility drag | @ @@ season_1_key_lines | OOOOOMOMWMA44) | Py aa | QUANT FINANCE FROM SCRATCH | drag = vol ** 2 / 2 | expected value | r = (za * zb).mean() | split
+[  101s] 10 correlation | 2 expected value | @ @ © season_1_key_lines | OOOOOMMODMA4) | r= (za * zb).mean() | the random walk | —= Pod <
+[  102s] OOOOOMOMOMA4) | part | volatility
+[  103s] # expected value | * np.sqrt(252) | 1 expected value | 2 square root rule | @ @@ season_1_key_lines | OOOOOMOMOOMA4) | PENCE | Sra | cen | ev=p*i1+(1-p) * -1 | iii | one line per part | price = 10@ + step.cumsum() | python | r = (za * zb).mean() | ron | spread | today = future / (1 + rate) * | total / i | ve = calm.std() | walks.std(axis=@)
+[  104s] # volatility | (ret | 1+ (1 - p) | 11 diversification | 2 expected value | 20 correlation | @ + step.cumsum() | OOOOOMOMDMA) | calm.std() * np.sqrt(252) | coo | eocmry | ev =p* | ill | measure the swing | price = | return ret, | risk, | safe) / risk | season_1_key_lines | spread = walks.std(axis=0) | today = future / (1 + rate)
+[  105s] + rate) | 3 + step.cumsum() | 3 square root rule | OOOOOMOMOMA) | QUANT FINANCE FROM SCRATCHE | drag | education only - not financial advice | future | i diversification | latili | log | np. log(p| | oe a | part | price | risk | safe) | spread | today | total | vol | walks.std(axis=0) | zb) .mean()
+[  106s] / risk | 11 diversification | 4 belt curve | Lin | OOOWOOMOMWW4) | np.log(p[1:] | spread = walks.std(axis=0) | step.cumsum( )
+[  107s] # equal split | (1 + rate) | 4 bell curve | 7 volatility | A expected value | EDGE | OOOOMOMMG264965 | SPREAD | SWING | eae | eee | log = np.log(p[1: | nad | np. sqrt(252) | one Line per part | pony | price = 100 + step.cumsum() | r = (za * zb).mean() | return ret, risk, | safe) / risk | spread the swing | today = future | total / i | ve = calm.std()
+[  108s] # -0.69, | # correlation | # expected value | # pile | # the drag rule | # the random walk | # typical distance | # volatility | +0.69 | 10@ + step.cumsum() | 1ev=p*1+(1-p) * -1 | @@@ season_1_key_lines | GSGGUGGHHRe® | OOOOMOMM449) | SEASON 1 | SEASON 2 | Season 2 | a2 mix | aes | bets | calm.std() * np.sqrt(252) | drag = vol ** 2 / 2 | education only | evidence | log = np.log(p[1:] / p[:-1]) | not financial advice | portfolios | portfolios, bets and evidence | price | r= (za * zb).mean() | return ret, risk, (ret - safe) / risk # Sharpe | season 2 | today = future / (1 + rate) ** 10 | total /i
+[  109s] # Sharpe | 2 mix | EASON 2 | Nasotiess | OOOOOMOMWW44) | PORTFOLIOS | QoS GHH25h | Seeds | Sees | ees | ev=p*1+(1- p) * -1 | poet hace! | return ret, risk, (ret - safe) / risk
+[  110s] # equa | BETS | Boe oe eee | OOOOMOMOMOG4) | QUANT FINANCE FROM SCRATCH | Sea ieee seats | drag = vol ** 2/2 | eee | eee 2 | ev=p*1+(1-p) * -1 | mix | rrelation | split | volatility
+[  111s] # equal | 11 mix | BOS SHHe5h | Bears | EVIDENCE | OOOOOMMA49645 | Sharpe | es ie | expected value | ores 2 | pile | random walk | the
+[  112s] # correlation | # pile | @ @@ season_1_key_lines | BHO HHHa2B | EAS | OOOOOMOMOM) | Reece | SEASON 2 | drag = vol ** 2 / 2 | ev=p*1+(1-p) *-1 | mix | the drag rule | the random walk | toon | typical distance | xpected value
+[  113s] # Sharpe | @@@ season_1_key_lines | BSUS | OOOOH MGG26965 | Shes | Stud | correlation | expected value | how to size a bet | see | skill or luck? | the random | total / i | walk
+[  114s] # equa | (ret - safe) / risk | (za * zb).mean() | 0.65 | Ce) ea ea a a | OOOO) | advice | ag rule | alk | ation | cal | drag | follow to really learn quant finance | future / (1 + rate) ** 10 | he random | ity | log = | not financial | np.log(p[1:] / p[:-1]) | p*1+(1-p) * -1 | price = 10@ + step.cumsum() | print(np.bincount(rights, miniength )) | return ret, risk | rpe | spread = | the dr | today | total /i | vol ** 2/2 | volat | walks.std(axis=0) | xpected value
+[  115s] 10@ + step.cumsum() | @ @@ season_1_key_lines | BHR BOBO 2a | OOOOOMOMWM4) | QUANT FINANCE FROM SCRATCHE | drag = vol ** 2 / 2 | ev=p*1+(1-p) *-1 | log = np.log(p[1:] / p[:-1]) | mix = total / i | pected value | price | print(np.bincount(rights, minlength=13) ) | qua | r = (za * zb).mean() | return ret, risk, (ret - safe) / risk | spread = walks.std(axis=0) | the drag rule | the random | tion | today = future / (1 + rate) ** 10 | typical dista
+[  116s] @@@ season_1_key_lines | BHHHE Sea | OOOOOMOMOOW) | expected value | ile | orrelation | the drag | yola
+[  117s] (ret - safe) / risk | (za * zb).mean() | 0.65 | @@© season_1_key_lines | Bee eee 28828 | Lue | OOOOOMOMWM) | al dis | drag | future / (1 + rate) ** 10 | lation | log = | mix | np.log(p[1:] / p[:-1]) | p* 1+ (1-p) * - | pected va | pic | price = 10@ + step.cumsum() | print(np.bincount(rights, minlength =})) | return ret, risk | spread = | today | total /i | vol ** 2 / 2 | walks.std(axis=0)

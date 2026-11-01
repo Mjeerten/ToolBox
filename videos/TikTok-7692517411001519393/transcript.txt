@@ -1,0 +1,42 @@
+language: en (100%)
+[   0.0-   3.4] If you only watch one video of this series, watch this one.
+[   3.4-   7.0] Quantitative Finance from Scratch, part 12.
+[   7.0-   9.6] This season is one story about a bet with an edge.
+[   9.6-  13.6] In part one, a dollar on red loses 2.7 cents on average
+[  13.6-  17.7] and a million bets made the casino about $27,000.
+[  17.7-  20.6] Part two turned coin flips into a random walk
+[  20.6-  22.1] that looks like a stock chart
+[  22.1-  26.2] and the edge became its drift of 2.7 cents per step.
+[  26.2-  27.9] In part three, randomness grew
+[  27.9-  29.3] with the square root of time.
+[  29.3-  33.4] So 100 random steps took you only about 10 steps away.
+[  33.4-  36.6] In part four, many small random steps built the bell curve
+[  36.6-  40.3] with 68% of results within one standard deviation.
+[  40.3-  42.7] Part five showed that percent moves multiply.
+[  42.7-  47.4] So losing 50% takes a gain of 100% to get back.
+[  47.4-  51.1] Part six showed that at 5% interest, $100 in 10 years
+[  51.1-  54.0] is worth only about $61 today.
+[  54.0-  56.5] Part seven measured risk as volatility.
+[  56.5-  58.6] So two investments with the same average
+[  58.7-  62.5] had yearly swings of about four and 32%.
+[  62.5-  65.4] Part eight divided the extra return by that risk
+[  65.4-  69.0] and this sharp ratio was 0.36 for the wild investment
+[  69.0-  71.7] and almost one for the calm investment.
+[  71.7-  75.0] In part nine, plus 50 and then minus 50%
+[  75.0-  77.4] left you 25% down
+[  77.4-  80.9] and that loss is called volatility drag.
+[  80.9-  83.9] Part 10 measured how two assets moved together,
+[  83.9-  86.2] the correlation and the less they do,
+[  86.2-  88.5] the less a 50-50 mix swings
+[  88.5-  91.1] from 19% down to 10.
+[  91.1-  93.4] And in part 11, spreading money over 10 assets
+[  93.4-  96.0] cut the risk from 20 to 12.2%
+[  96.0-  99.3] above a floor of 11% set by the shared market.
+[  99.3- 101.0] If this is the only video you watch,
+[ 101.0- 102.5] remember the big picture.
+[ 102.5- 105.2] A bet with an edge, how much it swings
+[ 105.2- 108.2] and how much of that swing you can spread away.
+[ 108.2- 111.2] Season two brings portfolios, bets and evidence
+[ 111.2- 112.3] like how to size a bet
+[ 112.3- 114.4] and how to tell skill from luck.
+[ 114.4- 116.8] Follow to really learn quantitative finance.

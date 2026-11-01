@@ -1,0 +1,22 @@
+language: en (100%)
+[   0.0-   5.8] Try this for the next 21 days and I guarantee your trading account will look a lot different.
+[   5.8-   9.1] And no, I don't mean richer, I mean different.
+[   9.1-  15.8] Two rules, one index, the FTSE 100, and one number at the end surprise me.
+[  15.8-  18.3] Rule 1, only Mondays.
+[  18.3-  21.7] Index week, RSI under 40, buy.
+[  21.7-  28.4] Stop 2.5 ATR, target, twice your risk, out after 24 hours, always.
+[  28.4-  34.6] Rule 2, price far below its 40 hour average and RSI under 35, buy.
+[  34.6-  39.9] Stop 2 ATR, same target, same limit, no grid, no martingale.
+[  39.9-  41.7] That's what different looks like.
+[  41.7-  45.1] We automated this, plus a third rule inside the bot.
+[  45.1-  55.8] Since 2017, 1,908 trades, plus 312.9% at 0.75% risk, maximum drawdown, 12%.
+[  55.8-  60.4] Now the number I promised, it wins only 50.8% of its trades.
+[  60.4-  62.0] So what makes the money?
+[  62.0-  64.3] The target is twice the risk.
+[  64.3-  65.3] One limit.
+[  65.3-  68.1] I chose these thresholds on the same years I tested.
+[  68.1-  74.2] Still, results hold when thresholds move and the Monday dip shows up on the DAX, S&P 500,
+[  74.2-  75.3] and NASDAQ.
+[  75.3-  77.4] Not proof, but not a quirk.
+[  77.4-  82.4] The rules are easy, doing them 1,908 times is the hard part.
+[  82.4-  84.6] In our free community, link in bio.

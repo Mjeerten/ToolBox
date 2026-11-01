@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXNvF8y/
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-19
+duration_s: 84
+views: 34500  likes: 2231  comments: 44
+frames: 85, one every 1 s (frames/0001.jpg = second 0); sheets: 8 (12 frames each)
+
+title/caption:
+Would you trade a strategy with just two rules? 👀📊 One index. Two simple rules. We tested this setup on the FTSE 100 to see how it performs. Would you try it for the next 21 days? 👇 #trading #daytrading #tradingstrategy #backtesting #algotrading
