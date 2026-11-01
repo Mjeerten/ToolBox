@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXF8VU9/
+uploader: tori.trades (123694477008891904)
+date: 2026-10-26
+duration_s: 176
+views: 147700  likes: 11900  comments: 286
+frames: 176, one every 1 s (frames/0001.jpg = second 0); sheets: 8 (12 frames each; 92 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+what do yall think about the whiteboard style?? 🤓

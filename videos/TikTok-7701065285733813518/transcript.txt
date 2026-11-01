@@ -1,0 +1,38 @@
+language: en (100%)
+[   0.0-   3.9] I have been trading for 11 years now and this setup that I'm getting ready to break down has
+[   3.9-   9.1] made me the most amount of money in my entire trading career. This is called the trend line break.
+[   9.1-  14.0] This setup allows us to capitalize on trend reversals when price violates a trend line.
+[  14.0-  17.7] So when we're presented with something like this, what does price need to do in order for us to
+[  17.7-  23.4] consider an entry? Next, how do we manage or mitigate our risk? And lastly, when do we
+[  23.4-  28.9] exit this trade? Our entry criteria is, has price broken the established trend line?
+[  28.9-  33.8] In the scenario, the answer is yes. So our entry would be here where price is broken the trend line.
+[  33.8-  38.4] Now, how do we know what position to take a long position or short position? This trend line break
+[  38.4-  42.9] remember is signaling or identifying a trend reversal. So it is showing us that this upward
+[  42.9-  47.4] trend that it was following along has just been violated. So we are going to anticipate that
+[  47.4-  51.7] trend is reversing. So we're taking a short position. So we've got an entry. But now,
+[  51.7-  56.2] how do we manage our risk? When entering the trend line break, we always need an opposing
+[  56.2-  60.7] trend line. This is going to help us mitigate our risk. This is going to tell us how long to
+[  60.7-  66.2] stay in the trade and when to get out this one singular line. So how does this one line
+[  66.2-  73.9] mitigate our risk? The distance between our entry and this line tells us our risk. If price comes
+[  73.9-  78.7] up and violates this downward trend line, this is our risk right here. Now a good rule of thumb
+[  78.7-  83.8] to help us identify what that dollar amount looks like or what the position size should be for this
+[  83.8-  90.0] is 1 to 2% of your capital. So our position size and our risk is going to be dependent on
+[  90.0-  93.6] your capital size. Everyone trades with different amounts of capital. You got to do that calculation
+[  93.6-  98.1] yourself. As long as the distance between where you enter and price breaking the opposing
+[  98.1- 102.7] trend line is a small distance and within your 1 to 2% of capital, you've got a low risk trade.
+[ 102.7- 106.2] So what does it look like to manage this trade and how do we know when to get out? Let's
+[ 106.2- 110.6] say that we got in here. Amazing. Price moved in our favor starting to come back to break
+[ 110.6- 115.0] even. Oh my god. Are we sweating? Nope. We're comfortable. Price can move further in our favor.
+[ 115.0- 120.2] Pull back. Move further in our favor. Pull back. Move even further. Pull back. As long as price
+[ 120.2- 124.8] respects this new trend, we're staying in our position. So right now we're still
+[ 124.8- 129.2] comfortably managing this trade. Price is ebbing and flowing. A lot of emotions are at
+[ 129.2- 132.8] play here. You watched price move in your favor. You had to give all of that back. This is
+[ 132.8- 136.1] what trade management looks like. The coolest part about this opposing trend line is that
+[ 136.1- 141.0] should keep our emotions at bay. We're not concerned until price violates this line. So price
+[ 141.0- 145.2] can continue to push even lower. Maybe it kind of putters out. Maybe it pushes even lower,
+[ 145.2- 151.4] but as soon as price violates the line, this is our exit criteria. This is our indication to
+[ 151.4- 156.8] close our position. So we were able to capitalize on the entirety of this new trend. This is one
+[ 156.8- 162.4] of the coolest parts about this trend line break is it allows us to be the first ones in on a
+[ 162.4- 167.7] potential new trend and then stay in the new trend for its entirety until that is violated.
+[ 167.7- 173.2] So this is entry criteria, risk management, exit criteria, the trend line break. If you
+[ 173.2- 176.1] enjoyed this video, be sure to drop a comment, hit the like button,
