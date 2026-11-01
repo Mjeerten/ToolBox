@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700659304071843104
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-25
+duration_s: 73
+views: 161200  likes: 10900  comments: 212
+frames: 73, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 21 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+50 trading strategies tested. 49 failed. 👀📊 We took 50 strategies from academic research papers and put them to the test. Strategies backed by research, tested against real market data. The result? Only ONE survived. Which trading strategy should we test next? 👇 #trading #daytrading #backtesting #tradingstrategy #algotrading

@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7703144311205973280
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-11-01
+duration_s: 71
+views: 7146  likes: 313  comments: 16
+frames: 72, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 24 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+How did your trading go in October? 👀📊 October was a wild month for Nasdaq. Big moves, sharp reversals, and plenty of opportunities. We broke down the numbers to see what actually happened. Were you profitable this month? 👇 #trading #daytrading #nasdaq #icttrading #smartmoneyconcepts

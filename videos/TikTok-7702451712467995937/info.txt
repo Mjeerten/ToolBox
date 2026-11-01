@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7702451712467995937
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-30
+duration_s: 69
+views: 5976  likes: 222  comments: 7
+frames: 70, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 22 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Do you use volume to spot market reversals? 👀📊 Everyone says extreme volume signals a potential market top. So we shorted every volume climax on the Nasdaq over 27 years to see if this theory actually works. Would you take these short setups? 👇 #trading #daytrading #nasdaq #priceaction #ict

@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7699937209016667424
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-23
+duration_s: 86
+views: 27100  likes: 1245  comments: 59
+frames: 87, one every 1 s (frames/0001.jpg = second 0); sheets: 4 (12 frames each; 41 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Which YouTuber’s trading strategy should we test next? 👀📊 This time, we put FX Alex G’s swing trading strategy to the test. Does it actually perform as well as claimed? Drop your suggestions in the comments! 👇 #trading #daytrading #forex #tradingstrategy #backtesting

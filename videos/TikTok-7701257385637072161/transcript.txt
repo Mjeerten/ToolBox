@@ -1,0 +1,35 @@
+language: en (100%)
+[   0.0-   4.0] Can a 15 minute range really beat a thousand random traders?
+[   4.0-   7.8] Traders say the first minutes after the US Open set the day.
+[   7.8-  10.6] So I took gold and one simple rule.
+[  10.6-  12.9] The first 15 minutes make a range.
+[  12.9-  14.4] Price closes outside it?
+[  14.4-  15.2] Go with it.
+[  15.2-  16.6] Stop on the other side.
+[  16.6-  17.4] Target.
+[  17.4-  18.7] Twice the risk.
+[  18.7-  20.1] Eight years of gold.
+[  20.1-  22.9] 1,927 trades.
+[  22.9-  24.8] So I built a fair opponent.
+[  24.8-  28.7] Same trade, same hour, same direction, same stop size.
+[  28.7-  31.0] Just on a random other day in that month.
+[  31.0-  32.6] A thousand times.
+[  32.6-  34.2] They pay the same costs.
+[  34.2-  36.4] So where do you think the rule finished?
+[  36.4-  38.1] 136th.
+[  38.1-  40.5] Ahead of about 86% of them.
+[  40.5-  41.8] Sounds like a win.
+[  41.8-  43.5] Then I looked at the account.
+[  43.5-  44.6] It lost.
+[  44.6-  47.8] Down about 100 times what it risked on one trade.
+[  47.8-  49.8] Before costs, it was positive.
+[  49.8-  51.2] The costs ate it.
+[  51.2-  53.6] And the random traders lost even more.
+[  53.6-  56.9] So beating random only meant losing less.
+[  56.9-  57.8] One limit.
+[  57.8-  60.6] Random traders kept the rules direction for free.
+[  60.6-  63.7] So this tests the day, not the direction call.
+[  63.7-  65.6] The range beat most of the crowd.
+[  65.6-  67.4] But it didn't beat the spread.
+[  67.4-  69.4] Which trader ideas survive that?
+[  69.4-  71.4] Follow and we'll keep testing them.

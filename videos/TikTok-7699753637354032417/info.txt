@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7699753637354032417
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-23
+duration_s: 70
+views: 11000  likes: 449  comments: 37
+frames: 70, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 19 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Do you trade breakout strategies? 👀📊 One of our viewers sent us his 1-hour breakout strategy, so we decided to put it to the test. Simple rules, but does it actually have an edge? What strategy should we backtest next? Drop your ideas below! 👇 #trading #daytrading #tradingstrategy #backtesting #algotrading

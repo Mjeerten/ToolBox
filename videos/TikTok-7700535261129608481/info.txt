@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700535261129608481
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-25
+duration_s: 74
+views: 9325  likes: 352  comments: 6
+frames: 75, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 20 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Is the trend really your friend? 👀📈 Everyone knows the saying, but does following the trend actually give you an edge? We tested a simple trend-following strategy on 25 years of Nasdaq data, including real trading costs. Sometimes the simplest ideas are worth testing. Do you trade with the trend or against it? 👇 #trading #daytrading #nasdaq #tradingstrategy #ict

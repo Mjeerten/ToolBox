@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700993743377190176
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-26
+duration_s: 75
+views: 116400  likes: 10100  comments: 442
+frames: 75, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 34 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Which trading YouTuber should we test next? 👀📊 This time, we put TJR’s day trading strategy to the test. No hype. No cherry-picked trades. Just the strategy, the data, and the actual results. But does his strategy really work? Would you trade it yourself? 👇 #icttrading #smartmoneyconcepts #priceaction #daytrading #trading

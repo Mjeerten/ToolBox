@@ -1,0 +1,31 @@
+language: en (100%)
+[   0.0-   2.9] Should you trust the system you can't see inside?
+[   2.9-   5.2] So, here are all of our rules.
+[   5.2-   8.8] One real trading day and a test you can run yourself.
+[   8.8-  10.6] The rules fit on a napkin.
+[  10.6-  12.0] We wait for New York to open
+[  12.0-  14.2] and let one short candle finish.
+[  14.2-  16.6] Did it end on the strong side of a fast average?
+[  16.6-  17.5] We buy.
+[  17.5-  19.5] On the weak side, we sell.
+[  19.5-  22.1] One trade a day, a wide stock.
+[  22.1-  23.4] Once the trade is in profit,
+[  23.4-  25.1] the stop starts to follow it.
+[  25.1-  26.3] That's the whole list.
+[  26.3-  28.0] Here's one real day.
+[  28.0-  30.4] January 2nd, 2025.
+[  30.4-  31.4] A small win.
+[  31.4-  34.5] The candle momentum algo is one of our free algos.
+[  34.5-  36.6] Comment algo and I'll send you the link.
+[  36.6-  39.0] But one quiet day proves nothing.
+[  39.0-  40.8] So, I tried to break it.
+[  40.8-  42.9] I kept both stops and replaced the entry
+[  42.9-  45.8] with a dice roll, 1,000 times.
+[  45.8-  48.0] How many of those dice rolls beat the rule?
+[  48.0-  49.7] None, not one.
+[  49.7-  54.3] The rule is right 55.7% of the time, even after costs.
+[  54.3-  57.0] The edge is small and it's one market.
+[  57.0-  62.0] Official MT5 test, plus 505.8% since 2019,
+[  62.2-  64.7] worst drop 26.6%.
+[  64.7-  67.0] A black box asks for belief.
+[  67.0-  69.1] An open rule hands you the test.

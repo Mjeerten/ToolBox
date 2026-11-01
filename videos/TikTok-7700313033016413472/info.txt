@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700313033016413472
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-24
+duration_s: 71
+views: 77200  likes: 3599  comments: 339
+frames: 71, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 28 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Would you rather trade or just buy and hold? 👀📈 Warren Buffett has always been a big fan of index investing. But can active trading strategies actually outperform simply holding the market? We took a closer look at the numbers. What’s your approach: Trading or Buy & Hold? 👇 #trading #investing #stockmarket #nasdaq #daytrading

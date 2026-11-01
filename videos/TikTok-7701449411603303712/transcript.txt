@@ -1,0 +1,25 @@
+language: en (100%)
+[   0.0-   5.8] The research paper behind the noise band drew its band too tight, so we widened it, and
+[   5.8-   8.4] the strategy changed completely.
+[   8.4-  12.6] After the New York Open, the Nasdaq wiggles, pure noise.
+[  12.6-  16.2] The band marks how much wiggle is normal for that time of day.
+[  16.2-  18.6] Price stays inside, nothing happens.
+[  18.6-  22.0] Price breaks out, that move often runs into the close.
+[  22.0-  25.1] A wider band was better almost everywhere.
+[  25.1-  27.4] That wider version is the one we coded up.
+[  27.4-  31.5] The full source code is in our channel, free, link in bio.
+[  31.5-  35.9] The paper's band is narrow, it fires on lots of small breakouts.
+[  35.9-  43.0] On four US indices, only the Nasdaq was clearly profitable, so I tested 200 versions of it.
+[  43.0-  44.4] Guess what mattered most?
+[  44.4-  48.0] Not the stop, not the trail, the width of the band.
+[  48.0-  53.4] A wider band was better almost everywhere, but the best of 200 can be luck.
+[  53.4-  58.4] So the data picked the settings blind, on three years, and then traded the next year it
+[  58.4-  61.1] had never seen, six times.
+[  61.1-  62.5] Those unseen years?
+[  62.5-  69.1] Plus 175R, better than almost all of 2,000 blind runs on scrambled data.
+[  69.1-  74.9] Then every tick in MetaTrader, Nasdaq and S&P 500 since 2018.
+[  74.9-  78.4] Only half the trades win, but not one losing year.
+[  78.4-  79.4] One limit.
+[  79.4-  82.1] We chose this band after seeing those years.
+[  82.1-  85.4] Only the live test from here on is truly unseen.
+[  85.4-  88.6] The paper found the edge, the wider band is what kept it.

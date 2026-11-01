@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7701257385637072161
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-27
+duration_s: 71
+views: 5834  likes: 226  comments: 13
+frames: 71, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 20 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Do you trade the 15-minute opening range? 👀📊 We tested a simple Gold opening range strategy against 1,000 random traders. Same market. Same conditions. Different approaches. Can a simple set of rules actually outperform random trading? What do you think? 👇 #goldtrading #xauusd #daytrading #openingrangebreakout #trading

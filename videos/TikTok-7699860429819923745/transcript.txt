@@ -1,0 +1,30 @@
+language: en (100%)
+[   0.0-   3.4] Does an ATR stop actually beat a fixed stop?
+[   3.4-   8.3] So I gave both the exact same 1,551 Nasdaq entries.
+[   8.3-  11.3] Same costs, only the stop changes.
+[  11.3-  13.5] One stretches with the day's volatility,
+[  13.5-  15.9] the other is a fixed number of points.
+[  15.9-  17.4] Which one do you think wins?
+[  17.4-  18.7] And remember this,
+[  18.7-  21.8] the Nasdaq roughly tripled over these years.
+[  21.8-  26.5] Profit factor first, the ATR stop, 1.29.
+[  26.5-  29.2] The fixed stop, 1.23.
+[  29.2-  30.6] Almost a tie.
+[  30.6-  32.6] Then I counted points instead.
+[  32.6-  37.6] 25,624 for the ATR stop, 17,225 for the fixed one.
+[  39.7-  40.6] Why?
+[  40.6-  43.5] The fixed distance was frozen from early data.
+[  43.5-  47.0] Wide in 2020, tight by 2026.
+[  47.0-  48.7] So I tightened both.
+[  48.7-  53.0] The tight ATR stop kept a profit factor of 1.30.
+[  53.0-  56.0] The tight fixed stop fell to 1.14.
+[  56.0-  58.0] But one thing cuts the other way.
+[  58.0-  62.2] On the wide pair from 2024 on, the fixed stop caught up.
+[  62.2-  65.1] 1.34 against 1.32.
+[  65.1-  67.7] So the ATR stop didn't find a better edge.
+[  67.7-  70.4] It just didn't drift when the price level moved.
+[  70.4-  73.9] One entry rule, one market, so don't stretch it.
+[  73.9-  77.0] A fixed stop bets the market stays where you set it.
+[  77.0-  79.4] An ATR stop doesn't need that bet.
+[  79.4-  81.2] Follow if you want the next stop question
+[  81.2-  82.6] tested like this.

@@ -1,0 +1,71 @@
+[    0s] CLOSE-TO-OPEN REVERSAL | GAMMA FLIP | ODTE STRADDLE | OPENING RANGE BREAKOUT | SECTOR ROTATION | VOL RISK PREMIUM | Z-SCORE REVERSION | | tested 50
+[    1s] 52-WEEK HIGH | PAIRS - COINTEGRATION | RSI(2) REVERSION | TIME-SERIES MOMENTUM | TURN OF THE MONTH | VOLATILITY BREAKOUT | VWAP REVERSION | trading strategies
+[    2s] BOLLINGER FADE | FIRST-HOUR REVERSAL | FROM RESEARCH PAPERS | LAST-HALF-HOUR DRIFT | LOW-VOL ANOMALY | MOVING-AVERAGE CROSS | OVERNIGHT RETURNS | PRE-FOMC DRIFT | STRATEGIES | from research papers.
+[    3s] 49 failed. | CROSS-SECTIONAL MOMENTUM | EARNINGS DRIFT | FX CARRY | KELTNER BREAKOUT | SELL IN MAY | SHORT-TERM REVERSAL | VIX TERM STRUCTURE
+[    4s] 23 SHORT-TERM REVERSAL | 24 -EROSS-SECHONAL MOMENTUM | 25 -FX-CARRY- | 26 VOLUME-SPIKE-FABE- | 27 THE NOISE BAND | 28 -GAP-AND-G8- | 29 4NSIDE-BAR- BREAKOUT | FAILER | GRDER-FLOWAMBALANEE | Vv Ii NAL OCUICcs
+[    5s] 25 FXEARRY- | 28 -GAP-ANB-G8- | 29 4NSIDE-BAR-BREAKOUT- | 30 -ORBER-FLOWAMBALANEE- | 68-BAY | REND | SHORT-TERM REVERSAL | SURVIVED | This one didn't. | ] THE NOISE BAND
+[    6s] It's called
+[    7s] Band | QuantLab | Strategy 27 of 50 | The Noise | the
+[    8s] 01 Source code | 02 Python version | and the full code
+[    9s] Free in our channel. | Full analysis | Python version | Source code | Strate | in our channel, | is f | of 50
+[   10s] Link in bio J | O01 | Strat | link in bio.
+[   11s] Here's why it works.
+[   12s] 1 day after | 10:00 | Shp eee ee ee ae
+[   13s] the New York open,
+[   14s] 11:00 | 9:30 NEW YORK OPEN | ny i | the market chops around.
+[   15s] the market chops around
+[   16s] Up, down, up. | it i i!
+[   17s] 9:30 NEW YORK OPEN | Up, down, up
+[   18s] PURE NOISE | Pure noise.
+[   19s] (heh f | That's exactly where
+[   20s] 10:00 | 11:00 | 12:00 | most traders
+[   22s] 13:00 | does nothing.
+[   23s] 10:00 11:00 42:00 13:00 14:00 15:00 | It draws a band | myth ih,
+[   24s] 10:00 11:00 12:00 13:00 14:00 15:00 | ain) | around the noise
+[   25s] my My
+[   26s] WAIT | myth My
+[   27s] 10:00 11:00 12:00 13:00 14:00 | BREAKOUT | Then price breaks out
+[   28s] "yh hy | 10:00 | 11:00 | 12:00 | 13:00 | 14:00 | 15:00 | And that's the moment | | BUY |
+[   29s] 10:00 11:00 12:00 | 13:00 14:00 15:00 | Dap | the big money moves.
+[   30s] 10:00 11:00 12:00 13:00 14:00 15:00 | CD gt -Teanins: | Se ee | aa My
+[   31s] COU su- Teas | FUNDS | Funds, options dealers, | OPTIONS DEALERS | mye IN
+[   32s] +++> LEVERAGED ETFs | COTM su-TeaIUns | ii! Ha | leveraged ETFs
+[   33s] LEVERAGED ETFs | ODM st Trane | int ill
+[   34s] all forced to push | i" wy in | o H i i!
+[   35s] (Egg SE TRAILING | ei i ' | ii! My | the same way.
+[   36s] 10:00 11:00 12:00 13:00 14:00 15:00 | Fe nore ne Sn ca | Phyl | a eee | ene | keeps running
+[   37s] 10:00 11:00 12:00 13:00 14:00 15:00' | Ee Se Se | ayy My | into the close. | ji at | vit ilo
+[   38s] 10:00 11:00 12:00 13:00 14:00 16:00 CLOSE | itn! | nee Sa | wit
+[   39s] 11:00 | 12:00 | 13:00 | ENTRY | You jump on | ii Hi! My | jit Hopes ! | sittin
+[   40s] 14:00 | 16:00 CLOSE | ENTRY — HOLD | You're flat before | int | iot! | teint
+[   41s] ENTRY — HOLD ~ FLAT BY SESSION END | the day ends. | uit | uty
+[   42s] Ai i | SOUNDS | Sounds too easy, right? | TAM FEACV9 | all | iit
+[   43s] TOO EASY?
+[   44s] SO 1TRIED | So | tried to kill it | TO KILLIT
+[   45s] Against random entries | SCHEMATIC | TO KILLIT | | re SO 1 DRIED c+
+[   46s] Pre | RANDOM ENTRIES | TESTED AGAINST
+[   47s] THE NOISE BAND | it won.
+[   48s] FEST | SIX BLIND | Six blind | TRAIN | WALK-FORWARD TESTS
+[   49s] still positive overall.
+[   50s] POSITIVE OVERALL | STILL
+[   51s] still
+[   52s] Then every single tick
+[   53s] IN METATRADER | NAA AR AAK, | TICK-BY-TICK | in MetaTrader.
+[   54s] MAI en PALS ad | NASDAQ | NASDAQ + S&P | Nasdaq and SSP, | SN poor
+[   55s] RARER I AT YO, | S&P 500 | ee aan | pl Norn,
+[   56s] 2018 2019 2020 2021 2022 2023 2024 2025 2026 | NASDAQ + SSP | SINCE 2018 | since 2018.
+[   57s] $10,000 | 10,000... | ILLUSTRATIVE BACKTEST
+[   58s] turned into 150,000.
+[   60s] $150,000
+[   61s] $10,000 — $150,000 | 2022 | 2023 | 2024 | 2025 | It's not smooth.
+[   62s] Half the trades lose.
+[   63s] One drawdown hit 30%. | ~50% LOSING TRADES
+[   64s] DRAWDOW
+[   65s] 2022 | But the edge
+[   66s] 2018 2019 2020 2021 2022 2023 2024 2025 2026 | kept coming back.
+[   67s] CNIIRCF CANE | Source code,
+[   68s] + PYTHON VERSION | Python version, | SOURCE CODE
+[   69s] + FULL ANALYSIS | the whole analysis
+[   70s] EREE | it's all in the channel.
+[   71s] FREE
+[   72s] LINK IN BIOL | Link in bio.

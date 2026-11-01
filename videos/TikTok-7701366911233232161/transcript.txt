@@ -1,0 +1,14 @@
+language: en (100%)
+[   0.0-   7.6] This is exactly how our UK100 bot trades. Three setups, right on the chart. Together, since 2017,
+[   7.6-  16.0] plus 313%. And only one of them can also sell short. So, which one carries the bot? Keep your guess.
+[  16.0-  22.4] Setup 1. The Panic Drop. A band. Two standard deviations around the 40-hour average. Price
+[  22.4-  28.5] crashes through the bottom of that band. RSI under 35? Buy the snapback. It loses more often
+[  28.5-  35.0] than it wins. Only 44% winners. But every winner pays twice what it risks. If you want this bot's
+[  35.0-  41.9] full results, check the link in bio. Setup 2. The Monday Dip. The week opens week. Price under its
+[  41.9-  50.1] 20-hour average. RSI under 40. Buy. 54% winners. The best profit factor in the bot. So, that's
+[  50.1-  56.4] the one, right? Setup 3. The Pullback in the Trend. The 100-hour average sets the direction.
+[  56.5-  63.8] Pointing up? Price dips well under its 40-hour average. RSI under 40. Buy. Pointing down? Same
+[  63.8-  69.6] thing. Flipped. Sell the bounce. The one that goes short. So, it finds almost three times as many
+[  69.6-  75.9] trades as the Monday Dip. And it made 38% of the profit. The Monday Dip? Just 25%.
+[  75.9-  80.3] Those shares come from the backtest. Live, it has only run since September.
+[  80.3-  84.6] The cleanest setup wasn't the biggest earner. The one that showed up most often was

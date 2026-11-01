@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700920549865786656
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-26
+duration_s: 84
+views: 12100  likes: 476  comments: 20
+frames: 84, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 22 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Do you trust breakouts without volume? 👀📊 Everyone says a breakout needs strong volume to be valid. But is that actually true? We put this popular trading rule to the test on Nasdaq to see what the data says. Do you use volume to confirm your entries? 👇 #trading #daytrading #nasdaq #tradingstrategy #ict

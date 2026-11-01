@@ -1,0 +1,37 @@
+language: en (100%)
+[   0.0-   3.1] A breakout without volume is a trap, they say.
+[   3.1-   5.8] I split 960 breakouts.
+[   5.8-   7.8] Low volume, fake move.
+[   7.8-   9.8] So I tested it on the NASDAQ.
+[   9.8-  13.2] Five minute chart, 2020 to 2026.
+[  13.2-  15.0] Does the volume filter make you money,
+[  15.0-  17.1] or does it just sound smart?
+[  17.1-  19.9] Price breaks the 20 candle high or low.
+[  19.9-  21.3] First time that day.
+[  21.3-  24.4] I compare that candle's volume with the 20 before it.
+[  24.4-  26.4] Loudest third in one pile.
+[  26.4-  28.2] Quietest third in the other.
+[  28.2-  31.2] Same stop, same target, same costs.
+[  31.2-  33.2] So which pile lost money?
+[  33.2-  34.6] The quiet one, right?
+[  34.6-  35.6] The trap.
+[  35.6-  37.4] It finished around break even.
+[  37.4-  40.3] Minus 0.01R per trade.
+[  40.3-  42.2] The loud pile did come out ahead,
+[  42.2-  45.0] plus 0.06R per trade.
+[  45.0-  47.6] Except that gap is tiny.
+[  47.6-  51.5] So I shuffled the labels at random, 1,000 times.
+[  51.5-  52.7] Four times out of 10,
+[  52.7-  55.3] shuffling gave a gap that big or bigger.
+[  55.3-  57.2] Then I split it by period.
+[  57.2-  59.3] 2020 to 2023.
+[  59.3-  63.0] Loud and quiet, both plus 0.04R.
+[  63.0-  67.8] But since 2024, the gap jumped to 0.25R per trade.
+[  67.8-  71.0] Except that's only 75 loud breakouts.
+[  71.0-  71.9] One limit.
+[  71.9-  74.6] This is the tick volume of a NASDAQ CFD,
+[  74.6-  76.2] not exchange volume.
+[  76.2-  78.2] The quiet breakouts weren't a trap.
+[  78.2-  80.6] The filter sounds smarter than it tests.
+[  80.6-  81.8] Follow if you want to see
+[  81.8-  84.4] which other trader rule survives random days.

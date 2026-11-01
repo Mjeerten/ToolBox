@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7703272259649047840
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-11-01
+duration_s: 69
+views: 1450  likes: 39  comments: 2
+frames: 70, one every 1 s (frames/0001.jpg = second 0); sheets: 4 (12 frames each; 37 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Would you trust a trading strategy if you couldn’t see the rules? 👀📊 Forget the secret indicators and complicated setups. Sometimes all you need is a simple set of rules and a way to test them. Would you trade a system this simple? 👇 #trading #daytrading #icttrading #smartmoneyconcepts #priceaction

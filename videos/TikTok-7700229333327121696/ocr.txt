@@ -1,0 +1,72 @@
+[    0s] 5 MIN | NASDAQ 100 | Our simplest Nasdaq strategy | ihre | “all
+[    1s] yet
+[    2s] BACKTEST | SESSION MOMENTUM | eae: | ett | ptt | returned 508% in our backtest. | rit
+[    3s] +508% | NASDAQ 100 | SIX-YEAR BACKTEST | TLLUSTRATIV | iE TILE PER TRADE
+[    4s] ILLUSTRATIVE | ONE TILE PER TRADE | Pepoe | Pott | Sigense | arate | ine | siaece.
+[    5s] ,acet | And now it’s trading live. | LIVE | Now trading live | atte
+[    6s] caettreeee
+[    7s] Here’s how it works. | Mow It works
+[    8s] 09:29:58 | Every day, we wait for the | New York market to open.
+[    9s] 09:29:59 | Wait for the New York open
+[   10s] 09:30:31 | NASDAQ | r the New York open | walt To
+[   11s] 09:31:40 | Then we watch just one candle. | Watch sae candle
+[   12s] 09:32:48 | Watch on candle
+[   13s] 09:33:56 | 5-MIN CANDLE | FIRST | NASDAQ | NEW YORK OPEN | Tha _ | The first five minutes.
+[   14s] 09:34:00 | CANDLE CLOSED | The faeuive minutes | YORK OPEN
+[   15s] Close above the 12 EMA: buy. | If it closes above the 12 EMA, we buy.
+[   16s] SIGNAL
+[   17s] Ulose apove the 12 EMA: buy.
+[   18s] 09:30 | Close below: sell. | ENTRY SIGNAL | If it closes below, we sell.
+[   19s] [ sHonr
+[   20s] ASA | And by the way, if you want to | BOT READY | test this exact trading bot for free, | ©) QuantLab
+[   21s] Session Momentum | Test the bot for free. | [ stone
+[   22s] ©B0T READY
+[   23s] BOT READY | INK IN BIO | check out the link in our bio. | om "Loy
+[   24s] LINK IN BIO | [ swore]
+[   25s] ALL | But the entry is only half the strategy. | TRADE MANAGEMENT | The entry js
+[   26s] STOP | The entry is only half | __ gg ea
+[   27s] ENTRY | i a a a Wine | roomy pear
+[   28s] FIXED TARGET | Instead of taking a small fixed profit, | No small fixed profit | STOP | © PRICE
+[   29s] ENTRY
+[   30s] Winners are allowed to run | [ POSITION OPEN | i” | — © PRICE | the algorithm lets winning trades run.
+[   31s] POSITION OPEN | te ® PRICE
+[   32s] As the market moves in our | Bas, | favor, the stop follows the trend.
+[   33s] The stop follows the trend | r err | w= © PRICE
+[   34s] ENTRY | TRAILING STOP | gee
+[   35s] ett | see | © PRICE
+[   36s] And that’s where things get interesting. | That's where it gets | interesting
+[   37s] BACKTEST | Inats | ‘where it gets
+[   38s] 2020 | Over six years of backtesting, | Six years of backtesting | the strategy generated
+[   39s] 504 | BACKTEST » SIX YEARS | G 8 S888 | See eee eee
+[   40s] 1,207 | ger | if = = fos
+[   41s] 1444... | BACKTEST - SIX YEARS | HHH 5 | IMEC eR eeeooe | SHB 8 | aan | gear
+[   42s] 1,448... | 2020 | BACKTEST | SIX YEARS | more than 1,400 trades.
+[   43s] BACKTEST - SIX YEARS | Pere | SESE SE tial aS SE | Se raecRe reer | With a win rate of 57%. | sesiaae
+[   44s] BACKTEST | IX YEARS | LOSSES | WINS
+[   45s] Dif | FEEH | Fert | SIX YEARS | Sanasae | Sannueennuna! | WIN RATE
+[   46s] =Saa]_=== | And a total return of 508%. | ENO | START [NS 1.00%
+[   47s] +508% | 6.08% | START [NY 2.00% | STARTING CAPITAL | TOTAL BACKTEST RETURN
+[   48s] 6.08% STARTING CAPITAL | END | SrA I 300:
+[   49s] A backtest is one thing | BACKTEST VS LIVE | Backtest | But a backtest is one thing.
+[   50s] BACKTEST | LIVE | Real market conditions are another. | Real marlata
+[   51s] Real markets are another
+[   52s] @ LIVE | LIVE TRADING | System standby | That’s why we took the strategy live.
+[   53s] So we took it live | e LIVE | ¢ System active
+[   54s] Now the algorithm executes | its trades automatically, | © LIVE | —_eee eee
+[   55s] 09:30 | AUTOMATED:
+[   56s] 3 / 06 | AUTOMATED | LIVE | Manan
+[   57s] AUTOMATED - 04 / | Signal generated | [ tons |
+[   58s] AUTO ENTRY | AUTOMATED - 05 / 06 | Entry placed automatically | [tons | | without emotional decisions or manual entries.
+[   59s] 06 / 06 | AUTOMATED | Pon —" | STOP MANAGED | Stop managed
+[   60s] And we're tracking how it | LIVE MONITORING | performs outside the backtest.
+[   61s] HAI | NAS100 54 | TRACKING | Tracked outside the backtest | [vem] gre ee-t | uve
+[   62s] 448 TRADES | IRMANCE TR, | LIVE CHART | NAS100 5H | SESSIONS | TODAY - AUTOMATED | TRADE ACTIVITY | a we : | cette | i maaan | pac
+[   64s] SESSION MOMENTUM
+[   65s] CLOSE ABOVE
+[   66s] 09:30 | And an algorithm that handles the rest. | ES ii | Lar | | The algorithm handles the | rest.
+[   67s] ceth | i pert ee § | ine aigoritnm handles the
+[   68s] If you want to see the actual | Q@) QuantLab | trades and follow the live results,
+[   69s] Free community | Session Momentum
+[   70s] @) QuantLab
+[   71s] Era | join our free community | through the link in our bio.
+[   72s] Q) QuantLab

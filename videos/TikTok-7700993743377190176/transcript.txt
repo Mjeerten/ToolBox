@@ -1,0 +1,27 @@
+language: en (100%)
+[   0.0-   4.9] I tested TJR's day trading strategy, and it actually works.
+[   4.9-  11.0] He says it made him over $700,000 this year, with a 64% win rate.
+[  11.0-  15.0] If you want to start trading strategies that are actually backed by research, check the
+[  15.0-  16.0] link in our bio.
+[  16.0-  17.7] Here's how it works.
+[  17.7-  19.2] New York opens.
+[  19.2-  21.4] Price runs a session high or low.
+[  21.4-  23.2] The 5 minute chart flips.
+[  23.2-  26.2] The 1 minute pulls back and breaks again.
+[  26.2-  30.2] That's your entry, and only when the S&P and the NASDAQ agree.
+[  30.2-  35.7] I coded every rule and ran it on minute data, January to May 2026.
+[  35.7-  43.6] The exact months he shows as proof, 99 trades, plus 20% risking 1% per trade, 4 out of 5 months
+[  43.6-  44.6] green.
+[  44.6-  46.1] So he's right?
+[  46.1-  47.1] Let's zoom out.
+[  47.1-  53.0] Same rules, 17 months, 354 trades, minus 26%.
+[  53.0-  54.0] Your win rate?
+[  54.0-  55.0] 38%.
+[  55.0-  56.0] Not 64%.
+[  56.0-  58.8] 12 of 18 months in the red.
+[  58.8-  61.7] Those 5 months were its one great stretch.
+[  61.7-  65.7] Maybe he reads the chart better than my code, but this is how most strategies look.
+[  65.7-  69.0] A few great months, and that's the part you get shown.
+[  69.0-  72.0] So before you trade anything, test all of it.
+[  72.0-  74.1] Real strategies, real tests.
+[  74.1-  74.8] Link in bio.

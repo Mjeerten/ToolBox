@@ -1,0 +1,27 @@
+language: en (100%)
+[   0.0-   2.4] We were up 5% in October.
+[   2.4-   5.6] Seven days later, almost all of it was gone.
+[   5.6-   8.7] And the NASDAQ fell almost 7% that month.
+[   8.7-  10.2] So here's how it ended.
+[  10.2-  13.7] We run a system that trades the NASDAQ, fully automated.
+[  13.7-  16.0] Every day, right after the New York Open,
+[  16.0-  19.3] it makes one decision, long or short.
+[  19.3-  23.2] And it risks about 1% of the account, every single trade.
+[  23.2-  26.0] If you want to see how it works, it's linked in my bio.
+[  26.0-  28.6] But here's what no strategy page can show you.
+[  28.6-  30.8] The start was almost too good.
+[  30.8-  33.9] One short caught 700 points on the way down.
+[  33.9-  37.6] Then the market turned, three full losses in a row.
+[  37.6-  40.0] That's the moment most people switch it off.
+[  40.0-  42.8] The next trade made over $1,200.
+[  42.8-  45.2] Then came a short on October 29th,
+[  45.2-  47.0] and that one is still open.
+[  47.0-  50.1] By the end of the month, we were up 4.2%.
+[  50.1-  52.4] Now the part most people wouldn't tell you.
+[  52.4-  55.0] Close trades made 1.8%.
+[  55.0-  57.8] The other 2.4 is that one open short.
+[  57.8-  61.3] The stop is already locked in profit, but it isn't finished.
+[  61.3-  63.1] One month proves nothing.
+[  63.1-  66.2] But this is what running a system actually feels like.
+[  66.2-  68.9] Plus five, plus one, plus four.
+[  68.9-  71.1] Same system the entire time.

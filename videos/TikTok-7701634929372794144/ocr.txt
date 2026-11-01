@@ -1,0 +1,95 @@
+[    0s] | tested Candle Range Theory...
+[    1s] 4H Low | Cand | EUR/USD | le Range Theory | | tested Candle Range Theory..
+[    2s] 565 TRADES | 7) heme | And | really didn’t expect these results. | BACKTEST | I really didn’t avnact
+[    3s] +88.8R | results. | | really didn’t expect these
+[    5s] A lot of you asked | A lot of you asked me to test CRT. | Can you backtest CRT? | Test CRT | VIEWER REQUES
+[    6s] A lot of you asked me to test | CRT. | Candle Range Theory? | VIEWER REQUEST
+[    7s] 2020 | 2021 | EUR/USD, | So | tested it on EUR/USD from 2020 to 2026.
+[    8s] 2022 | 2023 | 2024 | 2025 | 2026 | EUR/USD - 4H CANDLES
+[    9s] EUR/USD - 4H CANOLES | EUR/USD, 2020 to 2026.
+[   10s] One seTuP
+[   11s] awe
+[   12s] Here’s how it works | Here’s how it works. | RULES | wanes”
+[   13s] Mark the | Mark the four-hour candle range. | THE RULES
+[   14s] 44 HIGH | 4H Low | EUR/USD - H4 | Mark the 4H candle range.
+[   15s] Wait for price to sweep it | and break market structure.
+[   16s] EUR/USD ~ | ~~ wereep IL.
+[   17s] ..and break market structure.
+[   18s] (eurvuso - Ha |
+[   19s] Find an order block | Find an order block on the 15-minute chart. | airs
+[   20s] 15-minute chart. | 15M ORDER BLOC | Find an order block on the
+[   21s] 45M ORDER BLOCK | Then enter on the five-minute chart. | [un/uso - wis + ws | | aad | | coe
+[   22s] Enter on the 5-minute chart | SM ORDER BLOCK
+[   23s] = |lUlUL | ‘ORDER BLOCK
+[   24s] P ena | Stop behind the sweep. | Stop behind |, _
+[   25s] Target three times the risk. | ‘STOP Loss
+[   26s] Ca i | ENTRY | LLUSTRATIVE SETUP | TAKE PROFIT - 3A | Target: 3x the risk. | feet
+[   27s] (NTERPRETATION A | AUN | EUR/USD | INTERPRETATION 8 | M15 + MS | eeu | po ie
+[   28s] CRT is discretionary. | DISCRETIONARY | INTERPRETATION @ | INTERPRETATION A
+[   29s] Different traders can interpret | the same chart differently. | | iF i
+[   30s] INTERPRETATION & | ORDER BLOCK? | Same chart.
+[   31s] I's i | INTERPRETATION 8 | Ih i | Same chart. Different | readings
+[   32s] Bil | I's a] | INTERPRETATION & | ORDER A | Poy | So | tested one fixed version.
+[   33s] So | tested one fixed version | ism 08 | [sw extaY | sweep | ase | “aH RANGE
+[   34s] (ar mance ) [Sueer | 5m 08 |{ 5 ENTAY | Beget? | [ioverernen nuceseri) | tay
+[   35s] 5M 08 | And by the way, if you want to | QUANTLAB COMMUNITY | QuantLab | SweeP | learn more about QuantLab, | “aH RANG:
+[   36s] ) QuantLab | Free trading | OMMUNITY | QUANTLA | community. | | owe Frxep nuLEser |
+[   37s] join our free community | through the link in our bio. | | one FIXED nULESEY |
+[   38s] LINK IN BIO | Q) QuantLab | QUANTLAB COMMUNITY
+[   39s] ) QuantLab | OMMUNITY | QUANTLAB
+[   40s] Lae | Now, the raciiite | Now, the results. | ONE TRADE = ILLUSTRATY | THE RESULTS | Wee
+[   42s] 065 | 2020-2026 | 565 trades. | EUR/USD | Lit | Sa5n8 | TRADES
+[   43s] 563 | Lil | Seee8
+[   44s] 221% | Awin rate of 28.9%. | MOST TRADES LOST | PTT) | WIN RATE
+[   45s] 28.9% | SESe58 | SSeeee8
+[   46s] 2 Bi | Liii | Lil | Lill | Lit | Losses | Pils | aan | tii | wINS
+[   47s] And after costs, plus 19.7R. | ILLUSTRATIVE PATH - REAL TOTALS | QQ O
+[   48s] +19.7R | AFTER COSTS | ILLUSTRATIVE PATH | NET | REAL TOTALS
+[   50s] But the maximum | But the maximum drawdown? | PEAK
+[   51s] 000 | 31.5R.
+[   52s] MAX DRAWDOWN
+[   53s] Bigger than the entire profit. | MAX ORANDOMN | NET PROFIT
+[   54s] +19.7R | -31.5R | Bigger than the entire profit
+[   55s] Now here’s the interesting part. | THE HOURS | Wax oRAWOCniN
+[   56s] 05:00 | Now here’s the interesting | part.
+[   57s] 1,5 and 9 o'clock candles. | THE | The strategy focuses on the | e strategy focuses on
+[   58s] 01:00. | 1, 5 and 9 o'clock candles. | and | e strategy focuses on 1,5
+[   59s] 01:00 | 05:00 | 1,5 and 9 o'clock candles. | HOURS | The strategy focuses on 1,5 | and 9 o'clock.
+[   60s] 09:00 | The strategy focuses on 1, 5
+[   61s] So | tested the | So | tested the other three four-hour candles | THE HOURS
+[   62s] 13:00 | So | tested the other three | So | tested the other three four-hour candles. | fet )
+[   63s] 17:00 | 20 | tested the other three. | 21:00 | 91:00
+[   64s] *SrHfen Hours | 01:00 | 158 08 | 15M 08 | 4H RANGE | 5M ENTRY | ORIGINAL HOURS | Same rules. | Same rules. Different hours. | Sweep | nse | su ENTRY | weer
+[   65s] *SHfen Hours | 01:0 | 15 08 - SM ENTRY | 18M OB - SM ENTRY - 1:3 | 4H RANGE ~ SWEEP - MSB | 4H RANGE » SWEEP - SB.
+[   66s] +19.7R | ORIGINAL - 01 05 09 | The original hours | The original made 19.7R.
+[   67s] AOATN | The original hours:
+[   68s] 01 05 09 | ORIGINAL
+[   69s] ORIGINAL - 01 05 09 | OTHER - 13 47 21 | The other hours?
+[   70s] +041 | +88.8R | 17 - 21 NY | ORIGINAL - @2 05 09 | OTHER HOURS | OTWER - 13 17 21 | Plus 88.8R.
+[   71s] 01 05 09, | 43:47 21 | 47 - 21 NY | ORIGINAL | OTHER HOURS - | omHeR
+[   72s] +88.8R | 01 05 09 | 13:47 22 | 45x | OTHER | Over four times as much. | TOTAL NET R | VS ORIGINAL HOURS
+[   73s] = dotanek | Rent,
+[   74s] +" ty i | | AHEAD | But there’s another twist | but tnere’s another twist.
+[   75s] K-AH | MY FIRST BACKTEST | My first backtest showed plus 57.2R. | a ay | att | yg t I
+[   76s] +5 /.2R | a iy ' I | ate
+[   77s] Hol eR | a “at 1. qf
+[   78s] +" ages i. a] | CAND) | CANDLE | LOOK-AHEAD ERROR | Then | found a look-ahead error. | he 1
+[   79s] ONLY KNOWN LATE! | STOP = FULL-CANDLE Lt ow | Then | found a look-ahead | a met i iL i, | error.
+[   80s] +" mye! 1. i] | AVATLABLE wow | ONLY KNOWN LATER | It used information that | MANIPULATION CAN! | STOP = FULL-CANDLE Low | oh i F | wasn’t available at entry. | we Low
+[   81s] AROF | It used information | ONLY KNOWN LATE! | eel
+[   82s] ABLE now | ONLY KNOWN LATER | CORRECTED STOP | It used information not | LOOK-AHEAD ERROR | aril | available at entry.
+[   83s] APTER CORRECTION | After fixing it, only 19.7R remained.
+[   84s] AFTER CORRECTION | BEFORE CORRECTION | es +5727
+[   85s] +19./R | +572R | LOOK-AHEAD TRADES RECALCULATED. | ME 1972
+[   86s] MS «197h
+[   87s] So does CRT | So does CRT actually work?
+[   88s] +19.7R NET | +88.8R OTHER HOURS | | VERDICT
+[   89s] The results are interesting, but | they don’t prove a reliable edge.
+[   90s] Interesting. | ee Ae
+[   91s] Not conclusive.
+[   93s] +19.7R | +88.8R | 49:37 21 | And the supposedly important hours | OTHER | SELECTED - 02 05 09 | The “important” hours | weren't even the best in this test.
+[   94s] 49:37 22 | NOT THE BEST | SELECTED - 01 05 09 | WERE | samen we
+[   95s] ELECTED - 01 05 09 | The “important” hours weren’t | even the best.
+[   97s] ) QuantLab | Follow for more trading strategies | More backtests. | More strategies. | mae Wy 0 | tested against real data.
+[   98s] @) QuantLab | Follow QuantLab. | Real data. | mae
+[   99s] mae WW

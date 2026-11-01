@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7699860429819923745
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-23
+duration_s: 82
+views: 6728  likes: 228  comments: 5
+frames: 82, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 24 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+How do you set your Stop Loss? 👀📊 ATR-based or fixed? We tested both approaches on the Nasdaq to find out which one actually performs better. Does adapting your stop to market volatility really make a difference? Which one do you use? 👇 #trading #daytrading #nasdaq #tradingstrategy #algotrading

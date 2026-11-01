@@ -1,0 +1,21 @@
+language: en (100%)
+[   0.0-   4.6] I tested candle range theory and I really didn't expect these results.
+[   4.6-  11.6] A lot of you asked me to test CRT, so I tested it on EuroUSD from 2020 to 2026.
+[  11.6-  15.2] Here's how it works. Mark the 4 hour candle range.
+[  15.2-  18.6] Wait for price to sweep it and break market structure.
+[  18.6-  23.6] Find an order block on the 15 minute chart, then enter on the 5 minute chart.
+[  23.6-  27.4] Stop behind the sweep. Target 3 times the risk.
+[  27.4-  32.2] CRT is discretionary. Different traders can interpret the same chart differently,
+[  32.2-  36.5] so I tested one fixed version. And by the way, if you want to learn more about
+[  36.5-  40.0] Quantlab, join our free community through the link in our bio.
+[  40.0-  49.6] Now the results. 565 trades, a win rate of 28.9%, and after costs plus 19.7R.
+[  49.6-  55.2] But the maximum drawdown? 31.5R, bigger than the entire profit.
+[  55.2-  60.8] Now here's the interesting part. The strategy focuses on the 1, 5, and 9 o'clock candles.
+[  60.8-  65.7] So I tested the other 3 4 hour candles. Same rules, different hours.
+[  65.7-  73.3] The original made 19.7R. The other hours? Plus 88.8R. Over 4 times as much.
+[  73.3-  78.2] But there's another twist. My first back test showed plus 57.2R.
+[  78.2-  82.3] Then I found a look ahead error. It used information that wasn't available at
+[  82.3-  89.1] entry. After fixing it, only 19.7R remained. So does CRT actually work?
+[  89.1-  92.6] The results are interesting, but they don't prove a reliable edge.
+[  92.6-  96.4] And the supposedly important hours weren't even the best in this test.
+[  96.4- 100.5] Follow for more trading strategies tested against real data.

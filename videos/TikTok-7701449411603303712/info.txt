@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7701449411603303712
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-27
+duration_s: 90
+views: 17200  likes: 886  comments: 44
+frames: 90, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 30 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+What if most market movements are just noise? 👀📊 We tested the Noise Band strategy across 2,000 blind tests to see if it actually has an edge. Sometimes the simplest trading ideas are the most interesting. Would you trade a strategy like this? 👇 #trading #daytrading #priceaction #tradingstrategy #quanttrading

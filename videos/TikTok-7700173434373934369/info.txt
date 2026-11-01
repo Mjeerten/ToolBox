@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7700173434373934369
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-24
+duration_s: 73
+views: 28300  likes: 934  comments: 43
+frames: 73, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 27 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Would you trust a Martingale trading bot? 👀🤖 Martingale bots often look profitable until the market moves against them. But what happens if we add a Stop Loss? We tested it on Gold to see if it actually makes the strategy safer. Would you trade a bot like this? 👇 #trading #daytrading #goldtrading #tradingbot #algotrading

@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7702004112338046240
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-29
+duration_s: 81
+views: 8894  likes: 527  comments: 24
+frames: 81, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 22 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Do you trade Supply & Demand zones? 👀📊 One of the most popular concepts in trading. But do these zones actually give you an edge? We put Supply & Demand to the test on Nasdaq to find out. How do you trade these zones? 👇 #supplyanddemand #smartmoneyconcepts #icttrading #priceaction #daytrading

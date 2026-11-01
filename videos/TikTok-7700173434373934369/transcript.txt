@@ -1,0 +1,30 @@
+language: en (100%)
+[   0.0-   3.3] Does a martingale bot survive if you add one stop?
+[   3.3-   4.3] A viewer wrote,
+[   4.3-   6.9] just add a four stop after the third double.
+[   6.9-   9.6] 48 people liked it, so I did.
+[   9.6-  12.2] The bot buys gold, price drops.
+[  12.2-  14.4] It buys again, double the size.
+[  14.4-  17.0] One small bounce closes the whole stack.
+[  17.0-  20.4] Without a stop, it won 99% of its cycles
+[  20.4-  23.0] and still blew up 79 times.
+[  23.0-  27.3] The account fell from 907,000 to 12.7,000.
+[  27.4-  30.2] I tried the second, third and fourth double.
+[  30.2-  32.2] Same gold, same costs.
+[  32.2-  33.6] Which one do you think saved it?
+[  33.6-  36.5] Stop after two, 84% winners.
+[  36.5-  38.6] The average cycle still lost money.
+[  38.6-  42.2] The viewers stop after three, 90% winners
+[  42.2-  44.0] and still a loser on average.
+[  44.0-  46.0] Except I tried one more double.
+[  46.0-  49.6] Stop after four, 94% winners.
+[  49.6-  52.0] Four blow-ups instead of 79.
+[  52.0-  54.7] The only version that made money per cycle.
+[  54.7-  57.7] The tight stops lost a little, over and over.
+[  57.7-  59.1] The loose one won.
+[  59.1-  61.4] But that was one long gold rally.
+[  61.4-  66.0] Even the winner fell from 172,000 to 33,000.
+[  66.0-  68.1] The stop didn't remove the big loss.
+[  68.1-  69.9] It chopped it into small ones.
+[  69.9-  71.9] Follow if you want to see what this bot does
+[  71.9-  73.3] when gold stops going up.

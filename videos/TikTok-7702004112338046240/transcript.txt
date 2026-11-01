@@ -1,0 +1,26 @@
+language: en (100%)
+[   0.0-   2.8] Do supply and demand zones actually work?
+[   2.8-   8.4] I tested over 3,000 zones on the NASDAQ, and the results surprised me.
+[   8.4-  12.9] Supply and demand is one of the most popular trading concepts, but every trader draws these
+[  12.9-  14.4] zones differently.
+[  14.4-  20.2] So I created one fixed set of rules and tested them from 2020 to 2026.
+[  20.2-  24.9] We mark the zone after a strong price move and enter when price returns.
+[  24.9-  26.8] Stop behind the zone.
+[  26.8-  28.3] Target twice the risk.
+[  28.3-  30.8] And by the way, want to know more about Quantlab?
+[  30.8-  32.6] Check out the link in our buyer.
+[  32.6-  38.9] Across 1,505 trades, the strategy made 41.6R after costs.
+[  38.9-  40.0] Sounds good, right?
+[  40.0-  45.9] But against 1,000 random simulations, 137 performed even better.
+[  45.9-  48.2] Then I separated the trading sessions.
+[  48.2-  51.3] London lost 0.2R per trade.
+[  51.3-  52.3] But New York?
+[  52.3-  57.5] Plus 0.312R per trade, with a 48% win rate.
+[  57.5-  59.3] And here's the surprising part.
+[  59.3-  63.3] Only 38% of that advantage actually came from the zones.
+[  63.3-  66.4] The rest came from trading direction and timing.
+[  66.4-  68.9] So supply and demand wasn't the whole edge.
+[  68.9-  70.9] The trading session mattered more.
+[  70.9-  74.3] And remember, this was just one mechanical interpretation.
+[  74.3-  77.6] Discretionary traders may trade these zones differently.
+[  77.6-  81.6] So Quantlab, for more trading strategies, tested with real data.

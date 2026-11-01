@@ -1,0 +1,39 @@
+language: en (100%)
+[   0.0-   4.8] Does FX Alex G's swing strategy really win 65% of the time?
+[   4.8-   7.6] He claims 60 to 65%.
+[   7.6-  11.4] Follow us if you want to see more strategies tested with real data.
+[  11.4-  13.3] The rules sound simple.
+[  13.3-  14.6] Weekly trend up?
+[  14.6-  15.7] Long's only.
+[  15.7-  17.6] Daily chart breaks the same way?
+[  17.6-  18.5] Enter.
+[  18.5-  20.0] Stop where you'd be wrong.
+[  20.0-  21.8] Target twice your risk.
+[  21.8-  26.0] So I tested it across 17 markets going back to 2009.
+[  26.0-  27.8] What win rate would you guess?
+[  27.8-  29.1] 42%.
+[  29.1-  33.4] But with a target twice your risk, you only need to win a third of your trades.
+[  33.4-  34.8] So it made money.
+[  34.8-  35.8] Barely.
+[  35.8-  39.5] He also claims this week's candle tells you what happens next week.
+[  39.5-  42.4] Almost 15,000 weeks of data.
+[  42.4-  43.6] Same direction?
+[  43.6-  45.4] Exactly half the time.
+[  45.4-  46.6] A coin flip.
+[  46.6-  49.1] So which rule was actually doing the work?
+[  49.1-  51.3] I removed the weekly trend filter.
+[  51.3-  54.3] With it, plus 34.4R.
+[  54.3-  57.5] Without it, minus 61.2R.
+[  57.5-  59.0] The candle was noise.
+[  59.0-  60.9] The trend was the strategy.
+[  60.9-  62.6] But the edge is thin.
+[  62.6-  65.9] The worst losing streak was 48.6R.
+[  65.9-  67.8] Bigger than the entire profit.
+[  67.8-  70.6] And a typical trade lasted around three weeks.
+[  70.6-  72.9] Yet he presents it on a weekly chart.
+[  72.9-  74.6] 65% win rate?
+[  74.6-  75.8] Not in my test.
+[  75.8-  77.5] The win rate wasn't the edge.
+[  77.5-  79.8] The trend was doing the heavy lifting.
+[  79.8-  82.8] But does that trend still hold up with a different exit?
+[  82.8-  85.8] Follow, because that's the one thing I haven't broken yet.

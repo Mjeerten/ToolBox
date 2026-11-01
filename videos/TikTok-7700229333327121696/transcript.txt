@@ -1,0 +1,31 @@
+language: en (100%)
+[   0.0-   4.7] Our simplest NASDAQ strategy returned 508% in our backtest.
+[   4.7-   6.6] And now, it's trading live.
+[   6.6-   7.9] Here's how it works.
+[   7.9-  10.8] Every day, we wait for the New York market to open.
+[  10.8-  14.8] Then, we watch just one candle, the first five minutes.
+[  14.8-  17.7] If it closes above the 12 EMA, we buy.
+[  17.7-  19.8] If it closes below, we sell.
+[  19.8-  21.4] And by the way, if you want to test
+[  21.4-  23.3] this exact trading bot for free,
+[  23.3-  25.0] check out the link in our bio.
+[  25.0-  27.6] But the entry is only half the strategy.
+[  27.6-  29.8] Instead of taking a small fixed profit,
+[  29.8-  32.2] the algorithm lets winning trades run.
+[  32.2-  33.9] As the market moves in our favor,
+[  33.9-  35.6] the stop follows the trend.
+[  35.6-  37.8] And that's where things get interesting.
+[  37.8-  39.5] Over six years of backtesting,
+[  39.5-  43.2] the strategy generated more than 1,400 trades
+[  43.2-  48.4] with a win rate of 57% and a total return of 508%.
+[  48.4-  50.2] But a backtest is one thing.
+[  50.2-  52.3] Real market conditions are another.
+[  52.3-  54.4] That's why we took the strategy live.
+[  54.4-  57.5] Now, the algorithm executes its trades automatically
+[  57.5-  60.4] without emotional decisions or manual entries.
+[  60.4-  63.6] And we're tracking how it performs outside the backtest.
+[  63.6-  65.5] One candle, one decision,
+[  65.5-  67.8] and an algorithm that handles the rest.
+[  67.8-  69.4] If you want to see the actual trades
+[  69.4-  70.9] and follow the live results,
+[  70.9-  73.6] join our free community through the link in our bio.
