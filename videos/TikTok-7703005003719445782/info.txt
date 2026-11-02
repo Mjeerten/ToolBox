@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXYVdJG/
+uploader: milofin_ (7494021885983294486)
+date: 2026-11-01
+duration_s: 7
+views: 93500  likes: 2006  comments: 14
+frames: 7, one every 1 s (frames/0001.jpg = second 0); sheets: 1 (12 frames each; 6 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+#iphone #mining
