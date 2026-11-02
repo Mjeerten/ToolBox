@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdX2fC3R/
+uploader: fluxchart (7350169716595639338)
+date: 2026-11-02
+duration_s: 22
+views: 6342  likes: 240  comments: 3
+frames: 23, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 19 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+FREE Indicator Finds Zones With REAL Volume Behind Them! 📊 #tradingview #tradingindicator #smartmoneyconcept
