@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@quantedge7/video/7702227574893628704
+uploader: quantedge7 (7578457107675235350)
+date: 2026-10-29
+duration_s: 57
+views: 1150  likes: 17  comments: 0
+frames: 58, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 21 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+A New strategy on the most competitive Assets -the NQ, inspired from a real Hedge Fund Manager. If this sounds good -Follow for more

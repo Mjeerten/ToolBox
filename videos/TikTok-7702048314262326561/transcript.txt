@@ -1,0 +1,10 @@
+language: en (100%)
+[   0.0-   7.5] This NASDAQ futures strategy made money every single year since 2018, but it only earns $35 per trade.
+[   8.1-  10.7] The idea from trader Mateo Conti.
+[  11.0-  17.6] Trade with the day's trend. When NQ is above a rising VWAP, wait for a small red candle and buy the dip.
+[  17.9-  23.5] Below a falling VWAP, it's the mirror image. Small target, wide stop, flat by the close.
+[  23.5-  29.6] I tested it with real orders. One NQ contract, 2018 to 2026.
+[  30.6-  37.0] After fees, plus $196,000. And 62% of trades are winners.
+[  37.0-  43.1] It's a newer strategy, and it has done really well lately. Plus $76,000 since 2024.
+[  43.8-  50.9] To catch, the edge per trade is thin. $35. So is there an edge? Unclear for now.
+[  50.9-  57.0] It works in today's NASDAQ, but there's little room for error. Follow for the next test.

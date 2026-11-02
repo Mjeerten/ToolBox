@@ -1,0 +1,46 @@
+[    0s] 2017-2026 | BACKTEST | Wins
+[    1s] 1B fi | 66% OF TRADES WIN | Backtest, | Past results don't predict future | Real orders, | Simulated $1.6" | This Nasdaq strategy wins 2 | Wins 2 of 3 | count, | eee | ees, | isk per trade. | no extra slippage modeled | not financial advice. | out of | returns.
+[    2s] 4% risk per trade. | IB fees, | Real oxders | account, | returns
+[    3s] % xisk per trade. | Real orders, | returns.
+[    4s] * 2026 | 1% risk per trade. | 12.4% | 2017 was | 412.2% | 417.2% | 46.9% +22.6% +1.2% | And every single year since | Every year green | Jul | RETURN PER YEAR
+[    5s] + 2026 | +12.4% | 4% risk per trade. | 422.6% | 45.5% | July | no extra slippage modeled.
+[    6s] 124 | 4% xisk per trade. | 412.4% | Past results don | predict future | to July
+[    7s] "| Asked a Hedge Fund | @ VAULT BREAK - 30 MIN - LONG ONLY | It's called Vault Break, | MATTEO CONTI | Manager His TOP3 | SOURCE | Strategies" | THE RULES | The Vault Break | YOUTUBE
+[   13s] 30-MIN CANDLES | Each day, measure how far the | ILLUSTRATIVE | Nasdaq | The normal range | ee ee OPEN | normal daily range
+[   14s] = CEE CORE SEU CSTE IS OOS SR: eben | OPEN
+[   15s] = CRISES RSS SOUR: CITE REIS CUR REO RE Gabbe ta
+[   16s] Above the noise, | Saris. | buy
+[   18s] er 2a
+[   19s] OPEN
+[   20s] NQ - 30-MIN CANDLES
+[   21s] 30-MIN CANDLES | Theo px | ise
+[   22s] +40 PTS | Heeoe tee eect Boe bo. | wed __
+[   23s] +40 / -75 points | Cees Hee pecs boast | inn
+[   24s] ee ee | far
+[   25s] fal | oe Se ee He hl,
+[   26s] +40 PTS ------------------------ | AFTERNOON EXIT | Hic
+[   27s] Backtest, | IB fees | LONG | ONLY | Pas | Real orders | THE RESULTS | UP TO 3 TRADES A DAY | d $1.6 | ice | mode. | no extra slippag | not financial | predict | returns | s don't | unt, | ure
+[   28s] (2% RISK PER TRADE | ( IB FEES INCLUDED | | 1B fe: | Simul | cou | d $1.61 | don't predict fu | res | uze
+[   29s] (1% RISK PER TRADE | (ze FEES INCLUDED | | IB fees | Nasdaq futures, risking 1% | Simulated $1.61 | accou! | e moi | financia | no e | not | per trade. | s don't predict futur
+[   30s] (1% RISK PER TRADE | IB FEES INCLUDED | | Real | Simulated $1.6" | age mot | finane | oxders | res | s don't predict future
+[   31s] (1% RISK PER TRADE | (28 Fees INCLUDED | | 1ts don't predict future | age | imulated $1.6" | not fina | ra s
+[   32s] % xisk per trade. | 1B fees, | 2.4x the account | 2017 | 2026 | 2AX | ACCOUNT GROWTH | AFTER FEES | Past results don't predict future | Real orders, | Simulated $1.6" | TAS | The account grew 2.4x. | account, | no extra slippage modeled. | not financial advice. | returns.
+[   33s] 18 fees, | 1x STAS | Past results don | predict future
+[   34s] 9.5% a year | Drawdown | IB fees, no extra slippage modeled. | PER YEAR | Past results don't predict future | That's 9.5% a year, | account, NQ, 1% risk per trade. | t -9.9%
+[   35s] 18 fees, | Backtest, not financial advice. | and the worst drop was under | no extra slippage modeled. | worst -9.9%
+[   36s] % xisk per trade. | Backtest, | ER YEAR | Past results don | account, | not financial advice. | returns | t predict future
+[   37s] FTER FEES | PER YEAR | Past results don't predict future | returns.
+[   38s] #22.6% + | % 412.2% | 10 OF 10 YEARS GREEN | 10 for | 10 years, 10 green years. | Past resul | advice. | eturns | future | isk per trade. | not financial | s don't predict
+[   39s] % risk per trade. | * 2026 to July | +3.0%8 | 10 for 10 | 412.2% | 412.4% | 417.2% | 422.6% | Past results don't predict future | not financial advice. | returns.
+[   40s] $12.4% | 1B fees,
+[   41s] 18 fees, | Losses are bigger | SIZE OF AN AVERAGE TRADE | Simulated $1 | THE CATCH | The catch: an average loss is | about | no extra slippage mo: | returns
+[   42s] IB fees | Past results don't predict £ | Real orders | Simulated $1.6" | no extra slippage mode | ure | xetuzns | xis!
+[   43s] Pas | Real | not financial advic | orders | per tr | results don't predict £ | returns
+[   44s] It only works because it wins | ccount,, | deled | imulated $1.6M | no extra slippag | not financial advice. | oxders | x trade
+[   45s] Real orders | Simulated $1.6" | account | ade | k per | no extra slippage | not financial ad | results don't predict! £ | «BUT 66% OF TRADES WIN
+[   46s] Backtest | account, | don't | financial advice. | no extra slippage modeled | not | predict £ | res
+[   47s] Backtest, | Past | imulated $1.6M | not financial advice. | predict future | results don | returns. | xisk per trade.
+[   48s] EDGE | Is there an edge? | NO EDGE | THE VERDICT | UNCLEAR
+[   50s] 10 OF 10 YEARS GREEN | IN BACKTEST | MAX DROP | yes. Small wins,
+[   53s] Follow | NEXT TEST | QuantEdge | STRATEGIES, TESTED IN PUBLIC.
+[   54s] Follow along | Follow for the next test. | STRATEGIES, | TESTED IN PUBLIC.

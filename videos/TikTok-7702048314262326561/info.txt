@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@quantedge7/video/7702048314262326561
+uploader: quantedge7 (7578457107675235350)
+date: 2026-10-29
+duration_s: 57
+views: 1411  likes: 29  comments: 0
+frames: 57, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 20 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Institutional Strategy from a Hedgefund Manager Matteo Conti #quant #daytrading #trading #Algotrading #backtest

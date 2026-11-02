@@ -1,0 +1,63 @@
+[    0s] $100k _. | $142,861 | 2017 | 2017-2026 | 2026 | ACCOUNT VALUE | AFTER FEES | BACKTEST | QQQ | SLIPPAGE
+[    1s] $100k — $809k | $633,905
+[    2s] $761,933 | 026 | ACCOUNT VALUE AFTER FEES SLIPPAGE | QaQ
+[    3s] $798 ,191
+[    4s] $808 , 067 | 2026 | ACCOUNT VALUE | AFTER FEES | SLIPPAGE
+[    5s] $808 , 622 | After fees and slippage. ]
+[    6s] QaQ
+[    7s] 1-MIN | ILLUSTRATIVE DAY | LOWER | Only outside the | Q0Q | QQQ | UPPER | ere | noise
+[   10s] 2024 | AZIZ | An Effective Intraday Momentum Strategy for | BARBON | Based on a paper | Based on the paper Beat the | Beat the Market | Market, | RESEARCH PAPER | SS&P500 ETF (SPY) | SSRN | THE SETUP | ZARATTINI
+[   12s] rebuilt on QQQ minute data | since 2017.
+[   13s] S&P500 ETF (SPY)
+[   15s] SS&P500 ETF (SPY)
+[   16s] 1 OF 4 | I measure how far QQQ usually | ILLUSTRATIVE DAY | MIN | Q0Q | THE RULES | The normal move | moves
+[   17s] | measure how far QQQ usually
+[   18s] 4-MIN | LOWER | SSS en | UPPER
+[   19s] SESS
+[   20s] 1-MIN | OPEN | The noise
+[   21s] 1 0F 4 | That's the noise area. | The noise area | gets wider 2
+[   23s] gets wider =.
+[   24s] 16:00 | 2 OF 4 | 9:30 | Check every 30 min | gets wider
+[   25s] QoQ | gets wider —
+[   26s] 3 0F 4 | Break out, follow | Q0Q
+[   27s] long here
+[   28s] 9:30
+[   29s] ehort here
+[   30s] 4 0F 4 | Back inside = out | chort here
+[   31s] ehort here
+[   32s] 4 OF 4 | chort here
+[   34s] Flat by the close | UEEER
+[   35s] 9:30 | LOWE! | MES | UPPE | ayt
+[   36s] lies plas by the close | oyt
+[   37s] After costs | Backtest, | COMMISSION $0.0035 / SHARE | SLIPPAGE 0.25 BP / TRADE | THE RESULTS | financial advice. P. | not | xesults don't predict future
+[   38s] SEES + SLIPPAGE INCLUDED | SHARE | SLIPPAGE 0.25 BP / | TRADE | dvice. Past | financial | future | predict | results don't
+[   39s] 2017-2026 | 24.776 | AFTER COSTS | LOG SCALE | PER YEAR | Past results don't predict future | Return per year | not financial advice. | returns.
+[   41s] Aa0 | Mort! | S&P 500 15.4% | [The SeP 500 made abouts] | a eS | acer | lie | ott | seyeos to” | — STRATEGY 24.7%
+[   42s] [The SeP 00 made abouts] | ootty | sayeos to”
+[   43s] 2017 | 2026 | LARGEST PEAK-TO-TROUGH DROP | Worst | —0.076
+[   44s] -14.576 | Worst drop | don't predict future | dvice. Past | not financial | result | returns
+[   45s] Past resul | don't predi | financial | ice | not | ure
+[   46s] 4 IN 10 TRADES WIN | AVERAGE SIZE | LOSER | Past resu | WINNER | Win less, | don't predict future | financial advice
+[   47s] 0000080800080 | Win less, win bigger | don't predict | future | ice. Past result | not financial ad
+[   48s] Backt:
+[   49s] Backtest | Past results don't predict future | big. | but the winners are twice as | not financial advice | returns
+[   50s] 000000800080
+[   51s] 2017 | But backtests can fool you. | EE ee | Split the data | THE—GESt
+[   52s] 2017-2022 | 2023-2026, nothing changed | Backte | Past res | THE TEST | an ae | jon | nanci | predict #
+[   53s] 2023-2026, nothing henge | Backtes | So | split the data. | don | financial | not | predict future | st res
+[   54s] 0.076 | 2017-2022 rene 7 hein changed | 2023-2026 | 2023-2026, | AFTER COSTS | PER YEAR | unchanged
+[   56s] 2017-2022 2023- = ee sage
+[   57s] 2017-2022 rene 7 hein changed | 26.976 | Backt:
+[   58s] 2'7.676 | about 28% a year.
+[   59s] (reerinSZ5] | 2017-2022 | 22.7% PER YEAR | Backtest, | Fale Seas shag | S&P 500 | returns
+[   61s] MAX 3x | POSITION SIZE FOLLOWS VOLATILITY | Past results don't predict f | THE CATCH | The catch | financial | ice | not
+[   62s] Past results don't predict £ | financial advice
+[   63s] Up to 3x leverage | nanci | predict future
+[   65s] +32.5% | 500 | A flat year | Backtest, | Past results don't | RETURNS IN 2019 | STRATEGY | not financial advice | returns
+[   66s] Backtest | financial advice | not
+[   68s] predii | ure
+[   69s] financial advice. | predis
+[   70s] Does it have an | EDGE | NO EDGE | THE VERDICT | UNCLEAR | edge?
+[   73s] AFTER COSTS | HELD UP 2023-2026 | IN BACKTEST
+[   77s] Live paper trading | NEXT TEST | Next, I trade it on paper, | QuantEdge | STRATEGIES, TESTED IN PUBLIC. | next: live paper trading —
+[   79s] ive. Follow to see if it | survives.

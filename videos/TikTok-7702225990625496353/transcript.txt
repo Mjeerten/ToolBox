@@ -1,0 +1,14 @@
+language: en (100%)
+[   0.0-   6.8] This Nasdaq strategy wins two out of three trades, and every single year since 2017 was green.
+[   6.8-  12.3] It's called Vault Break, from Matteo Conti's video on a hedge fund manager's top three strategies.
+[  12.3-  15.5] Each day, measure how far the Nasdaq usually moves.
+[  15.5-  22.0] When a 30-minute candle closes 30% of that range above the open and above VWAP, buy.
+[  22.0-  26.6] Take profit at 40 points, stop at 75, and be out by the afternoon.
+[  26.8-  31.6] I tested it with real orders on Nasdaq futures, risking 1% per trade.
+[  31.6-  38.2] The account grew 2.4 times, that's 9.5% a year, and the worst drop was under 10%.
+[  38.2-  40.7] 10 years, 10 green years.
+[  40.7-  44.9] To catch, an average loss is about 1.5 times an average win.
+[  44.9-  47.6] It only works because it wins so often.
+[  47.6-  49.2] So, is there an edge?
+[  49.2-  53.3] In the back test? Yes. Small wins, but steady ones.
+[  53.3-  55.0] Follow for the next test.

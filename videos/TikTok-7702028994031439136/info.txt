@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@quantedge7/video/7702028994031439136
+uploader: quantedge7 (7578457107675235350)
+date: 2026-10-29
+duration_s: 56
+views: 1010  likes: 15  comments: 2
+frames: 56, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 18 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Fabios Edge #quant #trading #tradingstrategy

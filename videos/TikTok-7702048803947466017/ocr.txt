@@ -1,0 +1,47 @@
+[    0s] 2016-2026 | 2022: -64% | BACKTEST | BITCOIN | BTC | RETURN IN 2022 | STRATEGY
+[    1s] -64.3% | 10% per | 2022: -64% vs | BTC/USD | Backtest | Fees 0 | don | financial advic | predict future | rade, no | tra slippage modeled
+[    2s] Fees
+[    3s] 40% per trade, no
+[    4s] -10.2%
+[    6s] a slippa | predict
+[    7s] $100 , O00 | (Coinbase). | 2016 | 2016 - JUN 2026 | 2026 | AFTER FEES | And it still turned $100,000 | Backtest, | FROM $100,000 | Fees 0.10% per trade, no extra slippage modeled. Bitcoin = BTC/USD | Past results don't predict future | Still 11x the money | into over | not financial advice. | returns.
+[    8s] $1,102,761 | (Coinbase
+[    9s] $1,122,891 | (Coinbase) . | 2016 - | BTC/USD | Bitcoin | Fees 0.10% per trade, no extra slippage modeled. | JUN 2026
+[   10s] 0% pe: | Coinbas | Fees | Pas | al ai | ct f | eturns | no extra slippage | not | odeled | pre | s don | |= Hae
+[   11s] 2025 | A Tactical Approach for Bitcoin and Altcoins | BARBON | Catching Crypto Trends | Catching crypto | PAGANI | RESEARCH PAPER | SSRN | Sliced | THE RULES | ZARATTINI
+[   15s] > Low | Asse | BTC | Buy the | DAILY CLOSES | HIGH | ILLUSTRATIVE | Soe Seccn ceo | The idea: buy Bitcoin when it | aeehe | ape | ate | breaks
+[   16s] AS SSRS SES | Buy the breakout | Soe poses oe | aos | eee; | oaa=- | sou | ~> HIGH | “7s Low
+[   17s] acd | aes | orca | out to a new high.
+[   18s] Anew. high. buy | aoe | sou
+[   19s] 9 time frames | OED | ca HIGH | ~>> Low
+[   20s] (50) (400) (200 } (300) (600 ) (900) | 150D } (2500 } (600 | | ee ee a | ~>s Low
+[   21s] (50) (400) (200 } (300) (600 ) (900) | 150D } (2500 } (3600 ]
+[   23s] = SSS aS | A soc one | Ban es | Bana | Exit at the middie | eRsos | ~> HIGH | “> Low
+[   24s] A oso one | Exit at the middle | aso: | eases: | qocew | “>> Low
+[   25s] Bees | SSS = | qoeae | see | the middle of the channel,
+[   26s] A ose on | Bitcoin gets wild. | and trade smaller when | t ad’ the middle
+[   27s] Aco oaS | SSeS SS | eres | qsoe | t at the middle | wild market — smaller size | ~>> Low
+[   29s] Backtest, | DAILY SIGNALS | Fees | LONG | ONLY | POSITION SIZE FOLLOWS | Real orders | THE RESULTS | VOLATILITY | financia | jon't predict future | no extra sl | not | odeled | per trade | resul | ¢/USD
+[   30s] nancia | results
+[   31s] TC/USD
+[   33s] TC /USD | not financial ad: | page
+[   34s] $100 , O00 | (Coinbase) . | 2016 | 2026 | ACCOUNT VALUE | AFTER FEES | After fees | BTC/USD | Bitcoin | Fees 0.10% per trade, no extra slippage modeled. | LOG SCALE | Past results don't predict future | not financial advice. | returns.
+[   35s] $1,119,863 | $100,000 grew to | mil
+[   36s] $1,122,891
+[   37s] (Coinbase | 22.676 | 26% a year | Backtest | Drawdown | Fees 0.10% per trade, no extra slippage modeled | PER YEAR | Past results don | future | not financial advice | predic | returns | worst -19.3%
+[   38s] (Coinbase) . | 25.976 | Backtest, | Fees 0.10% per trade, no extra slippage modeled. | Past results don't predict future | not financial advice. | returns.
+[   41s] And its timing beat 99% of | Back: | Fees | Not luck | SHARPE OF 3,766 TIME-SHIFTED VERSIONS | TOP 5% | financial | jon't predi | no extra sl | not | page modeled | per trade, | randomly | resu
+[   42s] (Coinbase | Backtest | Fees 0.10% per trade, no extra slippage modeled | Past results don | TOP 5%! | future | not financial advice | predict | returns
+[   43s] (Coinbase). | Backtest, | REAL 1.48 | TOP 5x1 | not financial advice.
+[   44s] (Coinbase) . | Fees 0.10% per trade, no extra slippage modeled. | Past results don't predict future | TOP 5%) | better than 77% | returns.
+[   45s] - BTC HELD $13,893,845 | 2016 | 2026 | Backtest, not financial advice. Past results don't predict future | Fees 0.10% per trade, no extra slippage modeled. Bitcoin | Les TCs | THE CATCH | The catch: just holding Bitcoin | made more. | — STRATEGY $1,122,891
+[   46s] BTC HELD $13,893,845 | INisem_ | | Less return, smaller | a slippage | c/us\ | crashes | ct f | esere | fen. | foi | id. B: | pred | res | wens | weunnt?
+[   47s] Fen. | INisem | | toi
+[   48s] Fees | INisem |e | Sen. | eee | s do | weunet? | ¢/USD | ‘a slip}
+[   49s] -83 .7% | 19.3% | BTC WORST | STRATEGY WORST | a slippa: | c/us\
+[   50s] -19 .3% | -83 . 7% | STRATEGY | WORST | anced | ‘a slip}
+[   51s] THE VERDICT
+[   52s] EDGE | Is there an edge? | NO EDGE | UNCLEAR
+[   54s] IN BACKTEST | MAX DROP -19% | OF PLACEBOS | TIMING BEAT 99%
+[   57s] but a far smoother ride.
+[   58s] Follow along | Follow for the next test. | NEXT TEST | QuantEdge | STRATEGIES, | TESTED IN PUBLIC.

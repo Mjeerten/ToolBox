@@ -1,0 +1,22 @@
+account: quantedge7 (quantedge7)
+url: https://www.tiktok.com/@quantedge7
+followers: None
+listed videos: 7 (newest first)
+
+date | views | likes | duration_s | caption | link
+2026-10-30 | 8559 | 203 | 53 | REAL MASTERCLASS, on this channel you will learn everything about quantitative trading for FREE.Not just strategies even how to build them from scratch. #daytrading #bots #quant #portfolio  | https://www.tiktok.com/@quantedge7/video/7702463144379043105
+2026-10-29 | 1150 | 17 | 57 | A New strategy on the most competitive Assets -the NQ, inspired from a real Hedge Fund Manager. If this sounds good -Follow for more  | https://www.tiktok.com/@quantedge7/video/7702227574893628704
+2026-10-29 | 2285 | 58 | 56 | A strategy on the most competitive Assets, inspired from a real Hedgefund Manager.Everything completely for FREE-> this is worth a follow #daytrading #bots #strategy #Algotrading  | https://www.tiktok.com/@quantedge7/video/7702225990625496353
+2026-10-29 | 1054 | 13 | 60 | A New Crypto Approch #daytrading #crypto #quant #Algotrading #bots  | https://www.tiktok.com/@quantedge7/video/7702048803947466017
+2026-10-29 | 1411 | 29 | 57 | Institutional Strategy from a Hedgefund Manager Matteo Conti #quant #daytrading #trading #Algotrading #backtest | https://www.tiktok.com/@quantedge7/video/7702048314262326561
+2026-10-29 | 1010 | 15 | 56 | Fabios Edge #quant #trading #tradingstrategy  | https://www.tiktok.com/@quantedge7/video/7702028994031439136
+2026-10-28 | 1818 | 42 | 81 | Noise-Area-Strategy FREE#Algotrading #Trading #Backtest #strategie #Bots  | https://www.tiktok.com/@quantedge7/video/7701845876439862561
+
+processed (newest first):
+videos/TikTok-7702463144379043105
+videos/TikTok-7702227574893628704
+videos/TikTok-7702225990625496353
+videos/TikTok-7702048803947466017
+videos/TikTok-7702048314262326561
+videos/TikTok-7702028994031439136
+videos/TikTok-7701845876439862561

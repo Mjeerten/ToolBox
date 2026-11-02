@@ -1,0 +1,43 @@
+[    0s] "26x | 1 NQ | 2018-2026 | 2026 TO JULY | AFTER FEES | BACKTEST | NET PROFIT PER YEAR | This Nasdaq futures strategy | made money every
+[    1s] 9 years, 9 green
+[    2s] * 2026 TO JULY | This Nasdaq futures strategy | made money every | nai)
+[    3s] 2026 TO JULY
+[    4s] * 2026 TO JULY | 4 NQ | nai)
+[    5s] AVERAGE NET PROFIT PER TRADE | But it only earns $35 per trade. | Only $35 a trade
+[    8s] 5-MIN CANDLES | Conti: | ILLUSTRATIVE | IQ CAPITAL | Matteo | SOURCE | THE RULES | The idea, from trader Matteo | YOUTUBE | hows the Exact VWAP Setup | onti | opriat ets Traders Funded" | —2E EEE)
+[    9s] "Ex-Market Maker Shows the Exact VWAP Setup | Matteo Conti | That Gets Traders Funded" | Trade with the trend
+[   13s] Buy the dip | VWAP | ane
+[   15s] red candle = pu
+[   16s] VWAP. | amet | red candle = pullback
+[   17s] VWAP | buy here
+[   18s] Or sell the bounce | red candle = pullbac
+[   19s] self here
+[   20s] it's the mirror image. | sell here
+[   21s] A eM eae bose eects | STOP -80 PTS | Small target, wide | TARGET +40 PTS ---- | VWAP | aee™ | ements | stop
+[   22s] Je Sem bene boest beets | See | Small target, wide stop,
+[   23s] Seeicet | flat by 15:55
+[   24s] SSS | flat by the close.
+[   25s] ( IB FEES $23,869 } (2 NQ contract | | 5,549 TRADES | Backtest, | Fills at | Real orders | THE RESULTS | fina | ion | modeled | not | predict future
+[   26s] ( IB FEES $23,869 } (2 NQ conTRACT | | est | future | predict
+[   27s] Backtest, | jodeled | t predict
+[   29s] ( IB FEES $23,869 } (2 ne conTRACT | | ion | modeled
+[   31s] 1 NQ | 2018 | 2026 | AFTER FEES | After fees | ET PROFIT | Fills at bid/ask, | Past results don | no extra slippage modeled. | not financial advice. | returns. | t predict future
+[   32s] +$189 ,841 | Fills at bid/ask, no extra slippage modeled. | NET PROFIT | Past results don't predict future
+[   33s] +$196 , 406 | ET PROFIT
+[   35s] 276 | And 62% of trades are | Fills at bid/ask, | OF TRADES ARE WINNERS | Past results don't | Wins 62% of trades | future | no extra slippage modeled. | predi | winners. | ©000000
+[   36s] 000000800080
+[   37s] Fills at bid/ask, no extra slippage modeled. | Mate) | O72 | Past results don't predict future | Strong lately | cou
+[   38s] 125 | Mele) | cea
+[   39s] and it has done really well | lately: | not financial advice. Past results don't predict future
+[   40s] 1 NQ | 2024 - JUL 2026 | AFTER FEES | Gea | Meal) | Past results don't predict future | not financial advice.
+[   41s] +$76,269 | 125 | neal | xretuzns.
+[   42s] +$76, 716 | 2024 - | JUL 2026 | neil
+[   43s] +$76,716
+[   44s] A thin edge | AVERAGE NET PER TRADE | THE CATCH | odeled | predict future
+[   45s] The catch: the edge per trade | jodeled | lis a
+[   46s] Backtest, | Fills at bid/ask, | Past results don't predict future | no extra slippage modeled. | not financial advice. | retuzns.
+[   47s] $1,600 | 80-PT STOP | Cis | Fills at bid/ask, no extra slippage modeled. | Past results don’t predict future | RISKED PER TRADE: | returns.
+[   48s] EDGE | Is there an edge? | NO EDGE | THE VERDICT
+[   49s] UNCLEAR
+[   51s] $35 A | PROFITABLE SINCE 2018 | STRONG LATELY | TRADE
+[   55s] Follow along | Follow for the next test. | NEXT TEST | QuantEdge | STRATEGIES, | TESTED IN PUBLIC.

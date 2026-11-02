@@ -1,0 +1,10 @@
+language: en (100%)
+[   0.0-   7.8] Where the Nasdaq opens inside its overnight range tells you which way to trade this strategy turned that into almost four times the money since
+[   8.0-  15.9] 2017 it's the overnight bias breakout from Mateo Conti's top three strategies video if the Nasdaq opens in the top
+[  15.9-  23.1] Third of the overnight range only go long bottom third only short then trade the breakout of the first 15 minutes
+[  23.1-  29.1] But only when the trend is strong small stop target three times the risk and be out by the afternoon
+[  29.5-  33.6] I tested it with real orders on Nasdaq futures risking 1% per trade
+[  34.3-  36.3] The account grew almost four times
+[  36.6-  44.0] That's 15 a year with a worst drop under 14 and trading with the overnight bias more than doubled the profit of a plane breakout
+[  44.3-  48.7] The catch half the trades loose and 2025 ended slightly down
+[  49.3-  56.0] So is there an edge in the back test? Yes, it passed every check I threw at it. Follow for the next test

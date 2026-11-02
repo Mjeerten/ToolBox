@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@quantedge7/video/7702225990625496353
+uploader: quantedge7 (7578457107675235350)
+date: 2026-10-29
+duration_s: 56
+views: 2285  likes: 58  comments: 8
+frames: 56, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 21 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+A strategy on the most competitive Assets, inspired from a real Hedgefund Manager.Everything completely for FREE-> this is worth a follow #daytrading #bots #strategy #Algotrading

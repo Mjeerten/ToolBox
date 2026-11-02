@@ -1,0 +1,23 @@
+language: en (100%)
+[   0.0-   4.5] In 2022, Bitcoin crashed 64%.
+[   4.5-  10.1] This strategy lost just 10, and it still turned $100,000 into over a million.
+[  10.1-  15.4] It's from the paper Catching Crypto Trends by Zaratini, Pagani, and Barbon.
+[  15.4-  16.4] The idea?
+[  16.4-  19.1] Buy Bitcoin when it breaks out to a new high.
+[  19.1-  23.2] Do that on nine timeframes at once, from one week to one year.
+[  23.2-  26.6] Exit when the price falls back to the middle of the channel and trades smaller
+[  26.6-  28.2] when Bitcoin gets wild.
+[  28.6-  33.5] I tested it with real orders on Bitcoin, 2016 to 2026.
+[  33.5-  37.0] $100,000 grew to $1.12 million.
+[  37.0-  38.8] That's 26% a year.
+[  38.8-  39.9] The worst drop?
+[  39.9-  41.1] 19%.
+[  41.1-  44.6] And its timing beat 99% of randomly shifted versions.
+[  45.4-  46.2] The catch?
+[  46.2-  48.2] Just holding Bitcoin made more.
+[  48.2-  51.3] But you had to sit through an 84% crash.
+[  51.3-  53.0] So, is there an edge?
+[  53.0-  53.9] In the back test?
+[  53.9-  54.6] Yes.
+[  54.6-  57.1] Less return, but a far smoother ride.
+[  57.1-  59.4] Follow for the next test.

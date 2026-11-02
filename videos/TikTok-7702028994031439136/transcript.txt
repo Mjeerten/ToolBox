@@ -1,0 +1,22 @@
+language: en (100%)
+[   0.0-   3.7] In 2022, the NASDAQ fell by a third.
+[   3.7-   6.3] This strategy ended the year almost flat,
+[   6.3-   9.1] and it never dropped more than 10%.
+[   9.1-  11.8] It's Fabio Valentini's opening range breakout,
+[  11.8-  14.4] tested in a research paper by Matteo Conti.
+[  14.4-  17.1] Mark the high and low of the first 30 minutes.
+[  17.1-  20.4] When a five-minute candle closes above the high, go long.
+[  20.4-  21.8] Stop at the range low,
+[  21.8-  24.9] target one times the risk, out by 3 p.m.
+[  24.9-  27.9] I tested it with real orders on micro NASDAQ futures,
+[  27.9-  30.3] risking 1% per trade.
+[  30.3-  34.1] $100,000 grew to $149,000.
+[  34.1-  38.5] That's 7.5% a year, with a max drawdown of 9.6.
+[  38.5-  41.1] Five of six years were green.
+[  41.1-  42.0] The catch?
+[  42.0-  45.6] Just holding the NASDAQ made more, about 16% a year,
+[  45.6-  47.8] but with far deeper drops.
+[  47.8-  49.6] So, is there an edge?
+[  49.6-  50.6] Unclear.
+[  50.6-  53.5] The edge is small, but the ride is smooth.
+[  53.5-  54.9] Follow for the next test.
