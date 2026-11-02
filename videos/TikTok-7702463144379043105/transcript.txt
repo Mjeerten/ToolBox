@@ -1,0 +1,18 @@
+language: en (100%)
+[   0.0-   2.0] Not a single losing year.
+[   2.0-   6.9] Even in 2022, when the NASDAQ crashed 30%, this made 10%.
+[   6.9-  10.3] It's a portfolio of the six strategies I tested on this channel.
+[  10.3-  14.2] Noise area, Drift VWAP, Fabio's breakout, Vault Break,
+[  14.2-  17.0] the overnight bias, and Bitcoin trend following.
+[  17.0-  20.1] Each gets one sixth of the money, rebalanced every month.
+[  20.9-  28.2] In 2017 to 2026, $100,000 grew to 405,000, 15.5% a year.
+[  28.2-  30.0] The worst drop? Just over 5%.
+[  31.1-  32.3] Why so smooth?
+[  32.3-  34.3] The strategies win on different days,
+[  34.3-  37.7] and Bitcoin trend following barely moves with the others at all.
+[  37.7-  42.1] To catch? Just holding the NASDAQ made a bit more, 18% a year,
+[  42.1-  44.0] but with a 33% crash.
+[  44.6-  46.2] So, is there an edge?
+[  46.2-  47.8] In the back test? Yes.
+[  47.8-  50.2] A little less return? A fraction of the pain.
+[  50.7-  58.1] Follow for the next test.

@@ -1,0 +1,44 @@
+[    0s] +10. 3% | +12.4% | +16.1% | +18. 6% | +20.1% | +24.4% | +27. 5% | 2017 | 2017-2026 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2026: | 6 STRATEGIES | Backtest, | O losing years | PORTFOLIO | Real orders and fees per strategy; no margin costs | Six backtests combined from daily returns, | no extra | not financial advice. Past results don't predict future | rebalanced monthly. | returns. | slippage.
+[    1s] * 2026 TO JUNE | +18 . 6% | 2025 | 2026« | 46.5% | 48.3%
+[    2s] -30.1% | 2022: -30% vs | Backtest | NASDAQ-1 | Past results don | RETURN IN 2022 | Real | Six bi | Str | ategy; | costs | jlexs and fees per | month1 | not financial advice | o margil | predict future | returns | slippage | str | sts combined from daily returns
+[    3s] 2022: -—30% vs | Backtest, | NASDAQ | es per s | ned from daily x | no e: | not fin | sts c | ts don't predict fu | ure | when the Nasdaq crashed
+[    4s] don't predict future | finan’ | not | resu | sts
+[    5s] +10.3% | Backtest, | Six | ateg | d monthly | fees per s | no extra | not financial advice. | predict future | rel | results don't | rs an | sts c
+[    6s] 2022: -30% vs | Past results don | Real orders and fees | Six bac | [thi ete | anced monthly | argin | costs | no m | per strateg: | sts combined from daily returns
+[    7s] Fabio ORB | nw" | It's a portfolio of the six | One portfolio | Overnight Bias." | THE PORTFOLIO | VIDEO | strategies
+[    9s] Noise Area_/———~~ | VIDEO
+[   10s] Fabio ORB — Overnight Bias-—~ | Six | VWA Pen | vio}
+[   11s] Drift VWAP nd" | Fabio ORB ~~ || Overnight Bias | Six strategies | VIDEO
+[   14s] Fal | ORB we | VWAP | e Area | vio} | vro}
+[   15s] Fabio ORB , ue | Overnight Bias ~~ | VIDEO | a im
+[   16s] Fabio ORB | ne || Overnight Bias ——~ | om i
+[   17s] 1/6 each | BTC Trend ~~~ | Fabio ORB nena | Overnight Bias TF | VIDEO #03 | VIDEO #04 | VIDEO #05 | VIDEO #06 | Vault Break a
+[   18s] Overnight Bias | e Area "BB
+[   19s] <, || overnight Bias — | Area er | Fabio ORB | VIDEO | VWA Pe | vio}
+[   20s] Fabio ORB << || Overnight Bias ——"~ | VWA | e Area__———__ | ori vwar
+[   21s] $100 , O00 | 2017 | 2026 | 4x the money | Backtest, not financial advice. Past results don't predict future | FROM $100,000 | From 2017 to 2026, | JAN 2017 | JUN 2026 | LOG SCALE | Real orders and fees per strategy; | Six backtests combined from daily returns, rebalanced monthly. | THE RESULTS | no extra | no margin costs, | returns. | slippage.
+[   23s] $100,000 grew to $405,000. | $274 ,013 | Backtest, | Past results don’t predict future | Six backtests combined from daily returns, | not financial advice. | rebalanced monthly
+[   24s] $404 ,665 | Real orders and fees per strategy; no margin costs | rebalanced monthly.
+[   25s] Past results don't predict future | Real orders and fees per strategy; | no margin costs,
+[   26s] $404,665 | not financial advice. Past results don't predict future
+[   27s] 15.5% a year | 15.5% a year. | 15.576 | Drawdown | PER YEAR | jorst -5.3%
+[   28s] Past results don't predict future | The worst drop: | not financial advice. | worst
+[   29s] Real orders and fees per strategy; no margin costs | Six backtests combined from daily returns, rebalanced monthly. | just over 5%.
+[   30s] 15.5 | BEG E) IN | Real orders and fees per strategy | mh Wr | no margin cost:
+[   31s] 2017 | 2026 | Different days | EACH STRATEGY | Lees | Real orders and fees per strategy; | Six backtests combined from daily re: | WHY IT WORKS | Why so smooth? | costs, | no margi | not financial advice | rebalanced monthly | returns | slippage | xns | — PORTFOLIO
+[   32s] Past results don | Real orders | Six bac | SoA | The strategies win on different | ani | days. | dvice | ed monthly | fees | inert | jacktest, | ly re | ned fron | no ma: | not financial | per | predict future | reba | sli | strategy; | sts co | woe | — EACH STRATEGY
+[   33s] Backtest, | Looe | Real | Six backtests combined from | and fees per s | daily ret | no ex | no margin cost: | not financial advice. | rebalanced monthly | slippage | trategy; | xdex:
+[   34s] And Bitcoin trend following | Backtest, not financial advice. Past results don't predict future | CORRELATION WITH BITCOIN TREND | MOVES | Real orders and fees per strategy; no margin costs, no extra | Six backtests combined from daily returns, rebalanced monthly. | TOGETHER | barely moves with | returns. | slippage.
+[   35s] -0.02 | -0.04 | 0.01 | 0.03 | Backtest, | Bitcoin runs alone | DRIFT VWAP | FABIO ORB | NOISE AREA | OVERNIGHT BIAS | Past results don't predict future | Real orders and fees per | Six | VAULT BREAK | advice | backtests combined from daily returns | egy | no extra | no margin | not financial | onthly | page | reb; | returns
+[   36s] 0 — independent | Past results don | Real orders and fees per strategy; | Six backtests combined from daily returns | no margin costs, | not financial advice. | predict future | rebalanced monthly. | slippage
+[   37s] NOISE ARE, | Past | Real ord | Six backt | ategy | costs | ers and | fees per s | ned from daily returns | no margi | not financial advice | onthly. | page | results don’t predict £ | sts co | ure
+[   38s] 2017 | 2026 | Backtest | NASDAQ-100 $495,364 | Nasdaq made | Nasdaq: more pain | Pate | Six | THE CATCH | The catch: just holding the | bined fro | ders an | egy | es per | financial advice | igre | ly ret | no ex | not | oogee. | results don't predic | sts | — PORTFOLIO $404,665
+[   39s] aa3- | daily ret | dexs an | dvice | egy; | jonthly | ooh? | seen | xesults don't predic
+[   40s] Six | al ad’ | ders an | eatie Ss | eek? | eget | egy | fees per | no margi | st results don't predic | sts combined from daily returns, r
+[   41s] 026 | Backtest, | Past results don't predict future | Real orders | Six backtests combined from daily returns | a bit more, | an3- | and fees per | financial advice. | hey | no extra | no margin co | oogee. | ppage | rebalanced monthly. | returns | tegy;
+[   42s] -33.5% | 18% a year. | NASDAQ WORST | PORTFOLIO WORST | Past results don't predict | Real | Six | age | costs | ders a | ests co! | fees | jacktest | margi | ned from daily retur | need | no ex | not finai | per s | tegy | ure | vice
+[   43s] Nasdaq: | Past | al advice | crash | daily ret | don't predict future | ed fro | ests | fees per s | jacktest, | more pain | no extra | no mar | not fina | onthly | ppage | resul | xders a
+[   44s] Backtest, | Nasdaq: more pain | cos’ | extra | fees | ice | lanced | ned from daily ret | not finane | per s | res | rs a | —33.59
+[   45s] EDGE | Is there an edge? | NO EDGE | THE VERDICT | UNCLEAR
+[   47s] IN BACKTEST | SHARPE 1.97 VS 0.85 | WORST YEAR
+[   51s] Follow along | Follow for the next test. | NEXT TEST | QuantEdge | STRATEGIES, | TESTED IN PUBLIC.

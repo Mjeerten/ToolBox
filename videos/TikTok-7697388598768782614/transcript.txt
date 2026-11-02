@@ -1,0 +1,195 @@
+language: en (100%)
+[   0.0-   2.4] One candle is all you need.
+[   2.4-   5.7] This one candle paid four times the risk,
+[   5.7-   9.3] and it shows up on every market every single day.
+[   9.3-  12.3] Price swept the low, closed back inside the range,
+[  12.3-  14.3] and ran straight to the high.
+[  14.3-  16.0] Most traders mark this range,
+[  16.0-  17.9] then get swept right out of it.
+[  17.9-  19.2] By the end of this video,
+[  19.2-  21.1] you'll know how to mark the range,
+[  21.1-  24.4] which sweep is real, and where your entry goes.
+[  24.4-  25.3] Stay till the end,
+[  25.3-  27.6] because the last part is the checklist I run
+[  27.6-  30.3] before every single CRT trade.
+[  30.3-  33.3] Let's take that trade apart one step at a time.
+[  33.3-  38.3] XAUUSD, London Session, 1 a.m. New York Time, four hour chart.
+[  38.6-  43.0] This big red candle from 1 a.m. to 5 a.m. is my range.
+[  43.0-  45.2] It's high is the CRT high.
+[  45.2-  47.5] It's low is the CRT low.
+[  47.5-  49.9] Above the high sits buy side liquidity,
+[  49.9-  52.6] and below the low sits sell side liquidity.
+[  52.6-  55.5] Traders who shorted this drop have stops above it,
+[  55.5-  57.9] and late buyers have stops under it.
+[  57.9-  61.1] Then the next four hour candle opens at 5 a.m.
+[  61.1-  63.0] I don't guess which way it goes.
+[  63.0-  65.5] I wait for it to take one side first.
+[  65.5-  67.5] Now I drop to the five minute.
+[  67.5-  71.4] Around 7.30 a.m., price slips under the CRT low.
+[  71.4-  73.4] The stops below it get taken.
+[  73.4-  74.9] But a sweep only counts
+[  74.9-  77.6] when price closes back inside the range,
+[  77.6-  79.0] and this five minute candle
+[  79.0-  81.9] closes right back above the CRT low.
+[  81.9-  84.2] There it is, the manipulation.
+[  84.2-  85.9] Now I need a shift.
+[  85.9-  89.0] Price pushes up and closes above the last lower high
+[  89.0-  90.1] on the five minute.
+[  90.1-  91.4] Structure has shifted,
+[  91.4-  94.0] and the push left a fair value gap behind.
+[  94.0-  96.2] I measure the gap from top to bottom.
+[  96.2-  99.5] The middle, the consequent encroachment, is my entry.
+[  99.5- 102.1] Price dips back into it, long.
+[ 102.1- 104.9] My stop goes below the wick that swept the low.
+[ 104.9- 107.0] If price trades back under that wick,
+[ 107.0- 109.0] the sweep failed, and I'm out.
+[ 109.0- 111.0] My target is the CRT high
+[ 111.0- 112.8] on the other side of the range.
+[ 112.8- 115.2] Halfway up sits the range 50%,
+[ 115.2- 117.4] a natural place for a partial.
+[ 117.4- 120.4] Price runs through the 50% and keeps climbing.
+[ 120.4- 122.8] Take profit hit at the CRT high.
+[ 122.8- 128.7] Four times the risk from one candle's high and low.
+[ 128.7- 131.7] So what is candle range theory really?
+[ 131.7- 134.1] Every candle has a high and a low.
+[ 134.1- 136.8] CRT treats that range like a box,
+[ 136.8- 139.5] and inside it price does three things.
+[ 139.5- 141.1] First, the range.
+[ 141.1- 144.6] One higher timeframe candle sets the high and the low.
+[ 144.6- 146.5] Second, manipulation.
+[ 146.5- 149.3] The next candle runs one side of that range.
+[ 149.3- 152.8] The stops above the high or below the low get taken.
+[ 152.8- 154.1] That's the sweep.
+[ 154.1- 155.8] Third, distribution.
+[ 155.8- 157.5] Price closes back inside
+[ 157.5- 159.7] and delivers to the other side of the range.
+[ 159.7- 162.4] If you know ICT's power of three,
+[ 162.4- 165.4] accumulation, manipulation, distribution,
+[ 165.4- 168.8] this is the same idea packed into one candle.
+[ 168.8- 171.1] And a failed break of an old high or low
+[ 171.1- 174.3] has its own ICT name, turtle soup.
+[ 174.3- 176.7] This is the part no one tells you about.
+[ 176.7- 178.9] The sweep is not the signal.
+[ 178.9- 181.2] The close back inside is.
+[ 181.2- 184.4] A wick below the low with a candle that closes below it
+[ 184.4- 185.7] isn't a sweep.
+[ 185.7- 187.7] That's price leaving the range.
+[ 187.7- 190.0] And if price never takes either side,
+[ 190.0- 191.5] there's no trade at all.
+[ 191.5- 193.1] I just wait for the next candle.
+[ 193.1- 195.3] So why does it run to the other side?
+[ 195.3- 197.1] The traders who sold the breakdown
+[ 197.1- 199.1] are now trapped below the range.
+[ 199.1- 201.2] Their stop losses are buy orders.
+[ 201.2- 204.1] And as they get hit, they push price back up.
+[ 204.1- 207.4] And the pool on the other side above the CRT high
+[ 207.4- 208.9] is still untouched.
+[ 208.9- 210.6] Now the time frames.
+[ 210.6- 213.5] The range and the entry live on different charts.
+[ 213.5- 215.8] With a four hour range, I look for the entry
+[ 215.8- 218.0] on the five minute or the 15 minute.
+[ 218.0- 220.7] With a daily range, I drop to the one hour.
+[ 220.7- 223.5] Too close together and the sweep is just noise.
+[ 223.5- 227.1] Too far apart and you can wait days for a single setup.
+[ 227.1- 229.3] So the entry is always the same.
+[ 229.3- 233.3] Sweep, close back inside, shift, fair value gap.
+[ 233.3- 236.0] Stop beyond the wick, target the other side.
+[ 236.0- 240.1] CRT works on any market, but which one actually pays you?
+[ 240.1- 243.1] Keebsi connects to your MT5, pulls your trades
+[ 243.1- 244.9] and journals them automatically.
+[ 244.9- 247.0] So you see which market makes you money
+[ 247.0- 248.6] and which one drains you.
+[ 248.6- 250.4] Other journals charge for this.
+[ 250.4- 252.1] Keebsi does it for free.
+[ 252.1- 255.3] Links below.
+[ 255.3- 256.9] Now the bearish version.
+[ 256.9- 259.1] NASDAQ futures daily chart.
+[ 259.1- 261.5] Yesterday's daily candle is the range.
+[ 261.5- 263.5] The CRT high sits at the top,
+[ 263.5- 265.4] the CRT low at the bottom.
+[ 265.4- 267.9] Today opens inside that range.
+[ 267.9- 269.8] A daily range gives fewer setups,
+[ 269.8- 271.8] but each one has room to run.
+[ 271.8- 273.2] Now the one hour chart.
+[ 273.2- 276.2] New York session, 9.30 a.m. New York time.
+[ 276.2- 278.6] Price pushes above yesterday's high.
+[ 278.6- 281.2] The buy side liquidity above it gets taken.
+[ 281.2- 283.6] Breakout buyers jump in right at the top.
+[ 283.6- 287.6] Then this one hour candle closes back below the CRT high,
+[ 287.6- 289.1] back inside the range.
+[ 289.1- 291.8] Two red candles break the last higher low.
+[ 291.8- 293.0] That's the shift down
+[ 293.0- 295.1] and the drop leaves a fair value gap.
+[ 295.1- 296.6] I short at its middle.
+[ 296.6- 298.9] Stop above the wick that took the high.
+[ 298.9- 302.0] Target yesterday's low, the CRT low.
+[ 302.0- 304.3] Price drops through the range 50%,
+[ 304.3- 306.4] then grinds down to the low.
+[ 306.4- 309.4] Target reached a little over three times the risk.
+[ 309.4- 311.8] Same three phases just upside down.
+[ 311.8- 317.1] The buyers who chased that breakout became the fuel.
+[ 317.1- 319.2] Next, a slower entry chart.
+[ 319.2- 321.4] Euro dollar, Asian session.
+[ 321.4- 324.3] 9 p.m. New York time, four hour chart.
+[ 324.3- 328.3] This four hour candle from 9 p.m. to 1 a.m. is the range.
+[ 328.3- 330.9] Asia is quiet, so the range is tight
+[ 330.9- 333.8] and London often reaches for one side of it.
+[ 333.8- 336.7] This time I hunt the entry on the 15 minute.
+[ 336.7- 340.6] At 3 a.m., London opens and runs the CRT low.
+[ 340.6- 343.6] A 15 minute candle closes back inside.
+[ 343.6- 345.4] Price breaks the last lower high
+[ 345.4- 347.5] and prints a fair value gap.
+[ 347.5- 349.1] Long at the middle of the gap,
+[ 349.1- 351.0] stop below the sweep wick.
+[ 351.0- 352.7] Watch this part closely.
+[ 352.7- 356.5] Price climbs straight to the range 50% and stalls.
+[ 356.5- 358.7] It chops there for over an hour.
+[ 358.7- 361.9] Plenty of traders panic here and close everything.
+[ 361.9- 364.5] That's why the partial sits at the 50%.
+[ 364.5- 368.1] Some profit is already locked, so the rest can breathe.
+[ 368.1- 370.9] Then the London push carries it the rest of the way
+[ 370.9- 372.4] to the CRT high.
+[ 372.4- 377.7] Full target and part of it was banked on the way.
+[ 377.7- 381.1] Mistake number one, calling a wick a sweep.
+[ 381.1- 385.3] XAUUSD, New York session, 9 a.m. New York time,
+[ 385.3- 388.5] 15 minute chart with the four hour range marked.
+[ 388.5- 391.1] Price drops below the CRT low.
+[ 391.1- 394.9] A trader sees the wick and buys, but look at the close.
+[ 394.9- 398.8] The candle closes below the CRT low, outside the range.
+[ 398.8- 400.0] That's not a sweep.
+[ 400.0- 402.6] That's price accepting lower prices.
+[ 402.6- 405.5] No close back inside, no CRT.
+[ 405.5- 408.4] Price keeps falling and the stop goes with it.
+[ 408.4- 409.9] Compare it with the next day.
+[ 409.9- 412.1] The wick goes under the CRT low
+[ 412.1- 414.2] and the candle closes back above it.
+[ 414.2- 418.4] That's a sweep you can trade.
+[ 418.4- 421.3] Mistake number two, the wrong timeframe.
+[ 421.3- 425.1] NASDAQ futures, New York session, 10 a.m. New York time
+[ 425.1- 427.0] with the four hour range marked.
+[ 427.0- 429.6] A trader drops all the way to the one minute.
+[ 429.6- 433.0] Inside the range, every small dip looks like a sweep.
+[ 433.0- 435.0] They buy one and get stopped.
+[ 435.0- 437.3] Then another and get stopped again.
+[ 437.3- 439.3] Most traders never notice this.
+[ 439.3- 441.8] None of those lows were the CRT low.
+[ 441.8- 444.2] They were tiny swings in the middle of the range
+[ 444.2- 446.2] with almost no stops under them.
+[ 446.2- 449.6] Back on the five minute, there's only one sweep that matters.
+[ 449.6- 452.1] The one that takes the range's own low.
+[ 452.1- 453.8] That's the one that runs.
+[ 453.8- 457.6] Match the pair, four hour into the five or 15 minute,
+[ 457.6- 461.7] daily into the one hour.
+[ 461.7- 463.7] Here's the CRT checklist.
+[ 463.7- 467.1] One, a higher timeframe candle sets the range.
+[ 467.1- 469.7] Two, price sweeps one side.
+[ 469.7- 472.8] Three, a candle closes back inside.
+[ 472.8- 475.4] Four, a shift on the lower timeframe,
+[ 475.4- 477.9] entry at the middle of the fair value gap.
+[ 477.9- 480.2] Five, stop beyond the wick,
+[ 480.2- 482.3] target the other side of the range.
+[ 482.3- 484.8] Want to know exactly where those stops sit?
+[ 484.8- 486.0] Watch this one next.
+[ 486.0- 487.6] Which pair do you trade?
+[ 487.6- 491.6] Four hour into five minute or daily into one hour.
+[ 491.6- 492.8] Tell me in the comments.
