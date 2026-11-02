@@ -1,0 +1,348 @@
+language: en (100%)
+[   0.0-   2.9] This is Patrick Nill.
+[   2.9-   5.2] For most of his life, he was a bookbinder.
+[   5.2-  10.2] He ran his family company in a small town in Germany, working 16 hours a day.
+[  10.2-  15.1] Then in 2018, he sold everything to become a full-time trader.
+[  15.1-  17.4] His parents said he was going to the casino.
+[  17.4-  19.5] His friends called it gambling.
+[  19.5-  24.9] One year later, his name was on the leaderboard of the Robbins World Cup, the oldest and
+[  24.9-  28.6] most famous trading competition on the planet.
+[  28.6-  30.2] He never left.
+[  30.2-  35.1] Patrick has finished in the top five of that competition 12 times.
+[  35.1-  40.2] This year, he is in first place with a return of around 300%.
+[  40.2-  43.6] Yes, you heard me right, 300%.
+[  43.6-  45.4] That's insane.
+[  45.4-  47.4] And here's the part that nobody expects.
+[  47.4-  50.6] Patrick does not sit in front of six screens all day.
+[  50.6-  53.4] He says one hour in the morning is enough.
+[  53.4-  58.5] He looks at the chart, places his one or two trades, and the day is over.
+[  58.5-  61.5] Sometimes he does it from his phone while traveling.
+[  61.5-  66.3] Because the strategy that made him a world champion is incredibly simple.
+[  66.3-  68.9] Simple enough that anyone can understand it.
+[  68.9-  72.8] It's built on one single idea about how markets move.
+[  72.8-  75.8] And once you see it, you can't unsee it.
+[  75.8-  79.0] Now, if you're like me, you're thinking, how does he do it?
+[  79.0-  81.4] Well, I decided to look for the answer.
+[  81.4-  84.8] I went through every interview Patrick has ever given.
+[  84.8-  89.2] Hours and hours of him drawing on charts and explaining his model.
+[  89.2-  93.4] And I have to say, this man is a genius of simplicity.
+[  93.4-  97.4] I condensed everything into this video and I'm giving it to you for free.
+[  97.4- 102.1] So if this adds value to your trading, hit that like button and drop a thank you in the comments.
+[ 102.1- 103.8] It really helps the channel grow.
+[ 103.8- 105.4] Let's get straight to it.
+[ 105.4- 107.6] Before we go to the strategy itself,
+[ 107.6- 112.6] you need to understand the three principles Patrick built his entire career on.
+[ 112.6- 114.7] The first principle is this.
+[ 114.7- 118.0] Markets spend about 70% of the time in ranges
+[ 118.0- 121.5] and only 20 or 30% of the time in trends.
+[ 121.5- 123.2] And there's a reason for it.
+[ 123.2- 126.4] Big players need liquidity to fill their orders.
+[ 126.4- 128.6] Inside a range, they can do that.
+[ 128.6- 132.3] When the liquidity dries up, they push price to one side
+[ 132.3- 136.1] toward the next pool of liquidity and a new range forms there.
+[ 136.1- 139.4] So the job of a trader is not to predict.
+[ 139.4- 143.7] The job is to move from one area of fair value to the next one.
+[ 143.7- 147.8] The second principle is the one Patrick calls his biggest rule.
+[ 147.8- 151.7] You never move your stop loss to give the trade more room.
+[ 151.7- 152.6] Never.
+[ 152.6- 155.4] When you're nervous and price comes close to your stop,
+[ 155.4- 157.6] you want to push it a bit further away.
+[ 157.6- 160.0] Patrick says that the moment you do this,
+[ 160.0- 162.2] you cannot be profitable anymore.
+[ 162.2- 163.7] It's a red flag.
+[ 163.7- 165.6] He learned this the hard way.
+[ 165.6- 168.3] During COVID, oil kept failing.
+[ 168.3- 171.0] When it was around 12 or $13 a barrel,
+[ 171.0- 173.9] Patrick and his team thought it was way too cheap.
+[ 173.9- 176.5] For years, it had cost 10 times that,
+[ 176.5- 178.3] so it had to go back up.
+[ 178.3- 179.4] They bought.
+[ 179.4- 183.0] When it fell to 10 and then to eight, they bought more.
+[ 183.0- 185.2] At five, they bought again.
+[ 185.2- 187.9] They were breaking all of their own rules,
+[ 187.9- 190.2] but they thought it was the deal of a lifetime.
+[ 190.2- 191.7] Then they stopped for a second
+[ 191.7- 194.7] and asked themselves what the real risk was.
+[ 194.7- 198.0] They closed everything that same day and pulled the plug.
+[ 198.0- 201.5] That night, oil went to minus $40.
+[ 201.5- 203.9] Nobody knew oil could go negative.
+[ 203.9- 206.1] They had calculated a maximum risk
+[ 206.1- 208.8] of a few thousand dollars per contract.
+[ 208.8- 212.4] The real risk was almost 10 times that.
+[ 212.4- 216.5] Since that day, Patrick's stop loss is untouchable.
+[ 216.5- 218.8] And the third principle follows from the second.
+[ 218.8- 220.8] You decide the stop loss first
+[ 220.8- 222.9] based on the structure of the market.
+[ 222.9- 226.9] Only after that, you decide how many contracts to trade.
+[ 226.9- 230.2] Sometimes the stop is small, sometimes it is big,
+[ 230.2- 232.8] and the position size adapts to the stop.
+[ 232.8- 234.8] Never the other way around.
+[ 234.8- 236.4] Now that the foundations are clear,
+[ 236.4- 239.6] let's see how Patrick actually reads a chart.
+[ 239.6- 242.7] Everything in Patrick's model starts with two letters,
+[ 242.7- 244.2] P and B.
+[ 244.2- 247.8] A P is a strong move up followed by a range.
+[ 247.8- 251.2] A B is a strong move down followed by a range.
+[ 251.2- 252.0] That's it.
+[ 252.0- 254.4] You wait for the push and after the push,
+[ 254.4- 258.0] almost every time price starts moving sideways.
+[ 258.0- 261.0] That range is Patrick's playground.
+[ 261.0- 262.9] The timeframe where he makes his decisions
+[ 262.9- 264.6] is the 15 minute chart.
+[ 264.6- 267.2] He uses the four hour chart to get the big picture,
+[ 267.2- 270.1] and sometimes he drops to the five or three minute chart
+[ 270.1- 272.4] only to execute with more precision.
+[ 272.4- 275.8] But the decision is always made on the 15 minute.
+[ 275.8- 279.2] Now, here's a question every trader gets wrong.
+[ 279.2- 283.0] When does a range become a valid range?
+[ 283.0- 285.6] Patrick waits for three confirmations,
+[ 285.6- 287.8] three touches of the zone.
+[ 287.8- 290.1] You could call it a P much earlier
+[ 290.1- 292.0] after one or two touches,
+[ 292.0- 295.3] but Patrick waits very long on purpose,
+[ 295.3- 296.7] because the longer the range,
+[ 296.7- 298.1] the higher the probability
+[ 298.1- 300.4] that the breakout actually works.
+[ 300.4- 303.4] Sometimes this means he misses the move completely.
+[ 303.4- 304.8] He's fine with that.
+[ 304.8- 306.1] On a 15 minute chart,
+[ 306.1- 309.2] a good P needs at least half a day to form,
+[ 309.2- 310.6] often a full day.
+[ 310.6- 313.7] So we're not talking about 20 trades a day.
+[ 313.7- 317.1] We're talking about one or two good setups.
+[ 317.1- 318.7] And before drawing the zones,
+[ 318.7- 320.4] when Patrick is at his desk,
+[ 320.4- 322.0] he looks at the market profile
+[ 322.0- 324.2] and the volume profile of the week.
+[ 324.2- 327.1] The value area high and the value area low
+[ 327.1- 329.3] tell him where the market is in balance
+[ 329.3- 331.4] and where price will move fast
+[ 331.4- 333.8] because there's almost no volume.
+[ 333.8- 337.5] If a P or a B forms exactly on one of those levels,
+[ 337.5- 339.9] the setup is much stronger.
+[ 339.9- 341.3] Once you have a valid range,
+[ 341.3- 343.2] there are three ways to trade it.
+[ 343.2- 345.5] And Patrick uses all three.
+[ 345.5- 347.8] The first one is the range trade.
+[ 347.8- 350.0] You place a limit order at the bottom of the zone
+[ 350.0- 351.4] and target the top,
+[ 351.4- 354.0] or you sell the top and target the bottom.
+[ 354.0- 356.6] No partials, just in and out.
+[ 356.6- 358.7] Patrick loves it when two ranges sit
+[ 358.7- 360.0] at the same price level,
+[ 360.0- 362.3] because he says they simply work better.
+[ 362.3- 363.9] He does not open range trades
+[ 363.9- 365.9] when the P is completed in the evening,
+[ 365.9- 369.5] because eight hours without seeing the market is too long.
+[ 369.5- 372.3] The second one is the breakout with confirmation.
+[ 372.3- 375.6] Patrick does not buy the first candle that leaves the range.
+[ 375.6- 377.6] Too many breakouts are fake.
+[ 377.6- 380.4] He waits for a candle to close outside the zone.
+[ 380.4- 383.3] Then price comes back to test the edge of the zone
+[ 383.3- 386.8] and the next candle closes beyond the breakout candle.
+[ 386.8- 388.7] That is his confirmation.
+[ 388.7- 391.1] On the downside, it is the same logic.
+[ 391.1- 394.5] A new low, a pullback and then the break of that low.
+[ 394.5- 398.2] Only then he enters, usually with a limit order.
+[ 398.2- 400.8] The third one is his favorite trade in the world.
+[ 400.8- 403.0] Price breaks below the range.
+[ 403.0- 406.3] The sellers push, but they do not have enough power.
+[ 406.3- 408.6] Price comes back inside the zone.
+[ 408.6- 410.9] Patrick goes long right there.
+[ 410.9- 415.2] The stop is tiny, just below the low of the fake breakout.
+[ 415.2- 417.1] And the potential is huge,
+[ 417.1- 420.1] because when the market wanted to go down and failed,
+[ 420.1- 422.5] it often moves up with force.
+[ 422.5- 425.5] In this case, he does not stop at the top of the range.
+[ 425.5- 426.7] He holds.
+[ 426.7- 429.1] He prefers this setup on the long side.
+[ 429.1- 432.0] The mirror image, a fake breakout above the range
+[ 432.0- 435.1] and a return inside, he trades much less.
+[ 435.1- 437.4] Because when there is power to the upside,
+[ 437.4- 439.6] more power usually comes.
+[ 439.6- 440.7] With the entries clear,
+[ 440.7- 443.5] let's talk about where the trade ends.
+[ 443.5- 446.4] The stop loss goes below a structural low,
+[ 446.4- 450.0] below the zone or on a level of the market profile.
+[ 450.0- 451.6] If there is nothing to lean on,
+[ 451.6- 453.7] Patrick calculates it from the target.
+[ 453.7- 455.5] If the target is far away,
+[ 455.5- 457.3] he accepts a wider stop,
+[ 457.3- 460.5] as long as the risk to reward stays above three.
+[ 460.5- 464.1] And as the trade moves in your favor and new ranges form,
+[ 464.1- 468.1] you move the stop below each new P, up and up,
+[ 468.1- 471.1] under every new area of fair value.
+[ 471.1- 473.9] For the targets, Patrick trades from fair value
+[ 473.9- 474.9] to fair value.
+[ 474.9- 477.5] If there's a previous range above or below,
+[ 477.5- 478.6] that's the target.
+[ 478.6- 480.1] When he has several contracts,
+[ 480.1- 482.3] he takes the first partial at the edge
+[ 482.3- 483.7] of the closest zone,
+[ 483.7- 485.8] decides the second one on the spot
+[ 485.8- 489.6] and leaves the last contract for the origin of the whole move.
+[ 489.6- 492.2] He usually works with multiples of three contracts
+[ 492.2- 493.6] for this reason.
+[ 493.6- 496.1] What if the market is at an all-time high
+[ 496.1- 498.5] and there is no previous fair value?
+[ 498.5- 501.4] Then he measures the size of the initial impulse
+[ 501.4- 504.1] and projects it forward, one to one.
+[ 504.1- 506.8] And one last detail that makes a big difference.
+[ 506.8- 509.0] Small ranges after a big move
+[ 509.0- 511.1] are perfect for breakouts.
+[ 511.1- 513.9] The stop is close, the target is far
+[ 513.9- 517.3] and you can get a risk to reward of eight or more.
+[ 517.3- 519.7] Big ranges are perfect for range trading
+[ 519.7- 521.7] but terrible for breakouts
+[ 521.7- 524.4] because the stop would be way too far.
+[ 524.4- 526.9] Now, before we go to the chart and trade this live,
+[ 526.9- 528.7] there is something you need to know.
+[ 528.7- 530.7] The hardest part of Patrick's strategy
+[ 530.7- 534.4] is not the entry, it's drawing the range right.
+[ 534.4- 537.4] Too early and you trade a range that's not finished.
+[ 537.4- 539.9] Too late and the move is already gone.
+[ 539.9- 542.9] Patrick himself admits that his exact rules
+[ 542.9- 545.3] for drawing and resizing the zones
+[ 545.3- 547.5] are the one thing he does not share.
+[ 547.5- 548.8] If you want help with that part,
+[ 548.8- 550.7] there's a free indicator on TradingView
+[ 550.7- 554.8] called Consolidation Zones Volume Delta by Flux Charts.
+[ 554.8- 557.8] It finds the sideways areas after a strong push
+[ 557.8- 559.9] and draws the box for you.
+[ 559.9- 562.2] It also shows how buying and selling volume
+[ 562.2- 564.3] builds up inside each range.
+[ 564.3- 566.2] So you can see which side is in control
+[ 566.2- 568.1] before the breakout comes.
+[ 568.1- 570.1] And if you wanna go one step further,
+[ 570.1- 572.3] Flux Charts also has a paid tool,
+[ 572.3- 573.9] the price action toolkit.
+[ 573.9- 575.5] It shows you market structure,
+[ 575.5- 578.3] liquidity grabs below and above the range
+[ 578.3- 580.6] and key levels from higher time frames,
+[ 580.6- 581.9] all on one chart.
+[ 581.9- 582.9] If you decide to try it,
+[ 582.9- 585.1] use this code for 20% off.
+[ 585.1- 586.9] You'll find the link in my description.
+[ 586.9- 588.9] All right, let's get back to the video.
+[ 588.9- 590.7] Let's put everything on a real chart
+[ 590.7- 592.9] and trade it the way Patrick does.
+[ 592.9- 594.8] First things first, open TradingView.
+[ 594.8- 595.7] If you don't have it yet,
+[ 595.7- 597.5] I leave a link in my description.
+[ 597.5- 600.2] On this chart, I'm on the 15 minute timeframe.
+[ 600.2- 602.2] I zoom out to the four hour first
+[ 602.2- 604.5] and I can see the market has been moving up.
+[ 604.5- 606.8] So the big picture is bullish.
+[ 606.8- 610.3] Back on the 15 minute, this is what I'm looking for.
+[ 610.3- 612.3] Here we have a strong push up
+[ 612.3- 615.3] and after the push, price starts moving sideways.
+[ 615.3- 616.9] This is a P.
+[ 616.9- 619.0] I draw the zone from the high of the range
+[ 619.0- 620.5] to the low of the range.
+[ 620.5- 623.2] One touch here, a second touch here
+[ 623.2- 625.1] and a third touch here.
+[ 625.1- 627.5] Now the range is valid for me.
+[ 627.5- 629.5] Then this happens.
+[ 629.5- 632.1] This candle breaks below the zone.
+[ 632.1- 633.8] A beginner would sell this.
+[ 633.8- 635.1] I don't.
+[ 635.1- 638.1] I wait and look at the next candle.
+[ 638.1- 640.7] It closes back inside the range.
+[ 640.7- 643.4] The sellers tried and they failed.
+[ 643.4- 646.1] This is the trade Patrick loves most.
+[ 646.1- 648.6] I place a buy limit order right at the lower edge
+[ 648.6- 651.5] of the zone and my stop goes just below the low
+[ 651.5- 654.4] of the fake breakout, a very small stop.
+[ 654.4- 657.1] Price fills my order and starts moving up.
+[ 657.1- 658.8] I don't close at the top of the range
+[ 658.8- 660.7] because when the market wanted to go down
+[ 660.7- 663.8] and could not, it often goes up with force.
+[ 663.8- 665.3] My first target is the edge
+[ 665.3- 667.9] of the next fair value area above us.
+[ 667.9- 671.5] And look at this, a few candles later and we're there.
+[ 671.5- 674.1] The risk to reward on this trade is incredible
+[ 674.1- 677.7] because the stop was tiny and the move was big.
+[ 677.7- 679.3] Now let's do a short.
+[ 679.3- 682.3] On this chart, I'm again on the 15 minute timeframe.
+[ 682.3- 683.9] Same routine as before.
+[ 683.9- 685.8] I check the four hour chart first
+[ 685.8- 688.4] and this time the big picture is not clear.
+[ 688.4- 691.5] The market made a strong pushup and then it stopped.
+[ 691.5- 693.8] That is exactly where Patrick likes to look
+[ 693.8- 695.5] for a counter trade.
+[ 695.5- 698.5] Back on the 15 minute, here's the impulse up
+[ 698.5- 701.6] and right after it, price starts moving sideways.
+[ 701.6- 702.9] This is a P.
+[ 702.9- 705.7] I draw the zone from the high to the low of the range.
+[ 705.7- 710.2] First touch here, second touch here, third touch here.
+[ 710.2- 712.2] Now the range is valid.
+[ 712.2- 714.6] Then price breaks above the zone.
+[ 714.6- 717.0] A lot of traders would buy this breakout.
+[ 717.0- 717.9] I don't.
+[ 717.9- 722.0] I remember what Patrick said, no confirmation, no trade.
+[ 722.0- 725.3] So I wait and watch what price does next.
+[ 725.3- 727.0] And here it comes.
+[ 727.0- 728.9] Price fails to continue,
+[ 728.9- 731.5] comes back down to the upper edge of the range
+[ 731.5- 734.3] and this candle closes back inside the zone.
+[ 734.3- 736.8] The buyers tried and they failed.
+[ 736.8- 738.7] This is my entry for the short.
+[ 738.7- 741.3] I sell right at the upper edge of the zone
+[ 741.3- 744.5] with my stop just above the high of that fake breakout.
+[ 744.5- 746.9] Again, a very small stop.
+[ 746.9- 749.2] My target is the beginning of the impulse
+[ 749.2- 750.8] because according to Patrick,
+[ 750.8- 753.5] that is where price usually goes back to.
+[ 753.5- 755.4] And since there are two fair value areas
+[ 755.4- 757.7] between my entry and that level,
+[ 757.7- 760.7] I take a first partial at the lower edge of the range.
+[ 760.7- 764.8] I move my stop to break even and I let the rest run.
+[ 764.8- 766.7] Price drops through the range,
+[ 766.7- 770.3] keeps going and reaches the origin of the move.
+[ 770.3- 772.2] Another trade with a small stop
+[ 772.2- 774.5] and a great risk to reward.
+[ 774.5- 777.8] So we have the two trades, the long and the short.
+[ 777.8- 780.0] But if the strategy is so simple,
+[ 780.0- 784.9] why is Patrick a world champion and most people are not?
+[ 784.9- 786.9] He has a very clear answer.
+[ 786.9- 788.9] The difference between a profitable trader
+[ 788.9- 791.5] and a champion is consistency.
+[ 791.5- 793.7] A profitable trader can do it once.
+[ 793.7- 797.0] A champion does the same thing every day
+[ 797.0- 800.3] without changing the rules out of fear or greed.
+[ 800.3- 802.6] And he has a rule for bad days too.
+[ 802.6- 805.4] After three or four losses in a row in the same day,
+[ 805.4- 809.0] he closes everything and starts fresh the next morning.
+[ 809.0- 811.3] Sometimes your head is just not in the market
+[ 811.3- 813.1] and it's better to go.
+[ 813.1- 816.2] Let's recap everything we learned from Patrick Nill.
+[ 816.2- 818.9] Markets spend most of the time in ranges
+[ 818.9- 821.9] and you trade from fair value to fair value.
+[ 821.9- 824.0] Four hour chart for the big picture,
+[ 824.0- 826.4] 15 minute chart for the decision.
+[ 826.4- 828.6] A strong push followed by a range
+[ 828.6- 830.6] gives you a P or a B,
+[ 830.6- 833.5] valid only after three touches.
+[ 833.5- 836.0] Three ways to trade it, the range trade,
+[ 836.0- 837.8] the breakout with confirmation
+[ 837.8- 840.1] and the fake breakout with the reclaim.
+[ 840.1- 842.2] The stop goes on the structure.
+[ 842.2- 844.5] It is set before the position size
+[ 844.5- 848.3] and it is never moved to give the trade more room.
+[ 848.3- 851.0] Targets at the next area of fair value
+[ 851.0- 855.0] in partials or one to one from the impulse at new highs
+[ 855.0- 857.4] and the psychological requirements.
+[ 857.4- 860.1] Patience to wait for the third touch.
+[ 860.1- 864.0] Discipline to close the day after three or four losses.
+[ 864.0- 867.4] The calm to do the same thing every day.
+[ 867.4- 869.9] A book binder with 16 hour days,
+[ 869.9- 871.9] laughed at by his own family,
+[ 871.9- 875.1] became one of the most consistent competition traders
+[ 875.1- 879.1] in the world with a strategy you can draw with two letters.
+[ 879.1- 880.5] That's not luck.
+[ 880.5- 885.5] That is a method executed with discipline year after year.
+[ 885.8- 887.2] Thank you all for your support
+[ 887.2- 889.4] and I just wanna ask you to tell me in the comments
+[ 889.4- 891.0] which market you trade the most.
+[ 891.0- 892.9] I'm curious to know where you spend your time.
+[ 892.9- 894.4] See you guys next time.
