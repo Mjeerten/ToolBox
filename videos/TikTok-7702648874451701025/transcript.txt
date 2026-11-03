@@ -1,0 +1,32 @@
+language: en (100%)
+[   0.0-   3.6] on ethical ways to make fucking money, part 479.
+[   3.6-   7.2] Go to usaspending.gov, which is a federal database
+[   7.2-   9.8] that publishes every single government contract
+[   9.8-  13.4] awarded in real time, filter by small and mid-cap companies
+[  13.4-  15.2] that most investors have never heard of
+[  15.2-  16.7] and set up alerts for the moment
+[  16.7-  18.7] they receive a major contract award.
+[  18.7-  20.4] The moment a small defense company,
+[  20.4-  23.0] a medical supplier, or a technology contractor
+[  23.0-  25.3] wins a $50 million government deal,
+[  25.3-  27.4] that information is technically public,
+[  27.4-  30.2] but almost nobody is watching that database in real time.
+[  30.2-  31.8] You are and you buy shares
+[  31.8-  34.5] before the press release hits the financial news cycle.
+[  34.5-  35.9] By the time Bloomberg picks it up
+[  35.9-  37.4] and retail investors react,
+[  37.4-  40.1] you are already holding a position that is about to jump.
+[  40.1-  41.6] This is not insider trading.
+[  41.6-  43.6] You have no relationship with the company.
+[  43.6-  45.9] You used zero non-public information.
+[  45.9-  48.7] Every single data point came from a government website
+[  48.7-  50.0] that anyone can access.
+[  50.0-  52.2] You just understood that public information
+[  52.2-  53.6] and real-time information
+[  53.6-  55.7] are two completely different things.
+[  55.7-  58.8] Wall Street firms pay millions for automated data feeds
+[  58.8-  60.7] that do exactly this.
+[  60.7-  62.5] Hedge funds have entire teams
+[  62.5-  64.5] watching these databases around the clock.
+[  64.5-  66.9] You just got the same edge for free with a browser tab.
+[  66.9-  68.1] Follow Dirty Dollars.
