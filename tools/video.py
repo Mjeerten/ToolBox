@@ -144,15 +144,55 @@ def transcript(path, whisper):
     return lines
 
 
+def tikwm(url, tmp):
+    """Fallback for TikTok videos yt-dlp cannot get from GitHub's US servers (status 10231): the tikwm.com API
+    returns the video file and its details (added 8 Nov 2026 at Maarten's request)."""
+    import urllib.parse
+    import urllib.request
+    req = urllib.request.Request("https://www.tikwm.com/api/?hd=1&url=" + urllib.parse.quote(url, safe=""),
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    d = json.load(urllib.request.urlopen(req, timeout=60))
+    if d.get("code") != 0:
+        raise RuntimeError(d.get("msg"))
+    d = d["data"]
+    play = d.get("hdplay") or d.get("play")
+    if play.startswith("/"):
+        play = "https://www.tikwm.com" + play
+    vid = f"{tmp}/TikTok-{d['id']}.mp4"
+    with urllib.request.urlopen(urllib.request.Request(play, headers={"User-Agent": "Mozilla/5.0"}), timeout=120) as r:
+        open(vid, "wb").write(r.read())
+    a = d.get("author") or {}
+    info = dict(uploader=a.get("nickname"), uploader_id=a.get("unique_id"), upload_date=d.get("create_time"),
+                duration=d.get("duration"), view_count=d.get("play_count"), like_count=d.get("digg_count"),
+                comment_count=d.get("comment_count"), description=d.get("title"))
+    json.dump(info, open(f"{tmp}/TikTok-{d['id']}.info.json", "w"))
+    return vid
+
+
+def download(url, tmp):
+    """yt-dlp first; TikTok videos it cannot get fall back to tikwm.com. Returns the video files."""
+    r = sh(YTDLP + ["--no-playlist", "-f", "b[height<=1080]/b", "--write-info-json",
+                    "-o", f"{tmp}/%(extractor)s-%(id)s.%(ext)s", url])
+    vids = [f for f in glob.glob(f"{tmp}/*") if not f.endswith(".info.json")]
+    if r.returncode == 0 and vids:
+        return vids
+    err = r.stderr[-300:]
+    if "tiktok" in url:
+        print("yt-dlp failed, trying tikwm.com:", url, err)
+        try:
+            return [tikwm(url, tmp)]
+        except Exception as e:   # noqa
+            err = f"tikwm: {e!r}"
+    print("DOWNLOAD FAILED:", url, err)
+    return None
+
+
 def video(url, out, every, whisper):
     tmp = "/tmp/dl"
     shutil.rmtree(tmp, ignore_errors=True)
     os.makedirs(tmp)
-    r = sh(YTDLP + ["--no-playlist", "-f", "b[height<=1080]/b", "--write-info-json",
-                    "-o", f"{tmp}/%(extractor)s-%(id)s.%(ext)s", url])
-    vids = [f for f in glob.glob(f"{tmp}/*") if not f.endswith(".info.json")]
-    if r.returncode != 0 or not vids:
-        print("DOWNLOAD FAILED:", url, r.stderr[-300:])
+    vids = download(url, tmp)
+    if not vids:
         return None
     vid = vids[0]
     vid_id = os.path.splitext(os.path.basename(vid))[0]
