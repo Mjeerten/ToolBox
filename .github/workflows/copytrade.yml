@@ -1,0 +1,58 @@
+name: copytrade
+# Copy-trading test for the swing desk (research/copytrade.py): real copy ETFs, famous funds' 13F filings, House members'
+# trade reports, each vs holding SPY / QQQ. Public repo: free minutes. Read the job logs.
+on:
+  workflow_dispatch:
+
+jobs:
+  etf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy requests
+      - run: python -m research.copytrade etf
+  f13:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy requests
+      - run: python -m research.copytrade f13
+  house-fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        year: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy requests pypdf
+      - run: timeout 280m python -m research.copytrade house-fetch ${{ matrix.year }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: house-${{ matrix.year }}
+          path: .copycache/house/
+  house:
+    needs: house-fetch
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy requests pypdf
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: house-*
+          merge-multiple: true
+          path: .copycache/house/
+      - run: python -m research.copytrade house
