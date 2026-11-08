@@ -23,6 +23,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -q pandas numpy requests
       - run: python -m research.copytrade f13
+        env:
+          SEC_UA: ${{ secrets.SEC_UA }}
   house-fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 300

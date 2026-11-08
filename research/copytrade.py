@@ -24,7 +24,8 @@ import numpy as np
 import pandas as pd
 import requests
 
-UA = {"User-Agent": "copy-trading research (github.com/Mjeerten/toolbox)",
+# SEC answers 403 unless the User-Agent names a contact ("Name email"): secret SEC_UA, set by Maarten
+UA = {"User-Agent": os.environ.get("SEC_UA") or "copy-trading research (github.com/Mjeerten/toolbox)",
       "Accept-Encoding": "gzip, deflate"}
 CACHE = os.environ.get("COPY_CACHE", ".copycache")
 PERIODS = [("2014-18", "2014-01-01", "2018-12-31"), ("2019-23", "2019-01-01", "2023-12-31"),
@@ -94,6 +95,9 @@ def table(curves, title):
     print(f"{'':34s}" + "".join(f"{'%/yr  drop  vsSPY vsQQQ':>26s}" for _ in PERIODS))
     for name, eq in list(curves.items()) + [("SPY (hold)", bench["SPY"]), ("QQQ (hold)", bench["QQQ"])]:
         row = f"{name[:34]:34s}"
+        if eq is None or eq.dropna().empty:
+            print(row + "  no price data")
+            continue
         for _, a, b in PERIODS:
             s = stats(eq, a, b)
             if s is None:
@@ -233,6 +237,8 @@ def f13(top=10):
             data[cik] = x
             print(f"{nm:28s} SEC name: {x['name']:40s} {len(x['filings'])} filings "
                   f"{min(f['filed'] for f in x['filings'])} .. {max(f['filed'] for f in x['filings'])}", flush=True)
+    if not data:
+        sys.exit("no 13F filings read: SEC refused (set the SEC_UA secret: 'Name email')")
     cus = [c for x in data.values() for f in x["filings"] for c, _ in
            sorted(f["hold"].items(), key=lambda kv: -kv[1])[:top + 10]]
     tick = cusip_map(cus)
