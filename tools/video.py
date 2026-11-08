@@ -29,6 +29,7 @@ OCR_ENV = dict(os.environ, OMP_THREAD_LIMIT="1")
 DIFF, MAX_GAP = 6.0, 4   # sheet frame kept when its 48x48 grey thumbnail differs this much (0-255 mean) / every 4 s
 
 YTDLP = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings"]
+COOKIES = os.environ.get("COOKIES_FILE") if os.path.getsize(os.environ.get("COOKIES_FILE") or os.devnull) else None
 
 
 def sh(cmd, text=True):
@@ -36,7 +37,9 @@ def sh(cmd, text=True):
 
 
 def probe(url, max_n):
-    r = sh(YTDLP + ["--flat-playlist", "--playlist-end", str(max(max_n * 3, 30)), "-J", url])
+    if os.path.isfile(url):
+        return None
+    r = sh(YTDLP + (["--cookies", COOKIES] if COOKIES else []) + ["--flat-playlist", "--playlist-end", str(max(max_n * 3, 30)), "-J", url])
     if r.returncode != 0:
         print("PROBE FAILED:", url, r.stderr[-400:])
         return None
@@ -144,46 +147,25 @@ def transcript(path, whisper):
     return lines
 
 
-def tikwm(url, tmp):
-    """Fallback for TikTok videos yt-dlp cannot get from GitHub's US servers (status 10231): the tikwm.com API
-    returns the video file and its details (added 8 Nov 2026 at Maarten's request)."""
-    import urllib.parse
-    import urllib.request
-    req = urllib.request.Request("https://www.tikwm.com/api/?hd=1&url=" + urllib.parse.quote(url, safe=""),
-                                 headers={"User-Agent": "Mozilla/5.0"})
-    d = json.load(urllib.request.urlopen(req, timeout=60))
-    if d.get("code") != 0:
-        raise RuntimeError(d.get("msg"))
-    d = d["data"]
-    play = d.get("hdplay") or d.get("play")
-    if play.startswith("/"):
-        play = "https://www.tikwm.com" + play
-    vid = f"{tmp}/TikTok-{d['id']}.mp4"
-    with urllib.request.urlopen(urllib.request.Request(play, headers={"User-Agent": "Mozilla/5.0"}), timeout=120) as r:
-        open(vid, "wb").write(r.read())
-    a = d.get("author") or {}
-    info = dict(uploader=a.get("nickname"), uploader_id=a.get("unique_id"), upload_date=d.get("create_time"),
-                duration=d.get("duration"), view_count=d.get("play_count"), like_count=d.get("digg_count"),
-                comment_count=d.get("comment_count"), description=d.get("title"))
-    json.dump(info, open(f"{tmp}/TikTok-{d['id']}.info.json", "w"))
-    return vid
-
-
 def download(url, tmp):
-    """yt-dlp first; TikTok videos it cannot get fall back to tikwm.com. Returns the video files."""
-    r = sh(YTDLP + ["--no-playlist", "-f", "b[height<=1080]/b", "--write-info-json",
-                    "-o", f"{tmp}/%(extractor)s-%(id)s.%(ext)s", url])
+    """yt-dlp (with Maarten's own TikTok login when the TIKTOK_COOKIES secret is set: videos TikTok only shows to
+    logged-in / adult viewers answer 'status 10231' without it), or a file uploaded to inbox/. Returns the files."""
+    if os.path.isfile(url):                      # uploaded file: inbox/<name>.mp4
+        name = re.sub(r"[^\w.-]", "_", os.path.splitext(os.path.basename(url))[0])
+        vid = f"{tmp}/upload-{name}{os.path.splitext(url)[1] or '.mp4'}"
+        shutil.copy(url, vid)
+        json.dump({"uploader": "(uploaded file)", "description": f"uploaded file {os.path.basename(url)}"},
+                  open(f"{tmp}/upload-{name}.info.json", "w"))
+        return [vid]
+    cookies = ["--cookies", COOKIES] if COOKIES else []
+    r = sh(YTDLP + cookies + ["--no-playlist", "-f", "b[height<=1080]/b", "--write-info-json",
+                              "-o", f"{tmp}/%(extractor)s-%(id)s.%(ext)s", url])
     vids = [f for f in glob.glob(f"{tmp}/*") if not f.endswith(".info.json")]
     if r.returncode == 0 and vids:
         return vids
-    err = r.stderr[-300:]
-    if "tiktok" in url:
-        print("yt-dlp failed, trying tikwm.com:", url, err)
-        try:
-            return [tikwm(url, tmp)]
-        except Exception as e:   # noqa
-            err = f"tikwm: {e!r}"
-    print("DOWNLOAD FAILED:", url, err)
+    hint = (" (TikTok hides this video from logged-out viewers: add the TIKTOK_COOKIES secret, see CLAUDE.md, "
+            "or upload the saved video to inbox/)") if "10231" in r.stderr and not COOKIES else ""
+    print("DOWNLOAD FAILED:", url, r.stderr[-300:] + hint)
     return None
 
 
@@ -237,6 +219,11 @@ def main():
     os.makedirs(a.out, exist_ok=True)
     every = int(a.every) if float(a.every).is_integer() else a.every
     for url in a.urls:
+        if os.path.isfile(url):
+            name = re.sub(r"[^\w.-]", "_", os.path.splitext(os.path.basename(url))[0])
+            if os.path.isdir(f"{a.out}/upload-{name}"):
+                print("already done:", url)
+                continue
         info = probe(url, a.max)
         if info and info.get("_type") == "playlist":
             account(info, url, a.out, a.max, every, whisper)

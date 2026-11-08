@@ -3,12 +3,18 @@ name: video
 # frames, contact sheets, on-screen text (OCR), a speech transcript and caption info (tools/video.py); for an account
 # also an index of its videos, and the newest `max` are processed. Output is committed to the separate `videos` branch
 # so Claude can read it; main stays clean. Public repo on purpose: Actions minutes are free.
+# Uploaded videos: put the saved file in inbox/ on main (github.com: Add file > Upload files); that push runs this
+# workflow on every inbox file not done yet. Optional secret TIKTOK_COOKIES = a cookies.txt export of Maarten's own
+# TikTok login, for videos TikTok hides from logged-out viewers (status 10231). Secrets never show in the public logs.
 on:
+  push:
+    branches: [main]
+    paths: ["inbox/**"]
   workflow_dispatch:
     inputs:
       urls:
         description: "Video or account link(s), separated by spaces"
-        required: true
+        required: false
       every:
         description: "Seconds between saved frames"
         default: "1"
@@ -38,6 +44,10 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg tesseract-ocr >/dev/null
           pip install -q -U yt-dlp faster-whisper numpy pillow
           cp tools/video.py /tmp/video.py
+          mkdir -p /tmp/inbox && cp inbox/* /tmp/inbox/ 2>/dev/null || true
+          printf '%s' "$TIKTOK_COOKIES" > /tmp/cookies.txt
+        env:
+          TIKTOK_COOKIES: ${{ secrets.TIKTOK_COOKIES }}
       - name: Switch to the videos branch
         run: |
           git config user.name "github-actions[bot]"
@@ -54,7 +64,11 @@ jobs:
           URLS: ${{ inputs.urls }}
           EVERY: ${{ inputs.every || '1' }}
           MAX: ${{ inputs.max || '10' }}
-        run: python /tmp/video.py --out videos --every "$EVERY" --max "$MAX" $URLS
+          COOKIES_FILE: /tmp/cookies.txt
+        run: |
+          [ -n "$URLS" ] || URLS=$(ls -d /tmp/inbox/* 2>/dev/null | tr '\n' ' ')
+          [ -n "$URLS" ] || { echo "no links and no inbox files"; exit 0; }
+          python /tmp/video.py --out videos --every "$EVERY" --max "$MAX" $URLS
       - name: Commit to the videos branch
         if: always()
         run: |
