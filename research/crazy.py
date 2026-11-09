@@ -98,6 +98,7 @@ def build(raw, sym, out):
         {"open": "first", "high": "max", "low": "min", "close": "last"}).dropna()
     b = b[b.index >= "2019-01-01"]
     b.index = b.index.tz_localize(None)
+    b = b[~b.index.duplicated()]
     print(sym, b.index[0], b.index[-1], len(b), flush=True)
     b.to_pickle(out)
 
@@ -201,7 +202,7 @@ def blocks(b, refs):
     nyh, nyl = m(ny_or.set_axis(tdate[ny_or.index].values).high), m(ny_or.set_axis(tdate[ny_or.index].values).low)
     late = hr >= 10
     add("breaks the 9:30 NY hour's range", late & (c > nyh), late & (c < nyl))
-    wd = pd.Series(tdate.dt.dayofweek.values, b.index)
+    wd = pd.Series(tdate.dt.day_of_week.values, b.index)
     for k, nm in enumerate(["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "the weekend"]):
         x = (wd == k) if k < 5 else (wd >= 5)
         add(f"on {nm}", x, x)
@@ -288,7 +289,8 @@ def setup(data_dir):
         return
     raw = {}
     for f in sorted(glob.glob(f"{data_dir}/**/*.pkl", recursive=True)):
-        raw[os.path.basename(f)[:-4]] = pd.read_pickle(f)
+        x = pd.read_pickle(f)
+        raw[os.path.basename(f)[:-4]] = x[~x.index.duplicated()].sort_index()     # autumn clock change: 1:30 twice
     refs = {}
     for nm, sym in REFS.items():
         if sym in raw:
