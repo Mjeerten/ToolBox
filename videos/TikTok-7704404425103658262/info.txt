@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXU5Usx/
+uploader: ai.flow_lab (7694353660524889110)
+date: 2026-11-05
+duration_s: 55
+views: 106000  likes: 2291  comments: 665
+frames: 55, one every 1 s (frames/0001.jpg = second 0); sheets: 5 (12 frames each; 53 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+GROK reportedly made $268,805 trading Bitcoin on Polymarket over 177 days 🤯📈 Around $1,519 a day on average. The trading concept shared alongside it has 3 parts: 🔎 Aroon checks recent highs and lows. 📊 Aroon Oscillator measures which direction is stronger. ⚡ A filter skips unclear signals. The aim? Find clearer trends and know when to stay out. You could experiment with the idea using Grok, Claude Code and paper trading. 💬 Want the entire workflow and setup guide? Go to Instagram @ai.flow_lab, follow and comment “GROK” on this Reel. (Must be following on Instagram.) The guide is delivered through Instagram, not TikTok DMs. Follow @ai.flow_lab for more AI trading experiments. #GrokAI #Polymarket #AITrading #ClaudeCode

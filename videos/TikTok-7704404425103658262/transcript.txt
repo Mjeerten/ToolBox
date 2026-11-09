@@ -1,0 +1,16 @@
+language: en (90%)
+[   0.0-   4.8] This grok trading setup made $268,000 in six months on the palm market.
+[   4.8-   8.3] So that's an average of $1,500 every single day.
+[   8.3-  12.1] And the one part is that it's trading Bitcoin up or down.
+[  12.1-  14.0] The account is called P-Bot 6.
+[  14.0-  17.6] Instead of one bot just guessing whether Bitcoin goes up or down,
+[  17.6-  21.0] the grok setup combines three parts working together.
+[  21.0-  25.3] So first, Aeron looks for new highs and lows in Bitcoin's price.
+[  25.3-  29.4] Then the Aeron oscillator checks how strong that trend actually is.
+[  29.4-  33.4] If the upward signal is strong, it looks for an opportunity to trade up.
+[  33.4-  36.7] But when there is no clear direction, it just skips the trade.
+[  36.7-  40.5] So you could recreate this idea with grok and cloud code.
+[  40.5-  43.7] Have AI help you build the strategy and connect the signals
+[  43.7-  46.1] and put them into a trading dashboard.
+[  46.1-  51.4] So the goal would be to have a system watching those signals for you throughout the day.
+[  51.4-  55.2] So comment, grok, and I'll show you the entire workflow and a setup guide.
