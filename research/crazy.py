@@ -284,9 +284,13 @@ _D = {}    # market -> dict(o, h, l, c, bl, atr, cost, scale, split, yrs, drift)
 _NAMES = []
 
 
+MAJORS = {"EURUSD", "GBPUSD", "USDJPY", "USDCHF", "USDCAD", "AUDUSD", "NZDUSD"}
+
+
 def setup(data_dir):
     if _D:
         return
+    liquid = os.environ.get("CRAZY_LIQUID") == "1"   # skip thin FX crosses / exotics (quote noise looks like an edge)
     raw = {}
     for f in sorted(glob.glob(f"{data_dir}/**/*.pkl", recursive=True)):
         x = pd.read_pickle(f)
@@ -301,6 +305,10 @@ def setup(data_dir):
     target = vol(raw["NSXUSD"]) if "NSXUSD" in raw else 22.0
     for mk, (sym, cost) in M.items():
         if sym not in raw or len(raw[sym]) < 5000:
+            continue
+        if liquid and not sym.endswith("USDT") and len(sym) == 6 and sym[:3] != "XAU" and sym[:3] != "XAG" \
+                and sym not in MAJORS and sym not in ("BCOUSD", "WTIUSD", "UDXUSD", "NSXUSD", "SPXUSD", "GRXEUR",
+                                                     "UKXGBP", "FRXEUR", "ETXEUR", "JPXJPY", "AUXAUD", "HKXHKD"):
             continue
         b = raw[sym]
         bl, atr = blocks(b, refs)

@@ -8,6 +8,7 @@ on:
       pop: {description: "population per generation", default: "5000"}
       gens: {description: "generations", default: "60"}
       seed: {description: "random seed", default: "33"}
+      liquid: {description: "1 = only indices, commodities, crypto and the 7 major FX pairs", default: "1"}
   push:
     branches: [main]
     paths: [research/crazy.py, .github/workflows/crazy.yml]
@@ -68,15 +69,17 @@ jobs:
         with:
           path: data
       - name: invent and evolve
+        env:
+          CRAZY_LIQUID: ${{ inputs.liquid || '1' }}
         run: >
           python -m research.crazy run --data data --out out --n0 ${{ inputs.n0 || '100000' }}
           --pop ${{ inputs.pop || '5000' }} --gens ${{ inputs.gens || '60' }} --seed ${{ inputs.seed || '33' }}
       - name: commit results
         run: |
-          mkdir -p results/crazy
-          cp out/* results/crazy/
+          d=results/crazy; [ "${{ inputs.liquid || '1' }}" = 1 ] && d=results/crazy_liquid
+          mkdir -p $d && cp out/* $d/
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add results/crazy
+          git add $d
           git commit -m "Crazy strategies results [skip ci]" || exit 0
           for i in 1 2 3; do git push && break; git pull --rebase; done
