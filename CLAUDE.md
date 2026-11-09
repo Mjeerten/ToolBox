@@ -3,6 +3,9 @@
 Shared tools for Maarten (Amsterdam). Public repo so Actions minutes are free; never put keys or personal data here.
 Related repos: day-trading-desk (Nasdaq, private), Meme-Desk (memecoin research, public).
 
+- Crazy strategies (day desk round 33b): `research/crazy.py` + `.github/workflows/crazy.yml` (push or dispatch): random
+  rules on ~70 markets, evolved on 2019-23, holdout 2024+; report in `results/crazy/crazy_report.txt`. 1-minute data via
+  `tools/fetch_histdata.sh` (HistData) and data.binance.vision.
 - Video and account links (TikTok etc.): `.github/workflows/video.yml` runs `tools/video.py`. Inputs `urls`
   (videos and/or accounts, space-separated), `every` (seconds per frame, default 1), `max` (newest videos per account,
   default 10). Output on the `videos` branch:

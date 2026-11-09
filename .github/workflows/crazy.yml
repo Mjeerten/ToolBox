@@ -1,0 +1,82 @@
+name: crazy strategies
+# Day desk round 33b (research/crazy.py): invented strategies on every market (1h candles, held 1h-2 weeks), evolved on
+# 2019-23, holdout 2024+. 8 shards download 1-minute data (HistData / Binance) and build 1-hour candles; one job evolves.
+on:
+  workflow_dispatch:
+    inputs:
+      n0: {description: "random strategies first", default: "100000"}
+      pop: {description: "population per generation", default: "5000"}
+      gens: {description: "generations", default: "60"}
+      seed: {description: "random seed", default: "33"}
+  push:
+    branches: [main]
+    paths: [research/crazy.py, .github/workflows/crazy.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy
+      - uses: actions/cache@v4
+        with:
+          path: data
+          key: crazy-h1-${{ matrix.shard }}-2026-09-v1
+      - name: download and build 1-hour candles
+        run: |
+          mkdir -p data
+          python -m research.crazy list --shard ${{ matrix.shard }} --of 8 | while read src sym; do
+            [ -s data/$sym.pkl ] && continue
+            rm -rf raw && mkdir -p raw
+            if [ "$src" = binance ]; then
+              for y in 2019 2020 2021 2022 2023 2024 2025 2026; do for m in 01 02 03 04 05 06 07 08 09 10 11 12; do
+                [ "$y$m" -gt 202609 ] && continue
+                curl -sSf -o raw/$sym-$y-$m.zip https://data.binance.vision/data/spot/monthly/klines/$sym/1m/$sym-1m-$y-$m.zip < /dev/null || rm -f raw/$sym-$y-$m.zip
+              done; done
+            else
+              bash tools/fetch_histdata.sh $sym raw > /dev/null < /dev/null
+            fi
+            python -m research.crazy build --raw raw --sym $sym --out data/$sym.pkl < /dev/null || echo "build failed $sym"
+          done
+          ls data | wc -l
+      - uses: actions/upload-artifact@v4
+        with:
+          name: h1-${{ matrix.shard }}
+          path: data
+
+  evolve:
+    needs: data
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q pandas numpy numba
+      - uses: actions/download-artifact@v4
+        with:
+          path: data
+      - name: invent and evolve
+        run: >
+          python -m research.crazy run --data data --out out --n0 ${{ inputs.n0 || '100000' }}
+          --pop ${{ inputs.pop || '5000' }} --gens ${{ inputs.gens || '60' }} --seed ${{ inputs.seed || '33' }}
+      - name: commit results
+        run: |
+          mkdir -p results/crazy
+          cp out/* results/crazy/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results/crazy
+          git commit -m "Crazy strategies results [skip ci]" || exit 0
+          for i in 1 2 3; do git push && break; git pull --rebase; done
