@@ -1,0 +1,2 @@
+language: en (35%)
+(no speech found: music only? read the frames / ocr.txt)

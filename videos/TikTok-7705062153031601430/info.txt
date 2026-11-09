@@ -1,0 +1,9 @@
+url: https://vm.tiktok.com/ZGdXUpGna/
+uploader: nomadaura0 (7612453171780699139)
+date: 2026-11-06
+duration_s: 20
+views: 33400  likes: 525  comments: 42
+frames: 20, one every 1 s (frames/0001.jpg = second 0); sheets: 1 (12 frames each; 5 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+I GAVE MY DUMBEST GROK BOT $1,000 AT 11:15PM AND WENT TO SLEEP. AT 7:13AM IT WAS SITTING ON $9,843. it can't predict a single candle. it follows one rule: any asset drifts more than 3% off target → rebalance all night it asks one question about 6 assets: how far did each one drift? this is what i pasted before bed, ready to copy: Build a rebalancing desk in Grok Bot. 7 agents, hard handoffs. RADAR: price $BTC, gold, Nasdaq, $ETH, oil, cash. ANALYST: measure drift from target weights. Drift > 3% → QUANT sizes the rebalance. GPT-6.1 reviews every trade and can veto. GUARD blocks it if fees > drift benefit or turnover cap is hit. EXEC places the order. Grok Bot makes the final call. Log every decision with the reason. Run overnight. the actual log: → "drift 4.1% > 3% band" → oil short in → "rebalance alpha +0.4%" → oil out, +$1,734.68 → "drift 1.2% inside band" → $ETH skipped → "fees > drift benefit" → $BTC blocked → "turnover cap reached" → $BTC blocked again → "whipsaw, re-entered" → $BTC short, −$595.26 the number: → 11:15pm $1,000 → 2:00am $2,181 → 7:13am $9,843.85 34 rebalances. GPT-6.1 passed 34, vetoed 11 22 wins, 12 losses. sharpe 2.55, volatility 11.7% it bled too. russell got trimmed too early, −$528.46 bots do 90%. i only say yes or no. solo setup, zero hires one night, not typical, not financial advice steal the 3% rule. send this to your Grok Bot save this before the feed buries it boring bot that rebalances or smart bot that predicts, which one gets your $1K?
