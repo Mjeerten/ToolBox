@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@nitrotrades/video/7705854113904348429?_r=1&_t=ZG-9BIdDvekqm0
+uploader: nitrotrades (6906072928376030214)
+date: 2026-11-08
+duration_s: 88
+views: 75600  likes: 9879  comments: 197
+frames: 89, one every 1 s (frames/0001.jpg = second 0); sheets: 5 (12 frames each; 54 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+free game for y’all #trading #stocks #investing #crypto #forex
