@@ -1,0 +1,15 @@
+language: en (100%)
+[   0.0-   6.9] Buy gold for just 55 minutes every Friday. At 4pm New York time, if the price is below Monday's
+[   6.9-  15.4] 4pm price, buy. Close 55 minutes later. From 2015 to October 2026, trading 0.1
+[  15.4-  23.8] lots with no stop-loss. A rule this simple made $1,435 and was profitable in 9 of 12 years,
+[  23.8-  27.4] after spread. Why does it have to be Friday at that hour?
+[  27.4-  34.5] Alexander Sitnik studied gold futures from 2010 to 2026. Every Friday, in the last hour before the
+[  34.5-  41.0] market closes, the price tends to rise. His guess? The market is about to shut for 49 hours,
+[  41.0-  46.5] so traders holding sell positions fear the news and get out first. And getting out of a sell
+[  46.5-  51.8] means buying. When that week has been falling, more traders are holding sells, and the rise
+[  51.8-  59.2] is more than twice as big. I checked it on gold. After spread, Fridays in a rising week lost $484.
+[  59.8-  69.1] Monday to Thursday at the same hour lost $12,117. The biggest one was January 30th, 2026. Buy at
+[  69.1-  80.1] $4848, close at $4882, a profit of $345. But honestly, the last eight trades all lost,
+[  80.1-  86.9] $344 in total. That's the longest losing streak since 2015. If you want to read it yourself,
+[  86.9-  92.2] the study's title is in the caption. Oh, by the way, my main strategies are built on a
+[  92.2-  97.7] much stronger foundation than this. And they come with indicators and EA's. Link in my bio.
