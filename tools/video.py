@@ -7,6 +7,10 @@ Per video  -> <out>/<extractor>-<id>/ info.txt, transcript.txt, ocr.txt, sheets/
               timestamps burned in), frames/NNNN.jpg (frame k = second (k-1)*every).
               Sheets hold only the frames where the picture changes (plus at least one every MAX_GAP seconds), so a
               talking head does not fill ten sheets; every frame stays in frames/ and is OCR'd (4 at a time).
+Slideshow  (TikTok photo post, /photo/ link) -> the same folder layout: frames/NNNN.jpg = slide N, sheets of every
+              slide ("slide N" in the corner), ocr.txt per slide, transcript.txt of the background sound, info.txt.
+              yt-dlp has no photo support, so the slides come from the post's page (its embedded JSON), with
+              tikwm.com as a fallback; all slides download in parallel.
 Per account (TikTok @user, YouTube channel, Instagram profile...) -> <out>/account-<extractor>-<name>/index.txt
               (every listed video: date, views, likes, duration, caption, link) and the newest `max` videos processed
               as above (their folders are listed at the end of index.txt).
@@ -14,12 +18,15 @@ Per account (TikTok @user, YouTube channel, Instagram profile...) -> <out>/accou
 import argparse
 import datetime
 import glob
+import io
 import json
 import os
 import re
 import shutil
 import subprocess
 import sys
+import urllib.parse
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 import numpy as np
@@ -30,6 +37,28 @@ DIFF, MAX_GAP = 6.0, 4   # sheet frame kept when its 48x48 grey thumbnail differ
 
 YTDLP = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings"]
 COOKIES = os.environ.get("COOKIES_FILE") if os.path.getsize(os.environ.get("COOKIES_FILE") or os.devnull) else None
+
+
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+      "Chrome/130.0 Safari/537.36")
+
+
+def fetch(url, data=None, timeout=30):
+    """(final url, bytes) with a browser user agent; follows redirects (vm.tiktok.com short links)."""
+    req = urllib.request.Request(url, data=data, headers={"User-Agent": UA, "Referer": "https://www.tiktok.com/"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.geturl(), r.read()
+
+
+def resolve(url):
+    """Short TikTok links (vm.tiktok.com/..., tiktok.com/t/...) -> the full link, so a /photo/ post is recognised."""
+    if os.path.isfile(url) or not re.search(r"//(vm|vt)\.tiktok\.com/|tiktok\.com/t/", url):
+        return url
+    try:
+        return fetch(url)[0]
+    except Exception as e:   # noqa: keep the short link, yt-dlp resolves it itself
+        print("resolve failed:", url, repr(e)[:200])
+        return url
 
 
 def sh(cmd, text=True):
@@ -110,8 +139,8 @@ def key_frames(frames, every):
     return keep
 
 
-def sheets(frames, keep, every, folder):
-    """Contact sheets of the kept frames: 4x3, 360 px wide each, the second in the corner."""
+def sheets(frames, keep, every, folder, name_of=None):
+    """Contact sheets of the kept frames: 4x3, 360 px wide each, the second (or name_of(k)) in the corner."""
     try:
         font = ImageFont.truetype("DejaVuSans-Bold.ttf", 34)
     except OSError:
@@ -122,7 +151,7 @@ def sheets(frames, keep, every, folder):
             im = Image.open(frames[k]).convert("RGB")
             im = im.resize((360, round(im.height * 360 / im.width)))
             d = ImageDraw.Draw(im)
-            label = f"{k * every:g}s"
+            label = name_of(k) if name_of else f"{k * every:g}s"
             d.rectangle((0, 0, 12 + 22 * len(label), 44), fill=(0, 0, 0))
             d.text((6, 4), label, fill=(255, 255, 0), font=font)
             tiles.append(im)
@@ -169,7 +198,123 @@ def download(url, tmp):
     return None
 
 
+def find_item(obj):
+    """The post dict inside TikTok's page JSON: the first dict with an 'imagePost' key (its place moves between
+    page versions, so search instead of a fixed path)."""
+    stack = [obj]
+    while stack:
+        o = stack.pop()
+        if isinstance(o, dict):
+            if isinstance(o.get("imagePost"), dict):
+                return o
+            stack.extend(o.values())
+        elif isinstance(o, list):
+            stack.extend(o)
+    return None
+
+
+def best_url(urls):
+    """A slide URL Pillow can open: prefer jpeg / webp over heic."""
+    urls = [u for u in urls or [] if u]
+    return next((u for u in urls if re.search(r"jpe?g|webp", u, re.I)), urls[0] if urls else None)
+
+
+def slides_from_page(url):
+    """Slides + post info from the photo post's own page."""
+    page = fetch(url)[1].decode("utf-8", "replace")
+    m = re.search(r'<script[^>]+id="(?:__UNIVERSAL_DATA_FOR_REHYDRATION__|SIGI_STATE)"[^>]*>(.*?)</script>', page, re.S)
+    item = find_item(json.loads(m.group(1))) if m else None
+    if not item:
+        raise ValueError("no imagePost in the page JSON")
+    st, au, mu = item.get("stats") or {}, item.get("author") or {}, item.get("music") or {}
+    return dict(id=item.get("id"), images=[best_url((im.get("imageURL") or {}).get("urlList"))
+                                           for im in item["imagePost"].get("images") or []],
+                desc=item.get("desc") or (item["imagePost"].get("title") or ""), uploader=au.get("uniqueId"),
+                uploader_id=au.get("id"), date=item.get("createTime"), views=st.get("playCount"),
+                likes=st.get("diggCount"), comments=st.get("commentCount"), music=mu.get("playUrl"))
+
+
+def slides_from_tikwm(url):
+    """Fallback: the public tikwm.com API (only the post link is sent)."""
+    raw = fetch("https://www.tikwm.com/api/", data=urllib.parse.urlencode({"url": url, "hd": 1}).encode())[1]
+    d = json.loads(raw).get("data") or {}
+    if not d.get("images"):
+        raise ValueError(f"tikwm: no images ({raw[:200]!r})")
+    return dict(id=d.get("id"), images=d["images"], desc=d.get("title") or "",
+                uploader=(d.get("author") or {}).get("unique_id"), uploader_id=(d.get("author") or {}).get("id"),
+                date=d.get("create_time"), views=d.get("play_count"), likes=d.get("digg_count"),
+                comments=d.get("comment_count"), music=d.get("music"))
+
+
+def slideshow(url, out, whisper):
+    """A TikTok photo post: every slide as a frame, sheets, OCR per slide, the sound's transcript, info.txt."""
+    post, errors = None, []
+    for get in (slides_from_page, slides_from_tikwm):
+        try:
+            post = get(url)
+            break
+        except Exception as e:   # noqa: try the next source
+            errors.append(f"{get.__name__}: {e!r}"[:300])
+    if not post:
+        print("SLIDESHOW FAILED:", url, " / ".join(errors))
+        return None
+    pid = post["id"] or re.search(r"/photo/(\d+)", url).group(1)
+    folder = f"{out}/TikTok-{pid}"
+    shutil.rmtree(folder, ignore_errors=True)
+    os.makedirs(f"{folder}/frames")
+    os.makedirs(f"{folder}/sheets")
+
+    def save(job):
+        n, u = job
+        try:
+            im = Image.open(io.BytesIO(fetch(u, timeout=60)[1])).convert("RGB")
+        except Exception as e:   # noqa: one bad slide must not lose the rest
+            print(f"slide {n} failed: {e!r}"[:200])
+            return None
+        if im.width > 1080:
+            im = im.resize((1080, round(im.height * 1080 / im.width)))
+        path = f"{folder}/frames/{n:04d}.jpg"
+        im.save(path, quality=88)
+        return path
+
+    with ThreadPoolExecutor(8) as ex:
+        got = list(ex.map(save, [(n, u) for n, u in enumerate(post["images"], 1) if u]))
+    frames = [f for f in got if f]
+    print(f"-- {folder}: {len(frames)} of {len(post['images'])} slides, OCR + transcript...", flush=True)
+    nums = [int(os.path.basename(f)[:4]) for f in frames]
+    sheets(frames, list(range(len(frames))), 1, folder, name_of=lambda k: f"slide {nums[k]}")
+    with ThreadPoolExecutor(4) as ex:   # every slide's full text (slides are separate pages: no line dedup)
+        texts = list(ex.map(lambda f: subprocess.run(["tesseract", f, "-", "--psm", "3"], capture_output=True,
+                                                     text=True, timeout=120, env=OCR_ENV).stdout, frames))
+    ocr = []
+    for n, t in zip(nums, texts):
+        lines = [re.sub(r"\s+", " ", x).strip() for x in t.splitlines()]
+        ocr += [f"--- slide {n}"] + ([x for x in lines if x] or ["(no text found)"])
+    open(f"{folder}/ocr.txt", "w").write("\n".join(ocr or ["(no slides)"]) + "\n")
+    tr = ["(no sound link)"]
+    if post.get("music") and whisper:
+        try:
+            snd = "/tmp/dl/sound.mp3"
+            os.makedirs("/tmp/dl", exist_ok=True)
+            open(snd, "wb").write(fetch(post["music"], timeout=60)[1])
+            tr = transcript(snd, whisper)
+        except Exception as e:   # noqa: a transcript is optional
+            tr = [f"(transcript failed: {e!r})"]
+    open(f"{folder}/transcript.txt", "w").write("\n".join(tr) + "\n")
+    info = [f"url: {url}", f"uploader: {post['uploader']} ({post['uploader_id']})", f"date: {fmt_date(post['date'])}",
+            "type: slideshow (photo post)",
+            f"views: {post['views']}  likes: {post['likes']}  comments: {post['comments']}",
+            f"slides: {len(frames)} of {len(post['images'])} (frames/NNNN.jpg = slide N, full size; all on the sheets; "
+            "ocr.txt has each slide's text)", "", "title/caption:", post["desc"].strip()]
+    open(f"{folder}/info.txt", "w").write("\n".join(info) + "\n")
+    print(f"== {folder}\n" + "\n".join(info) + "\n" + "\n".join(ocr[:80]), flush=True)
+    return folder
+
+
 def video(url, out, every, whisper):
+    url = resolve(url)
+    if "/photo/" in url:
+        return slideshow(url, out, whisper)
     tmp = "/tmp/dl"
     shutil.rmtree(tmp, ignore_errors=True)
     os.makedirs(tmp)
@@ -224,6 +369,10 @@ def main():
             if os.path.isdir(f"{a.out}/upload-{name}"):
                 print("already done:", url)
                 continue
+        url = resolve(url)
+        if "/photo/" in url:
+            slideshow(url, a.out, whisper)
+            continue
         info = probe(url, a.max)
         if info and info.get("_type") == "playlist":
             account(info, url, a.out, a.max, every, whisper)

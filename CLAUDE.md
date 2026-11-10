@@ -12,6 +12,9 @@ Related repos: day-trading-desk (Nasdaq, private), Meme-Desk (memecoin research,
   - per video `videos/<extractor>-<id>/`: info.txt (caption, views, date), transcript.txt (speech), ocr.txt (on-screen
     text with the second it appears, every frame), sheets/NN.jpg (12 frames each, second in the corner; only frames
     where the picture changes, at least one every 4 s, so read all sheets), frames/NNNN.jpg (every frame).
+  - per slideshow (TikTok photo post, /photo/ link; yt-dlp can't): same folder `videos/TikTok-<id>/`, frames/NNNN.jpg =
+    slide N full size, sheets of every slide, ocr.txt per slide, transcript.txt of the sound. Slides come from the
+    post page's JSON (`slideshow` in video.py), fallback tikwm.com API; vm.tiktok.com short links are resolved first.
   - per account `videos/account-<extractor>-<name>/index.txt`: every listed video (date, views, likes, caption, link)
     and the folders of the processed ones.
   Trigger: `gh api -X POST repos/Mjeerten/toolbox/actions/workflows/video.yml/dispatches -f ref=main -f 'inputs[urls]=...'`
