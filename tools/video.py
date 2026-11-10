@@ -8,7 +8,7 @@ Per video  -> <out>/<extractor>-<id>/ info.txt, transcript.txt, ocr.txt, sheets/
               Sheets hold only the frames where the picture changes (plus at least one every MAX_GAP seconds), so a
               talking head does not fill ten sheets; every frame stays in frames/ and is OCR'd (4 at a time).
 Slideshow  (TikTok photo post, /photo/ link) -> the same folder layout: frames/NNNN.jpg = slide N, sheets of every
-              slide ("slide N" in the corner), ocr.txt per slide, transcript.txt of the background sound, info.txt.
+              slide (6 per sheet, 2 across at 720 px, "slide N" in the corner), ocr.txt per slide, transcript.txt of the background sound, info.txt.
               yt-dlp has no photo support, so the slides come from the post's page (its embedded JSON), with
               tikwm.com as a fallback; all slides download in parallel.
 Per account (TikTok @user, YouTube channel, Instagram profile...) -> <out>/account-<extractor>-<name>/index.txt
@@ -139,27 +139,32 @@ def key_frames(frames, every):
     return keep
 
 
-def sheets(frames, keep, every, folder, name_of=None):
-    """Contact sheets of the kept frames: 4x3, 360 px wide each, the second (or name_of(k)) in the corner."""
+def sheets(frames, keep, every, folder, name_of=None, cols=4, width=360, per=12):
+    """Contact sheets of the kept frames: `cols` across, `width` px each, `per` per sheet, the second (or name_of(k))
+    in the corner. Each row is as tall as its tallest tile, so mixed portrait / landscape slides waste no space."""
     try:
         font = ImageFont.truetype("DejaVuSans-Bold.ttf", 34)
     except OSError:
         font = ImageFont.load_default()
-    for n in range(0, len(keep), 12):
+    for n in range(0, len(keep), per):
         tiles = []
-        for k in keep[n:n + 12]:
+        for k in keep[n:n + per]:
             im = Image.open(frames[k]).convert("RGB")
-            im = im.resize((360, round(im.height * 360 / im.width)))
+            im = im.resize((width, round(im.height * width / im.width)))
             d = ImageDraw.Draw(im)
             label = name_of(k) if name_of else f"{k * every:g}s"
             d.rectangle((0, 0, 12 + 22 * len(label), 44), fill=(0, 0, 0))
             d.text((6, 4), label, fill=(255, 255, 0), font=font)
             tiles.append(im)
-        w, h = 360, max(t.height for t in tiles)
-        sheet = Image.new("RGB", (w * 4, h * ((len(tiles) + 3) // 4)), (0, 0, 0))
-        for i, t in enumerate(tiles):
-            sheet.paste(t, ((i % 4) * w, (i // 4) * h))
-        sheet.save(f"{folder}/sheets/{n // 12 + 1:02d}.jpg", quality=80)
+        rows = [tiles[i:i + cols] for i in range(0, len(tiles), cols)]
+        heights = [max(t.height for t in r) for r in rows]
+        sheet = Image.new("RGB", (width * cols, sum(heights)), (0, 0, 0))
+        y = 0
+        for r, h in zip(rows, heights):
+            for i, t in enumerate(r):
+                sheet.paste(t, (i * width, y))
+            y += h
+        sheet.save(f"{folder}/sheets/{n // per + 1:02d}.jpg", quality=80)
 
 
 def transcript(path, whisper):
@@ -282,7 +287,7 @@ def slideshow(url, out, whisper):
     frames = [f for f in got if f]
     print(f"-- {folder}: {len(frames)} of {len(post['images'])} slides, OCR + transcript...", flush=True)
     nums = [int(os.path.basename(f)[:4]) for f in frames]
-    sheets(frames, list(range(len(frames))), 1, folder, name_of=lambda k: f"slide {nums[k]}")
+    sheets(frames, list(range(len(frames))), 1, folder, name_of=lambda k: f"slide {nums[k]}", cols=2, width=720, per=6)
     with ThreadPoolExecutor(4) as ex:   # every slide's full text (slides are separate pages: no line dedup)
         texts = list(ex.map(lambda f: subprocess.run(["tesseract", f, "-", "--psm", "3"], capture_output=True,
                                                      text=True, timeout=120, env=OCR_ENV).stdout, frames))

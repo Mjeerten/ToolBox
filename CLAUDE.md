@@ -13,7 +13,7 @@ Related repos: day-trading-desk (Nasdaq, private), Meme-Desk (memecoin research,
     text with the second it appears, every frame), sheets/NN.jpg (12 frames each, second in the corner; only frames
     where the picture changes, at least one every 4 s, so read all sheets), frames/NNNN.jpg (every frame).
   - per slideshow (TikTok photo post, /photo/ link; yt-dlp can't): same folder `videos/TikTok-<id>/`, frames/NNNN.jpg =
-    slide N full size, sheets of every slide, ocr.txt per slide, transcript.txt of the sound. Slides come from the
+    slide N full size, sheets of every slide (6 per sheet, 2 across), ocr.txt per slide, transcript.txt of the sound. Slides come from the
     post page's JSON (`slideshow` in video.py), fallback tikwm.com API; vm.tiktok.com short links are resolved first.
   - per account `videos/account-<extractor>-<name>/index.txt`: every listed video (date, views, likes, caption, link)
     and the folders of the processed ones.
