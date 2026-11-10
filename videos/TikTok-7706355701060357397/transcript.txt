@@ -1,0 +1,122 @@
+language: en (100%)
+[   0.0-   4.6] 11 minute. That's all it'll take for me to make you dangerously good at day trading.
+[   4.6-   9.8] And most people think that you have to be some sort of mathematician to even become profitable
+[   9.8-  15.0] with trading. That a good trader, the kind that times the market right from the perfect point,
+[  15.0-  20.1] comes from some sort of rare combination of multi-million dollar tools, hedge fund level
+[  20.1-  26.5] data, and magic software. But that is simply not true. Timing the market is actually a lot
+[  26.6-  32.8] more simple than people think. In fact, the very key to a perfect system can be expressed by this
+[  32.8-  39.0] simple setup. Now what's happening here is the market is trending down, leaving behind this high.
+[  39.0-  43.7] Then price proceeds to break this high, making you sit back and think the market is now in a
+[  43.7-  49.0] reversal and is in the process of starting to become in an uptrend. Pretty normal thinking.
+[  49.0-  53.6] So what you do is wait for price to come down first, maybe to an area of demand
+[  53.6-  59.4] or a support level, enter the trade here and expect price to move upwards. My eyes,
+[  59.4-  65.6] this is a perfect entry. But that pattern in the middle of nowhere is completely useless.
+[  65.6-  71.7] And if you're taking this trade without the right context, it won't work, at least consistently.
+[  71.7-  75.8] As if you traded this way before, you'd often see something like this, where the
+[  75.8-  80.0] chart is trending downwards again, leaving behind this high, price breaks this high,
+[  80.0-  84.4] you wait for price to come down to your area of demand, enter the trade, but then it just
+[  84.4-  90.2] keeps on falling, giving you a losing trade. So why is this happening? Does this setup not work?
+[  90.2-  96.1] Well, actually it does work. And it's pretty damn good. Really good. Before we started trading
+[  96.1- 101.0] this system with my own money, I tested all the different variations of it with paper
+[ 101.0- 105.5] trading. If you don't know, paper trading is basically just like real trading, but you're
+[ 105.5- 111.2] using fake money. So you can test your strategies without any real risk. If you're looking to paper
+[ 111.2- 116.6] trade yourself, I'd recommend a site called Weeble. It's completely free to use, super user friendly.
+[ 116.6- 122.3] And what I've been using a lot is their AI agents, where you can ask questions to your
+[ 122.3- 128.2] personal AI agents about the risk profile, your portfolio, and even your financial goals.
+[ 128.2- 132.7] Weeble is also a broker. So you can trade with real money on their platform as well,
+[ 132.7- 140.2] if you want to. Plus, they give you 12 free stocks valued up to $3,600 if you deposit $100
+[ 140.2- 143.9] into your account. I'll leave a link in the description if you want to check that out. But
+[ 143.9- 149.0] during this paper trading testing, I found something very interesting. The reason you were
+[ 149.0- 154.9] losing with this setup is because you were trading the setup without context. Context that is
+[ 154.9- 159.2] crucial for this strategy to work. To start us off, get on your charting platform. I
+[ 159.2- 163.4] personally use TradingView. If you don't yet have it, I'll leave a link in the description.
+[ 163.4- 169.3] Next, instead of using this setup blindly, we first need to get a market bias. In order to get
+[ 169.3- 176.0] a market bias, we need to have a long term view. So go to your timeframes, then click the daily
+[ 176.0- 181.0] timeframe. Here on this chart, something is clear. We are trending upwards. Price broke
+[ 181.0- 187.0] this high, this high, and this high. An obvious uptrend. But then something interesting starts
+[ 187.1- 193.0] to happen. After breaking this previous high, price goes lower and breaks this low, which you could say
+[ 193.0- 198.2] is the start of a downtrend, which is exactly what happens. Price goes up a bit, rejects,
+[ 198.2- 202.9] then proceeds to break the next low again. So now we have something very interesting. We
+[ 202.9- 207.8] obviously hit a reversal and price is starting to trend downwards. But one thing I want you to
+[ 207.8- 213.5] pay close attention to is this. Price goes above this high and immediately rejects. Price
+[ 213.5- 219.5] goes above this high and immediately rejects. Price goes above this high and immediately rejects.
+[ 219.5- 224.4] It's the same thing with the lows. Price breaks this low, immediately goes upwards. This low
+[ 224.4- 229.8] gets broken, immediately goes upwards. This low gets broken, immediately goes upwards. This is
+[ 229.8- 235.8] liquidity consistently being taken out over and over again. So what's happening where we
+[ 235.8- 241.1] currently are? Well price broke this low and is just now starting to go upwards. So one
+[ 241.1- 247.2] key question we need to ask ourselves, where is the next high to be taken out? That high would be
+[ 247.2- 253.4] right here. So we now know in the back of our head, price will be attracted to this high. It will
+[ 253.4- 258.6] naturally want to go up to it. It will act as almost a magnet. Price will want to go above
+[ 258.6- 263.5] this high to take out the liquidity, just like it did in all of these previous examples.
+[ 263.5- 268.2] One thing that completely changed the way I think about trading is you have to think about
+[ 268.2- 273.3] who you are competing against. If you are a buyer, you have to ask, where are the sellers
+[ 273.3- 278.8] wanting to enter? If you're a seller, you have to ask, where are the buyers wanting to enter?
+[ 278.8- 284.6] In this example, if I was a seller, I'd only want to jump in if price is somewhere in this area,
+[ 284.6- 290.3] where there's an area of supply or the liquidity that we mentioned before. If I'm a seller,
+[ 290.3- 295.1] that's where I'd want price to be. So knowing this, we know the majority of traders
+[ 295.1- 300.5] are thinking this way, and price will naturally want to go to this area. It will naturally want to
+[ 300.5- 306.9] run until it hits a wall of sellers, which we can use to our advantage. So going to the first example
+[ 306.9- 313.0] I showed you, we have an uptrend. Then price breaks this uptrend by breaking this low. Now,
+[ 313.0- 318.2] we think price is in the start of a downtrend. Instead of taking this short trade up here,
+[ 318.2- 323.0] where we're entering at the area of supply, just like everyone else is doing, we actually
+[ 323.0- 329.0] want to take a long trade up until that obvious selling area occurs. Because again, price will
+[ 329.0- 335.2] naturally want to go up to this point to give the sellers a chance to enter into this trade. So we
+[ 335.2- 340.5] aren't taking the obvious trade that everyone else is planning to take, we're taking the trade
+[ 340.5- 346.2] up to that point, which again, the trade that everyone else wants to take will act as a magnet.
+[ 346.2- 351.4] So going to a real example again, that magnet is somewhere around this range,
+[ 351.5- 357.2] either at this previous high or at this area of supply right here, price will want to go up to this
+[ 357.2- 364.0] point. And in order to do that, it has to go up. So even though the market is now trending downwards,
+[ 364.0- 370.2] which means everyone is looking to enter short positions, all we are doing is trading upwards
+[ 370.2- 375.4] to those obvious selling points. So now that we have a larger timeframe bias, we can now go
+[ 375.4- 380.6] to a smaller timeframe, which we'll do by going to the four hour timeframe. So now that
+[ 380.6- 385.8] we're on a lower timeframe, we are zoomed in more and can start to look for more precise
+[ 385.8- 391.8] areas to enter. This high is the high that we marked out before. This is the high that sellers
+[ 391.8- 397.4] will start to come in making price attracted to going up to this high. If we wanted to get
+[ 397.4- 403.7] even a bit more precise, we also have an area of supply right here. Our plan is simple,
+[ 403.7- 409.0] not to sell from this area of supply, but to trade up to it. We understand what the
+[ 409.0- 414.9] market is trying to achieve to go up to the obvious selling point. So on our larger timeframe,
+[ 414.9- 419.9] we confirmed that we were bearish, but the lower timeframe is telling a different story.
+[ 419.9- 425.0] The market is trending upwards. We have a higher high right here, higher high here,
+[ 425.0- 429.6] and a higher high here. So now that we have confirmation, the market is trending upwards
+[ 429.6- 434.7] on a smaller timeframe, we can now look for spots to potentially enter. In my eyes, we have
+[ 434.7- 440.6] two obvious areas. We have a demand zone here, we have a demand zone here, two options. Now,
+[ 440.6- 446.2] what's interesting about the strategy is that I find it works more often if we grab liquidity
+[ 446.2- 451.3] before moving upwards. If you don't know what liquidity is, it's basically just a low or a
+[ 451.3- 456.4] high that gets broken, which is a fake out and price actually moves in the opposite
+[ 456.4- 461.1] direction afterwards. It's a bit more complex than that. I've made multiple videos on this
+[ 461.1- 466.5] topic if you want to check that out after this video, but that's liquidity put simply. So where
+[ 466.5- 472.9] would our liquidity be on this chart? It would be at this low right here. So we have two demand zones
+[ 472.9- 478.1] and a potential liquidity point. Now this is not to say price cannot come down to our first
+[ 478.1- 483.6] demand zone and immediately head upwards from here. It could do that. So we're going to keep
+[ 483.6- 488.7] an open mind, get confirmation first and watch what happens. Next, we're going to move to
+[ 488.7- 494.5] a smaller timeframe to get even a bit more precise. To do that, we'll go to the one hour
+[ 494.5- 499.9] timeframe. We have our areas already set up. Let's see what happens. Price comes down to our first
+[ 499.9- 505.4] demand zone. Instead of entering right away, we first want to see confirmation. When I say
+[ 505.4- 511.2] confirmation, I mean, we want to see price make higher highs after hitting our demand zone. After
+[ 511.2- 516.5] hitting our first demand zone, price bounces a bit, leaving behind this high. We want to see
+[ 516.5- 522.4] price break this high to confirm that we're going to move upwards. Unfortunately, price did not do
+[ 522.4- 528.5] that and continues to move downwards, making this first demand zone invalid. While doing this,
+[ 528.5- 533.8] it grabbed all of this liquidity by breaking this low. While grabbing all this liquidity,
+[ 533.8- 539.6] it also enters into our second demand zone. And this is where the magic happens. We have
+[ 539.6- 545.2] our demand zone being hit. We also grabbed the liquidity, but again, we don't enter yet.
+[ 545.3- 551.2] We first need confirmation of this high being broken. So we wait. Price moves directly upwards
+[ 551.2- 556.9] after hitting our second demand zone. And it does end up breaking this previous high. While doing so,
+[ 556.9- 562.5] it left behind another demand zone. So we'll mark that out. So now we have a clear cut plan.
+[ 562.5- 567.2] Price gave us confirmation of moving upwards after breaking this high. Now,
+[ 567.2- 572.2] all we want to see is price retrace back down to this new demand zone. And this
+[ 572.2- 577.7] is where we'll enter. Let's see what happens. After breaking this high, price does indeed come
+[ 577.7- 583.3] down to our new demand zone. We enter the trade. We can put our stop loss below this low right here
+[ 583.3- 588.4] and we consider take profit at the obvious selling point at this area of supply on the
+[ 588.4- 593.8] larger timeframe. Now we have something absolutely beautiful. We have a larger timeframe bias
+[ 593.8- 598.6] for our target. We have a smaller timeframe bias trending upwards to that target. We have
+[ 598.6- 604.6] liquidity being taken out and we have a confirmed area of demand. Also notice the risk to reward.
+[ 604.6- 610.5] If we lose, our loss will be very minimal. If we win, our win will be massive. That's the
+[ 610.5- 615.8] power of this strategy. And if you're taking trades like this consistently, the risk to reward
+[ 615.8- 621.2] will benefit you massively, which all of this is a highly repeatable system that you can use
+[ 621.2- 626.6] over and over again on basically any chart. And what happens? Immediately after hitting our
+[ 626.6- 632.2] entry, it jumps upwards and goes beautifully to our take profit. I know all of this can be a little
+[ 632.2- 637.4] complicated, especially if you're a new trader. If you get lost or confused during any part of
+[ 637.4- 643.0] this video, I'd highly recommend rewatching this over and over again until you get it. Because
+[ 643.0- 648.9] if you get it right, this strategy works absolute wonders. That's how I find my perfect entries.
+[ 648.9- 653.5] Hopefully you learned something. I'll see you next time. I wanted this video to be
+[ 653.5- 659.9] exactly 11 minutes for the title, so I'm just gonna... Okay, see ya.

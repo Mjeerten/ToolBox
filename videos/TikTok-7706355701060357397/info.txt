@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@_tradinglab_/video/7706355701060357397?_r=1&_t=ZG-9BIcZZR2XEv
+uploader: _tradinglab_ (6913884582744491014)
+date: 2026-11-10
+duration_s: 660
+views: 20100  likes: 2060  comments: 62
+frames: 660, one every 1 s (frames/0001.jpg = second 0); sheets: 19 (12 frames each; 225 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+#smartmoneyconcepts #fypp #ict #daytrading #tradingstrategy
