@@ -1,0 +1,75 @@
+--- slide 1
+Ornstein-Uhlenbeck
+Catches HOD/LOD 92% of
+days
+(Backtested on 3,041 days of
+market data)
+~~».
+--- slide 2
+(no text found)
+--- slide 3
+R
+Ua DASEC] Ch MELNS Ee]
+‘an
+el i
+Mn
+ee (
+vo ed i
+Vv
+ae \ x
+--- slide 4
+Session
+200 -
+50 -
+Zone Overlap Density
+Distance from open (ATR)
+r 10
+Stacked zones
+--- slide 5
+(no text found)
+--- slide 6
+It uses a volatility-normalized empirical
+quantile estimate to calculate zones where
+reversal are mathematically likely
+mea
+‘inaView.
+--- slide 7
+2014
+Realized Volatility Surface
+Year 2024
+> 100
+Vol (%)
+--- slide 8
+Topo epinite prominsies pealk clatsctiion fs
+‘ia Rofttaremtst
+i fl
+iw Ny : \ i WW i h, wf
+h Th
+Ia
+h Mh,
+ii hy, / M4
+th
+|
+i
+essen math ewes mth ! a, ("4
+VA
+I
+--- slide 9
+Zonesere chemm et Ceihy © pen.
+y my Natu , \ z
+Extreme EVerya DEN)
+--- slide 10
+DMs are open if
+you have any questions
+eg Ly =
++4 =
+air fe
+> 20
+i Or want proof
+25
+wep 0.15 = zy
+‘oy . 5
+Tt, 0.20 aa
+es x 10 of)
+My, 028) 0s er
+030 go
