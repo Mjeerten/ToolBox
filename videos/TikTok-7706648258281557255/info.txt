@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tradewithpat/video/7706648258281557255?_r=1&_t=ZG-9BKLiXPzI3M
+uploader: tradewithpat (6797058722293662725)
+date: 2026-11-10
+duration_s: 43
+views: 14000  likes: 786  comments: 27
+frames: 44, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 15 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+STOP Trading this way..

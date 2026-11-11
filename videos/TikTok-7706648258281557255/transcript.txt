@@ -1,0 +1,19 @@
+language: en (100%)
+[   0.0-   2.8] Bro, how much easier can I make this?
+[   2.8-   5.4] Stop trading in the middle of nowhere.
+[   5.4-   9.6] Instead, map out your levels of extreme support and resistance.
+[   9.6-  12.9] When price comes down to extreme support, I'm looking for buys.
+[  12.9-  16.5] When price comes up to extreme resistance, I'm looking for sells.
+[  16.5-  18.0] It's really that simple.
+[  18.0-  19.5] Now, look at this example.
+[  19.5-  23.4] Price comes right into my resistance level, but I don't just blindly sell.
+[  23.4-  25.0] I need a reason to enter.
+[  25.0-  26.5] My favorite confirmation?
+[  26.5-  29.8] A small candle followed by a big engulfing candle.
+[  29.8-  32.0] That's momentum coming into the market.
+[  32.0-  33.2] That's my entry.
+[  33.2-  36.6] Stop loss above resistance and look what happens.
+[  36.6-  39.4] Price drops and smashes my take profit.
+[  39.4-  40.5] Just remember this.
+[  40.5-  42.1] I don't want to trade the middle.
+[  42.1-  43.5] I want to trade the edges.

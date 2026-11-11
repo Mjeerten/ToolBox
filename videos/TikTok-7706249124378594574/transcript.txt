@@ -1,0 +1,89 @@
+language: en (100%)
+[   0.0-   2.3] So top 10 is probably gonna ban me from using this strategy
+[   2.3-   4.6] because I'm up over 100K on the month using it.
+[   4.6-   6.4] The first step of the strategy is going to end queue
+[   6.4-   8.4] and marking your 10 AM EST open.
+[   8.4-   9.2] Now that we have that marked out,
+[   9.2-  11.2] we're gonna wait for manipulation to one or both sides
+[  11.2-  12.3] to figure out which way we're trading.
+[  12.3-  13.6] Now that we set previous day highs
+[  13.6-  15.5] and took out all of our higher DOLs
+[  15.5-  17.8] and we manipulated to both sides to 10 AM open,
+[  17.8-  18.7] we're gonna be looking short.
+[  18.7-  20.4] Now that we are rejecting off this rejection block,
+[  20.4-  22.4] we're making our way back down to our 10 AM open.
+[  22.4-  24.1] We're gonna wait for an entry trigger for entry short.
+[  24.1-  25.2] Now we broke below our 10 AM
+[  25.2-  27.0] with the five minute close below our line.
+[  27.0-  28.7] We're tapping off this one minute rejection block
+[  28.7-  30.1] and we have an in balance order block.
+[  30.1-  31.1] We're gonna set our limit short
+[  31.1-  32.3] and target previous lows.
+[  32.3-  34.4] The 10 AM open is clever
+[  34.4-  37.2] because you get rid of that morning volatility
+[  37.2-  39.4] where price is trying to figure out
+[  39.4-  40.5] type of clue where to go.
+[  40.5-  42.6] So I think we could build something around
+[  42.6-  45.8] some draws on liquidity order blocks,
+[  45.8-  47.2] potential rejection blocks
+[  47.2-  50.1] and let's see if we can roughly replicate the strategy
+[  50.1-  51.0] similar to his.
+[  51.0-  51.8] I think we can.
+[  51.8-  53.5] I think it could be a lot better than you think.
+[  53.5-  55.5] So let's dive in and get to it.
+[  55.5-  57.2] So the first thing like he talked about
+[  57.2-  61.8] was that's marking the 10 AM open on the one minute chart.
+[  61.8-  63.5] I'm gonna make sure the model's on auto
+[  63.5-  66.0] and we're gonna build similar to what he had.
+[  66.0-  69.6] Can you build me an indicator that plots a line
+[  69.6-  72.2] at the 10 AM Eastern open
+[  72.2-  74.0] and follows price forward
+[  74.0-  76.6] because we wanna trade that been level on the one minute.
+[  76.6-  78.3] All right, so we're gonna let it build that out.
+[  78.3-  81.1] You can already see the level there, which is great.
+[  81.1-  82.3] So here's your 10 AM open.
+[  82.3-  84.6] So let's add the previous day highs and low that next
+[  84.6-  85.5] for each day.
+[  85.5-  88.3] We mark out the previous day highs and lows.
+[  88.3-  90.2] So we're gonna have that be marked out as well
+[  90.2-  91.6] so we can just see what it looks like.
+[  91.6-  93.2] All right, so we have the previous day highs and lows
+[  93.2-  94.1] marching.
+[  94.1-  95.4] Can we actually have the highs and lows
+[  95.4-  99.4] for the previous day be based on the session?
+[  99.4- 101.3] All right, now we have the previous session highs and lows
+[ 101.3- 102.1] which is really nice here.
+[ 102.1- 103.9] So that's the next I'm gonna say.
+[ 103.9- 106.3] Now let's mark out significant highs and lows
+[ 106.3- 108.2] that happen after hours.
+[ 108.2- 111.5] Don't mark any highs or lows that occur
+[ 111.5- 112.7] during market hours.
+[ 112.8- 115.8] Just the significant ones that happen after hours.
+[ 115.8- 117.6] You can see going to the 10 AM open.
+[ 117.6- 119.8] How is it swept as pre-market levels?
+[ 119.8- 122.8] Okay, so we have the overnight high and low now plotted.
+[ 122.8- 123.9] All right, so let's check this thing out now.
+[ 123.9- 126.5] We got our label here 10 AM ET open.
+[ 126.5- 128.4] We have the overnight low, overnight high.
+[ 128.4- 131.0] And then we have our PSL
+[ 131.0- 133.3] which is the previous session low and high as well.
+[ 133.3- 135.6] All right, so we have our 10 AM market open.
+[ 135.6- 137.4] We have our overnight high, overnight low.
+[ 137.4- 139.3] I'm gonna play forward and see if the overnight high low
+[ 139.3- 140.3] can get taken.
+[ 140.3- 142.6] You can see now the overnight high did get taken.
+[ 142.6- 145.2] Let's see if we get any type of change
+[ 145.2- 146.8] or rejection from there.
+[ 146.8- 148.1] And we do right here.
+[ 148.1- 150.4] Now I'd wanna see what we do at the 10 AM open
+[ 150.4- 152.3] if we can make an approach back down there,
+[ 152.3- 153.1] which we do.
+[ 153.1- 155.4] Let's see how price now reacts off of that level.
+[ 155.4- 156.9] It ends up closing lower.
+[ 156.9- 159.5] So we're risking 970 to make 1500.
+[ 159.5- 161.0] As you can see, we actually end up running
+[ 161.0- 163.4] through the overnight low as well there
+[ 163.4- 166.6] after showing very clear rejection of the 10 AM open.
+[ 166.6- 167.8] But if you wanna get started with this
+[ 167.8- 170.3] for absolutely just DM us the word Vella
+[ 170.3- 171.6] and I'll send you a link.

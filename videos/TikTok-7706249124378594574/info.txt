@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@luxalgo/video/7706249124378594574?_r=1&_t=ZG-9BKLh1qru2D
+uploader: luxalgo (6811587314105517062)
+date: 2026-11-09
+duration_s: 171
+views: 13800  likes: 464  comments: 38
+frames: 171, one every 1 s (frames/0001.jpg = second 0); sheets: 8 (12 frames each; 92 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+We built a 10am open NQ levels indicator with Quant, our coding agent. Get it on Vela, our next-gen charting platform. Open Vela from the link in bio.
