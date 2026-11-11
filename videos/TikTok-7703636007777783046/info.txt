@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tomsos556/video/7703636007777783046?_r=1&_t=ZG-9BKBWs4VPRh
+uploader: tomsos556 (7699743086113768456)
+date: 2026-11-02
+duration_s: 947
+views: 46500  likes: 2417  comments: 22
+frames: 947, one every 1 s (frames/0001.jpg = second 0); sheets: 27 (12 frames each; 324 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+#foryourpage #trading #daytrading #daytrader #smc

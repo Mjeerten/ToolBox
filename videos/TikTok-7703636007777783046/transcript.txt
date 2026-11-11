@@ -1,0 +1,173 @@
+language: en (100%)
+[   0.0-   5.0] I'm Tom Sosnov. I've made over a million trades in my life. Last month I looked back at everything
+[   5.0-  10.8] I've traded and something clicked. Nearly every single trade I made was boring. I've been trading
+[  10.8-  16.7] for 44 years. I've watched every genius strategy come and go. What's left are these 11 boring
+[  16.7-  21.1] strategies that actually work. In this video I'm going to walk you through what they are and
+[  21.1-  26.5] how to use them. And at the end I'll reveal the two that probably account for more than 70%
+[  26.5-  33.1] of my profits. Number one to get long short puts. This is the simplest highest probability and most
+[  33.1-  38.6] capital efficient strategy. I always sell out of the money puts in the 35 to 50 DTE range
+[  38.6-  44.4] at the expected move targeting deltas between 16 and 22 with a buying power reduction of 20%
+[  44.4-  49.6] of the strike price and a probability of profit which we call pop over 80%. This is one of the
+[  49.6-  54.5] most straightforward strategies in trading. It's simple clean and easy to adjust. Your profit
+[  54.6-  60.5] target is about 50% of the premium collected. Also I prefer selling puts on stocks that have been
+[  60.5-  66.7] beaten down and where the IVR is 30% or more. There's an old saying in this business puts are
+[  66.7-  73.0] schmutz. This is my favorite go-to strategy and probably my primary default approach to trading.
+[  73.0-  79.0] A high pop approach every trader can execute. Number two to get long how about a jade lizard
+[  79.0-  85.2] short puts and short call spreads. The jade lizard is a short put combined with a short call spread
+[  85.2-  90.6] kicker. This is a great strategy for bulls who want just a little more downside protection. The
+[  90.6-  96.8] keys to a jade lizard are to position the trade so there's no upside risk. To do that you need
+[  96.8- 101.8] to sell a put and a short call spread where the combined premium collected exceeds the width
+[ 101.8- 106.6] of the strikes on the short call spread. The optimal duration for a jade lizard is around 40
+[ 106.6- 111.8] dte that's 40 days to expiration. Selling the out of the money put and the call spread at just
+[ 111.8- 117.1] inside the expected move usually yields the necessary premium. The jade lizard is a capital
+[ 117.1- 122.4] efficient very high pop trade that can be done with a single click on virtually any platform.
+[ 122.4- 129.0] Your profit target is approximately 50% of the total premium collected. This is a heavily used
+[ 129.0- 133.4] strategy especially with oversold stocks and futures options. I've used this strategy
+[ 133.5- 140.5] recently in Nike, in Uber, in Netflix and in crude oil. I would say that jade lizard next to
+[ 140.5- 147.2] short puts is my go-to long strategy. Number three to get long covered calls. This is the
+[ 147.2- 154.1] classic basis reduction high pop trade that every trader has used in their journey. Ideally
+[ 154.1- 158.8] you would execute a covered call on a stock that has a low basis that means low price
+[ 158.8- 164.0] and high implied volatility. This is not the most capital efficient strategy but it does improve your
+[ 164.0- 171.9] pop from approximately 54% to around 64% which is significant. The perfect covered call duration is
+[ 171.9- 178.2] 40 to 60 days to expiration which gives the buyer time to be right. We always execute covered calls
+[ 178.2- 183.4] as a single trade the stock and options together and the short strike will be somewhere between
+[ 183.4- 190.1] the 25 and 30 delta option. You should consider taking profits if the short strike is breached.
+[ 190.1- 195.4] Not everybody tells you that. We will always close a covered call strategy as a single trade
+[ 195.4- 201.1] never legging out. Also if you want to maintain some long deltas after you close the trade
+[ 201.1- 206.1] you can always replace a covered call with it out of the money short put. Now I like this
+[ 206.1- 212.2] strategy for cheaper stocks that I believe are oversold and stocks that have crappy or
+[ 212.2- 220.0] non-existent option markets such as stocks like maybe like Lucid, LCID or SOXS different ETFs like
+[ 220.0- 225.3] that. I would say that I use covered calls less often than short puts and less often than Jay
+[ 225.3- 231.9] Lizards but it's kind of like a once a week cheap stock strategy for me and it's something that
+[ 231.9- 236.6] I think every trader should experience because the combination of stocks and options in a single
+[ 236.6- 242.6] trade is important to understand how that works. Number four to get long short put spreads. For those
+[ 242.6- 248.3] looking for a defined risk trade an out of the money short put spread is a high pop low risk
+[ 248.3- 253.7] low reward strategy. Another reason for using a short put vertical is capital efficiency.
+[ 253.7- 258.9] Sometimes the buying power reduction or BPR on expensive stocks simply requires too much
+[ 258.9- 264.2] portfolio capital on a percentage basis. The target credit for a short vertical spread
+[ 264.2- 269.7] is somewhere between 30 and 35 percent of the width of the strikes. The probability of profit
+[ 269.7- 274.5] is the inverse of the credit received from the width of the strikes. Simple math. The profit
+[ 274.5- 278.8] target is still 50 percent of the credit received but it may take a little longer to reach your
+[ 278.8- 284.2] number when compared to a naked option. The short put spread is a great go-to strategy
+[ 284.2- 290.5] and also a great introduction to option trading. Now here's my little side note on short put
+[ 290.5- 297.4] spreads because short put spreads generally trade cheap I like short call spreads to get short better
+[ 297.4- 303.0] than I like short put spreads to get long. I will occasionally use short put spreads especially if I
+[ 303.0- 309.7] think it's stock is just requires too much capital to use. Normally I prefer naked short puts to
+[ 309.7- 314.8] short put spreads. Still I do use short put spreads I like to use them in combination sometimes
+[ 314.8- 319.4] with other strategies and I would say it's a once or twice a week strategy for me. Number five
+[ 319.4- 325.1] to get long we're switching to the long side now put ratio spreads. A put ratio spread is another
+[ 325.1- 329.9] high pop strategy that works best with oversold stocks that have high implied volatility. It's
+[ 329.9- 334.6] a version of a naked short put but with some additional downside protection you can use
+[ 334.6- 339.0] any ratio you like but most traders use a straightforward one by two approach. The
+[ 339.0- 343.9] objective of a put ratio spread is to set a trade up outside of the expected move that's
+[ 343.9- 348.7] where your long strike is set and then sell twice as many further out of the money puts
+[ 348.7- 355.6] to generate a net credit. It's a long delta short premium trade that does require some undefined risk.
+[ 355.6- 360.6] The profit target for a put ratio spread is at least the net credit received any strategy
+[ 360.6- 366.0] where you potentially risk a lot to make a little should deliver an incredibly high win rate. The
+[ 366.0- 371.8] one thing that I always take from my experience trading for you know over four decades is that
+[ 371.8- 376.2] put ratio spreads as a market maker and a floor trader was one of the first things
+[ 376.2- 380.6] that every trader learns how to do. Sell some puts and then buy a few bigger puts against it.
+[ 380.6- 387.2] I think as a retail investor we have popularized the short put ratio spread or the put ratio spread
+[ 387.2- 393.4] simply because it has such a high pop. I would say this is a strategy I use maybe not every day
+[ 393.4- 399.4] but at least three to four times a week. Number six also to get short short call spreads.
+[ 399.4- 405.4] A short call vertical is possibly the most capital efficient and best way to get short
+[ 405.4- 411.0] a stock with limited risk. Call spreads generally trade expensive because of the inherent call skew
+[ 411.0- 416.2] priced into options. The velocity of risk to the upside is what we call call skew. I prefer to sell
+[ 416.2- 420.5] call spreads just inside the expected move. It collects about one-third the width of the strikes.
+[ 420.5- 424.5] Your pop or probability of profit will be the inverse of the credit received minus the width
+[ 424.5- 430.1] of the strikes. A short call spread should have between a 60 to 70% pot meaning you're
+[ 430.1- 434.6] collecting between 30 to 40% of the width of strikes and they are great use of capital
+[ 434.6- 441.2] to reduce some portfolio long deltas. The optimal duration for a short call spread is between 30 and
+[ 441.2- 447.4] 50 dT8 and the profit target should be around 50%. I feel that the short call spreads work best with
+[ 447.4- 452.6] stocks that you believe are overpriced or too expensive relative to the rest of the market.
+[ 452.6- 459.1] Again I use call spreads in ETFs indexes and expensive stocks all the time. I would say I
+[ 459.1- 464.2] have more short call spreads on right now. It's probably my second largest portfolio position
+[ 464.2- 469.1] next to naked strangles which we'll talk about a little bit later. But naked short call spreads is
+[ 469.1- 474.4] the way that I get short deltas in the cues in the spies in a lot of stocks that have kind of
+[ 474.4- 480.2] what people believe is this just crazy you know one-dimensional upside or hyperbolic upside risk
+[ 480.2- 484.5] and I feel like short call spreads because of the skew just trade very rich relative to
+[ 484.5- 490.0] put spreads. Number seven also to get short the BWB or broken wing butterfly is a two-part
+[ 490.0- 495.9] strategy built into a single order. It's a combination of a long butterfly and a short vertical spread.
+[ 495.9- 502.1] The broken wing butterfly has net short deltas but offers added protection against an up move
+[ 502.1- 506.8] kind of a little weird. The perfect duration is about a month out in time and you'll want to set up
+[ 506.8- 511.8] your long strike at the expected move and your short strike just outside of the expected move.
+[ 511.8- 517.9] The strategy is a long one short to long one which we also call a skip strike butterfly. In
+[ 517.9- 523.4] order to increase your pop you should always execute broken wing butterflies for a net credit.
+[ 523.4- 529.2] This is a strategy you could use for earnings or for any stock you believe has gotten ahead of itself
+[ 529.2- 534.5] based on price. The profit target for a broken wing butterfly is at least the net credit received.
+[ 534.5- 539.9] If the trade goes your way it is also possible to buy back the embedded short call vertical
+[ 539.9- 544.1] for less than the credit received and then you own the remaining original butterfly
+[ 544.1- 549.2] for free. When that happens it's fun. I love broken wing butterflies for the upside much more so
+[ 549.2- 552.6] than I like them for the downside. The reason I don't like the downside is because the downside
+[ 552.6- 558.2] trades too cheap but the upside trades rich so I think broken wing butterflies as a way to get
+[ 558.2- 563.0] short deltas with upside protection is the strategy we use especially for earnings but
+[ 563.0- 568.1] also for runaway stocks. I would say I use this strategy a couple of times a week one two
+[ 568.1- 575.0] or three times a week. Number eight to get short sell a skewed or unbalanced iron condor. The unbalanced
+[ 575.0- 580.6] iron condor is a short premium trade with a directional kicker because call spreads trade
+[ 580.6- 585.6] richer than put spreads for a skewed iron condor we'd like to sell a call spread that is wider than
+[ 585.6- 590.2] the put spread also gives you the short deltas that way. For example an unbalanced iron condor
+[ 590.2- 596.2] may be a short $10 wide call spread and a short $5 wide put spread it's still done as a single
+[ 596.2- 603.1] trade. This is a capital efficient high pop trade with defined risk short premium and some short deltas.
+[ 603.1- 608.2] The optimal short strike will be at the expected move of some 40 days to expiration. You should
+[ 608.2- 613.1] look to collect around half the width of the strikes in total on the narrower side and the
+[ 613.1- 620.4] profit target is 50% of the total credit collected. This is not a trade we will leg into or out of.
+[ 620.4- 624.8] Even with configurable strikes it is a single-click trade and again just to
+[ 624.9- 630.9] refresh something you look to collect 50% of the credit of the narrower strikes in this case
+[ 630.9- 635.4] because you won't be collecting 50% of the wider strikes. This is a strategy that I use all the
+[ 635.4- 641.0] time when I want to get directionally short but I want to have myself have a little bit of a
+[ 641.0- 645.9] downside kicker. It's like a jade lizard with a kicker. I love this trade for getting short
+[ 645.9- 651.5] but giving myself a little bit of deltas from the short put spread to offset some of the
+[ 651.5- 656.9] upside risk. It's a trade again that we use maybe one to two times a week but it's a trade that I
+[ 656.9- 662.7] especially like in runaway markets. Number nine something different to sell volatility and to sell
+[ 662.7- 667.4] premium. First we like to sell an iron condor. A short iron condor is a defined risk version
+[ 667.4- 673.3] of a short strangle. An iron condor usually seeks a combined credit of between 30 and 40%
+[ 673.3- 679.4] of the width of strikes. It's a high pop trade limited risk trade that requires a stock
+[ 679.5- 683.7] or index to remain range bound. You're essentially challenging the underlying stock
+[ 683.7- 688.8] to beat you rather than the other way around. It's a simple strategy executed with a single
+[ 688.8- 694.4] click. We generally target between 30 and 50% of the credit received but it is not a strategy
+[ 694.4- 700.0] that is easy to adjust or modify. So I find iron condors a great engagement strategy
+[ 700.0- 705.4] that requires super high IVR to be profitable over long stretches. Most iron condors are
+[ 705.4- 711.3] easy fills that execute just a penny or two around mid-price and you can use the same approach
+[ 711.3- 718.2] for ETFs and futures options. At the beginning of this video I mentioned that at the end I'll
+[ 718.2- 726.5] reveal two strategies that probably account for more than 70% of my profits. So here we go. Number
+[ 726.5- 732.2] 10 this one is a strategy to sell volatility or premium. I like to sell out of the money
+[ 733.1- 738.6] The short strangle is my go to trade. It's been my number one and best performing option strategy
+[ 738.6- 743.7] throughout my career. We're going back four and a half decades. I prefer to use the 16 to 20 delta
+[ 743.7- 750.1] short strikes at the expected move. I target 45 days to expiration. The short strangle is the most
+[ 750.1- 755.8] capital efficient undefined risk trade and it's always done as a single click. No legging
+[ 755.8- 761.0] here. The trade works best when IVR is super high the higher the better. The profit target
+[ 761.0- 766.9] is always 50% of the credit received and the adjustments to a short strangle are very common
+[ 766.9- 772.6] and they're also necessary to keep your deltas under control. You adjust your strikes of a short
+[ 772.6- 778.2] strangle by rolling the untested side up or down. You can always skew your deltas with
+[ 778.2- 784.6] strangles to reflect your directional bias but the trade is much more about short premium,
+[ 784.6- 789.9] short time value than it is about anything else. The strategy can be used on listed equity
+[ 789.9- 798.0] options, can be used on index options, ETFs and even futures options. The short strangle has been
+[ 798.6- 802.4] you know something that I think you know every trader has kind of lived or died with
+[ 802.4- 806.2] for their entire career. The mistake that most people make when it comes to short strangles
+[ 806.2- 810.2] is that they trade them either too big and they don't have enough capital to support their size
+[ 810.2- 814.2] or they trade them when volatility is too low. Your friend is high IVR, your friend is high
+[ 814.2- 820.1] implied volatility and you must keep your size in check and then keep your short strangles non-correlated.
+[ 820.1- 826.1] I would say that on an average day I do at least two, three, four or five short strangles in different
+[ 826.1- 831.7] underlines and I adjust at least two, three, four or five short strangles so it is absolutely
+[ 831.7- 838.4] the majority of my trades. Last and number 11 is price reversion to the mean. This is where I
+[ 838.4- 842.4] get directional. There are two ways to play price reversion to the mean. One is by selling
+[ 842.4- 847.4] volatility because volatility is a mathematical equation and the other is by using a strategy
+[ 847.4- 853.2] that we call basis or repairs trading. It's a little more complex but when volatility goes up
+[ 853.2- 858.7] it must come down and that is very different from price. When price goes up it doesn't
+[ 858.7- 862.9] necessarily have to come down but when volatility goes up it has to come down so but selling
+[ 862.9- 869.0] volatility or buying it is not easy. Volatility contracts about double the time it expands
+[ 869.0- 873.4] so that's why we prefer the short side of implied volatility. As for price trading you're essentially
+[ 873.4- 878.5] trading the spread between two products. We prefer to use futures for this but you can also use stocks.
+[ 878.5- 884.7] Futures are just much more capital efficient than stocks. Price trades can also reduce the risk of two
+[ 884.7- 890.9] highly correlated underlines by up to 80% but the strategy still holds a ton of risk so no
+[ 890.9- 896.0] misconception here. The key to price trading is understanding volatility adjusted notional when it
+[ 896.0- 901.3] comes to the correct ratio to use. The profit target is subjective but it should be in line with the risk
+[ 901.3- 907.4] or percentage of the daily move. Now I don't use pairs trading every day maybe a couple times a
+[ 907.4- 914.1] week or maybe once or twice a week but I do use what I call more of a subjective contrarian
+[ 914.1- 918.2] approach to implied volatility. Sometimes it's not a strangle sometimes it might be a short call
+[ 918.2- 921.3] sometimes it might just be a short put sometimes it might just be the way I trade
+[ 921.4- 926.1] and that makes up the majority of my trades along with short strangles and that's where that 70%
+[ 926.1- 931.8] number comes in. All totaled these 11 strategies have served me well through 45 years of trading.
+[ 931.8- 936.7] If you found this piece helpful please like and share this video. Also let me know your
+[ 936.7- 941.0] thoughts in the comments. I read everyone and I try to respond to every single comment.
+[ 941.0- 943.0] Thank you so much for your time.
