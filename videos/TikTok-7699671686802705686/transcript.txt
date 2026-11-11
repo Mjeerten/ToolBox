@@ -1,0 +1,41 @@
+language: en (100%)
+[   0.0-   5.0] Put a 44 and a 332 moving average on the 5-minute gold chart.
+[   5.0-  10.2] When the 44 is above the 332, buy. When it's below, sell.
+[  10.2-  16.6] Since 2015, this simple rule has made $12,000, risking $100 per trade.
+[  16.6-  22.4] Why exactly 44 and 332? Because these two numbers come from research,
+[  22.4-  28.6] published in a finance journal in 2018, using gold data from 2008 to 2014.
+[  28.6-  32.7] The study tested 66,000 moving average combinations.
+[  32.7-  37.4] For the simple moving average, the winner was 44 and 332.
+[  37.4-  41.4] Popular settings, like price breaking the 200 moving average?
+[  41.4-  44.1] According to them, no predictive power.
+[  44.1-  48.3] The exact rule. Two simple moving averages on the closing price.
+[  48.3-  52.2] Every time they cross, close the old trade and flip to the other side.
+[  52.2-  55.6] The study didn't use a stop-loss, so I added my own.
+[  55.6-  59.2] Yesterday's low for a buy, yesterday's high for a sell.
+[  59.2-  61.7] Stopped out? Wait for the next cross.
+[  61.7-  66.2] First, I tested it on their data, 2008 to 2014.
+[  66.2-  71.4] The comparison? Same entry times, same stop-loss, same number of buys and sells.
+[  71.4-  73.4] Only the direction is random.
+[  73.4-  79.2] The result? After spread, plus $26,000, profitable every year.
+[  79.2-  82.5] The random version? Only plus $5,000.
+[  82.6-  86.2] But that's expected. The numbers were picked from that same data.
+[  86.2-  91.1] Out of 66,000 combinations, some always look great just by luck.
+[  91.1-  92.7] So the honest test.
+[  92.7-  96.8] Continue on the data that came after, from 2015 to today.
+[  96.8- 100.0] The result? Still plus $12,000.
+[ 100.0- 103.8] The random version? Minus $4,100.
+[ 103.8- 107.9] Out of 1,000 random runs, only about 5 did this well.
+[ 107.9- 111.0] If 44 and 332 were just luck,
+[ 111.0- 113.4] the numbers right next to them should collapse.
+[ 113.4- 117.0] Instead, the 20 nearest pairs were all profitable.
+[ 117.0- 119.0] So the numbers aren't magic.
+[ 119.0- 124.4] The 44 covers roughly the last 4 hours, the 332 just over a day.
+[ 124.4- 127.4] Both are slow, so they follow the daily trend.
+[ 127.4- 129.5] But there's a cost I haven't counted.
+[ 129.5- 133.0] Trades often stay open overnight, so you pay swap.
+[ 133.0- 135.0] Say swap is 3% a year.
+[ 135.0- 138.6] That $12,000 drops to about $6,000.
+[ 138.6- 142.2] So on gold, this finding still beats random today.
+[ 142.2- 145.8] But the edge is thin, and swap can make or break it.
+[ 145.8- 149.1] And this is the plain version, with no filters at all.
+[ 149.1- 153.4] If you want to read the study, its title is in the caption.

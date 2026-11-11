@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tradebydata.en/video/7699671686802705686?_r=1&_t=ZG-9BJylOMsOga
+uploader: tradebydata.en (7331833486741472289)
+date: 2026-10-23
+duration_s: 155
+views: 67100  likes: 2610  comments: 32
+frames: 156, one every 1 s (frames/0001.jpg = second 0); sheets: 7 (12 frames each; 83 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+research title: Does technical analysis beat the market? –evidence from high frequency trading in gold and silver #forextrading #algotrading
