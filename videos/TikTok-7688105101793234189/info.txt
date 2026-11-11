@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@alexhvber/video/7688105101793234189?_r=1&_t=ZG-9BJj33KyUE5
+uploader: alexhvber (7440158454642820142)
+date: 2026-09-21
+duration_s: 54
+views: 270200  likes: 45300  comments: 226
+frames: 55, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 19 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+The art of PO3 #daytrading #futures #ict #propfirm
