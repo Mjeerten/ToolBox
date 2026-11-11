@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@fluxchart/video/7706929469881191694?_r=1&_t=ZG-9BJy4SPVZpY
+uploader: fluxchart (7350169716595639338)
+date: 2026-11-11
+duration_s: 26
+views: 2329  likes: 106  comments: 0
+frames: 27, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 25 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Overpowered Strategy With Two FREE Indicators! 🚀 #tradingview #tradingindicators #vwaptrading
