@@ -1,0 +1,33 @@
+language: en (100%)
+[   0.0-   4.4] A YouTuber with a Pagani says this breakout strategy is all you need.
+[   4.4-   8.1] I ran 1,630 trades.
+[   8.1-   9.8] His pitch is simple.
+[   9.8-  12.6] Mark the high and low before New York opens.
+[  12.6-  15.8] Wait for a 5 minute candle to close outside that range.
+[  15.8-  18.3] Buy the break or sell it.
+[  18.3-  20.6] Stop at the far end of that candle.
+[  20.6-  21.6] Target.
+[  21.6-  23.2] 4 times what you risk.
+[  23.2-  25.4] So I tested it on two markets.
+[  25.4-  27.7] One of them behaved completely differently.
+[  27.7-  29.2] I'll get to it.
+[  29.2-  30.7] Test the Nasdaq.
+[  30.7-  33.2] It lost 7 out of 10 trades.
+[  33.2-  37.3] Still finished 182R in the plus after costs.
+[  37.3-  39.3] But a back test can be luck.
+[  39.3-  43.8] So for every trade I picked another day that month and flipped a coin for direction.
+[  43.8-  45.4] 200 times.
+[  45.4-  47.9] The typical random run lost 11R.
+[  47.9-  50.7] The strategy beat all 200.
+[  50.7-  51.9] Now the Dow.
+[  51.9-  52.9] Same rules.
+[  52.9-  54.6] Minus 54R.
+[  54.6-  57.4] Better than only 46% of the random runs.
+[  57.6-  60.1] That's a coin flip with fees.
+[  60.1-  62.0] I tried 64 versions.
+[  62.0-  63.8] Only a handful made money.
+[  63.8-  65.3] All of them Nasdaq.
+[  65.3-  67.4] He sold you a strategy.
+[  67.4-  70.7] The data found one setting on one market.
+[  70.7-  74.5] Whether it survives data it has never seen is the next thing I'd check.
+[  74.5-  76.3] Follow if you want to see that answer.

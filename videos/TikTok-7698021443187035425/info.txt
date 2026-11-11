@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7698021443187035425?_r=1&_t=ZG-9BJg5La0gZU
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-10-18
+duration_s: 76
+views: 219000  likes: 13300  comments: 335
+frames: 76, one every 1 s (frames/0001.jpg = second 0); sheets: 3 (12 frames each; 31 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+What do you think about this strategy? 👀📊 We put a YouTuber’s trading strategy to the test to see if it actually works. Looks good on YouTube, but what do the numbers say? Do you trade this strategy yourself? 👇 #trading #daytrading #tradingstrategy #backtesting #forex

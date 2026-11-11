@@ -1,0 +1,73 @@
+[    0s] A YouTuber with a Pagani | \ Wied
+[    1s] Aes | says this breakout strategy
+[    3s] ALL YOU NEED | art | is all you need
+[    4s] | ran 1,630 trades.
+[    5s] 1,630 TRADES | Wy hyl | ate
+[    6s] Corr Onan | Naty | Ni i i Hi td | ee te Uf} hry | iff} | {INK
+[    7s] AN Hi | Th laa | a ii
+[    8s] His pitch is simple.
+[    9s] ine.
+[   10s] Mark the high and low | PRE-MARKET HIGH | aoa gt MA
+[   11s] before New York opens. | “aay ' DF
+[   12s] Wait for a five-minute candle
+[   13s] 5-MINUTE CANDLE
+[   14s] to close outside that range.
+[   15s] CLOSES OUTSIDE
+[   16s] 1" "ENTRY | Buy the break... | Shy
+[   17s] aiaie | or sell it.
+[   18s] Stop at the far end
+[   19s] STOP | fig | of that candle.
+[   20s] Target: four times | ate
+[   21s] 4x RISK
+[   22s] TARGET | aha | what you risk.
+[   23s] So | tested it
+[   24s] NASDAQ | all | on two markets.
+[   25s] DOW | One of them behaved
+[   26s] completely differently.
+[   27s] Pe Lo
+[   28s] I'll get to it. | all
+[   29s] First, the Nasdaq.
+[   30s] ft ft =
+[   31s] BES | Hil | LOST 7 OF 10
+[   32s] out of ten trades.
+[   33s] Still finished 182R
+[   35s] +182R
+[   36s] AFTER COSTS | after costs.
+[   37s] But a backtest
+[   38s] can be luck.
+[   39s] So for every trade, | hil
+[   40s] | picked another day
+[   41s] 1 \ 10 | ANOTHER DAY | that month and flipped
+[   42s] a coin for direction.
+[   43s] RANDOM DIRECTION | io _B
+[   44s] 200 TIMES | 7A0}0)
+[   45s] TYPICAL RANDOM RUN | The typical random run
+[   47s] TYPICAL RANDOM RUN -1iR | eee | lost 11R. | “aig
+[   48s] Goad | The strategy | tiny
+[   49s] BEAT ALL 200 | beat all 200.
+[   50s] PS JAN | fad | i ia
+[   51s] DOW | Now the Dow.
+[   52s] Same rules.
+[   53s] Minus 54R. | —O4R
+[   54s] —04R | “yatta
+[   55s] Aug | BETTER THAN ONLY | Better than only 46% | aia | lnk
+[   56s] BETTER THAN ONLY 46% | OF RANDOM RUNS | eae ae | fod | of the random runs.
+[   57s] Nie | rate
+[   58s] Nia | TAN | That’s a coin flip | i va
+[   59s] with fees.
+[   60s] Aske | Band | boty | hWW\ | was | | tried 64 versions.
+[   61s] 64 VERSIONS
+[   62s] NASDAQ | Only a handful
+[   63s] made money.
+[   64s] All of them Nasdaq. | DOW | eee
+[   65s] He sold you | eo0e
+[   66s] a strategy.
+[   67s] ALL YOU NEED | THE PITCH: | The data found | eo0e
+[   68s] one setting...
+[   69s] ALL a NEED | ONE SETTING - ONE MARKET | THE DATA: | on one market.
+[   70s] ALL we NEED
+[   71s] Whether it survives data
+[   72s] it has never seen
+[   73s] NOT YET TESTED ON UNSEEN DATA | is the next thing
+[   74s] PYULE
+[   75s] CART | to see that answer.
