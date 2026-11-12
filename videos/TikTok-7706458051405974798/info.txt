@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@vegaterminal/video/7706458051405974798?_r=1&_t=ZG-9BLdBSB6trl
+uploader: vegaterminal (7704155899628471310)
+date: 2026-11-10
+duration_s: 49
+views: 67600  likes: 8452  comments: 86
+frames: 49, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 18 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Live weather trading showcase #fyp #daytrading #quant
