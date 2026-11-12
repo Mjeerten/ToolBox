@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@aleks_rosme/video/7705749980773928214?_r=1&_t=ZG-9BLSUJoNXCi
+uploader: aleks_rosme (7162365782730621957)
+date: 2026-11-08
+duration_s: 59
+views: 75400  likes: 5721  comments: 194
+frames: 60, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 24 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Trading Strategy Spectrum  #gamma #futures #nasdaq #orderflow #daytrading
