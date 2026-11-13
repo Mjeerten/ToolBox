@@ -1,0 +1,93 @@
+[    0s] TRADE BY DATA | The only rule | USDUJPY strategy | only rule:
+[    1s] USDUPY strategy | in this USDJPY strategy
+[    2s] USDUJPY strategy | is the calendar
+[    3s] Mim i-is | USDUPY - 4-hour candle: | only rule: the calendar
+[    4s] BUY Mon-Tue | FRI | LR Ma | MAY 4-8, 2026 | MON | THU | TRADE BY DATA | TUE | USDJPY - 4-hour candies | WED | buy Monday to Tuesday
+[    5s] SELL | Socscoases | USDUPY - 4-hour candies | dts | ease, | sell Wednesday to Friday | yer
+[    6s] +$152 | 4-hour candles | IE WEEK -0.11 | Li oem | MAY 8, 2026 | MON TUE WED THU FRI | SELL Wed-Fri | USDJPY | qaenaeth ae seeee se nenaw onan
+[    7s] Buy - Monday's open > close end of Tuesday | Buy at the open | FRI | MAY 4-8, 2026 | MON | THE RULE - USDJPY | THU | TUE | USDUJPY - 4-hour candles | WED
+[    8s] Sell - Wednesday's open > close end of Friday | ais | of Monday's candle
+[    9s] close at the end of Tuesday | jie | yscend vase
+[   10s] 14 de | | © Buy - Monday's open > close end of Tuesday
+[   11s] =o oS SS SS | Buy - Monday's open > close end of Tuesday | Then sell at the open of | candies | mar s-3 | |) Sell- Wednesday's open - close end of Friday
+[   12s] MAY 4-8, 2026 | Sell - Wednesday's open > close end of Friday | Wednesday's candle | fal | ’. 4-hour candles
+[   13s] '. 4-hour candles | Beano sees | ae ee
+[   14s] (/) Buy - Monday's open > close end of Tuesday | - 4-hour candles | 156 | 157 | Lonneoneee | SEO Boe eS | close at the end of Friday
+[   15s] FRI | Jie | MON | THU | TUE | USDJPY - 4-hour candies | WED | base ee | ot secene caer ssoscesssessssse
+[   16s] (2800) | 2015 - OCT 2026 | From 2015 | From 2015 to October 2026 | eee dieses
+[   17s] 2015 | 2018 | 2021 | 2024 | 2026 | a V7) | to October 2026
+[   18s] trading 0.1 lots
+[   19s] DATA
+[   20s] TRADE BY DATA | [ +#6,200 | | with no stop loss | | NO STOP LOSS |
+[   21s] NO STOP LOSS | Profit | this rule made $6,808
+[   22s] Profit +$6,808
+[   23s] +$6,808
+[   24s] 1-pip spread | 2015 - OCT 2026 | 2021 | 2024 | 2026 | NO STOPLOSS | | Strategy Tester | USDJPY - buy Mon-Tue » sell Wed-Fri
+[   25s] Profitable in 5 of 12 years
+[   26s] 10 out of 12 years | Profitable in 8 of 12 years | TRADE BY DATA | o2gnam
+[   27s] 018 | 2015 | 2021 | 2024 | 2026 | After | Sa ate te ete ae | after spread | he by ee te
+[   28s] So why | So why those days?
+[   29s] MON TUE WED THU FRI | So wh | those days?
+[   30s] (b) cure’ | 2020 Elsevier B.V. We examine currency market intraday patterns | 3, 13:43 auth | A study from | Brazil, india, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, we | Journal conti | Mondays and Tuesdays and appreciate on rest of the days; and (c) IDOW trading | PK Nara’ | Siroos Khademalomoom | Version 2 | are | bution | cies generally tend to depreciate mostly on | don | effects exist in the currency market. Using hourly time-series exchange rates of | ek (IDOW) | find that: (a) significant IDOW patterns exist in the currency market across the | had | ithin the | trading hours of the w | trading hours of the week. Our hypothesis is that the intraday-of-the-v | twelve countries (namely, Australia, Canada, the EU, Japan, Switzerland, the UK, | ‘oos I
+[   31s] 100Nn | 2020 Elsevier B.V. We examine currency market intraday patterns within the | Brazil, India, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, we | Siroos | and Paresh | | author | d on 20 | generally tend to depreciate mostly on | hadem | hare | nal contribution | roos K | trading hours of the week. Our hypothesis is that the intraday-of-the- | trading hours of the week; (b) currenci
+[   32s] ) 2020 Elsevier B.V. We examine currency market intraday patterns within the | -vis the US dollar, we | Brazil, India, Mexico, Russia, Turkey, and South Africa) vi | and Paresh Kumar Narayan | hore | nal contribution posted on 2024-0 | trading hours of the week. Our hypothesis is that the intraday-of-the-week (IDOW) | trading hours of the week; (b) currencies generally tend to depreciate mostly on | ‘oos Kh
+[   33s] (nan | 0, Ru | 1OF | A study from : | Jour | Mondays and Tuesd: | Turke | and | and (c) IDOW trading | avi | dollar, we | eff | exi | find that: (a) signifieant IDOW p | for investe | generally tend to deprecia | ignificant profit | il, India, M | in the currency market, Using hourly time | in the curreney market acre | ina 2020 | ind apy | jouth Africa) vi | kK; (b) cur | land, the UK | mar Nar | mostly on | nele | nge | of the | of the day | of the week. Our hypothe | on 2 | one | p4s | ries exeh | roos Khadema | roy, | sn Ki | strategies offer | tatiatically | ted on | that the intraday-ofthe-week (IDOW | the | the U! | thin the | trading hou | tralia, Canada, the EU | vier B.V. We examine currency market intraday pattern | welve countrie | y, Au | yntribution f
+[   34s] (b) currencies generally tend to depreciate mostly on | Atribution po | Brazil, India, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, we | Isevier B.V. We examine currency market intraday patterns within the | Journal ¢ | Monday | PA Narayan | and Tuesday | and appreciate on rest of ti | effects exist in the currency market. Using hourly time- | fen | find that: (a) significant IDOW patterns exist in the currency market across the | jours of the week. Our hypothesis is that the intraday-of-the-week (IDOW) | lay | rec | ries exchange rates of | strategies offer statistically significant profits for investors | ted on 20 | tested | trading hours of the | twelve countries (namely, Australia, Canada, the EU, Japan, Switzerland, tr
+[   35s] , Russia, Turkey, and South Africa) vi: | 43 authored | Brazil, Indi | Mexic« | Mondays and Tuesdays and appreciate on rest of the days; and (c) IDOW trading | Ntributior | a-vis the US dollar, we | amely, Australia, Canada, the EU, Japan, Switzerland, the UK, | eek (IDOW) | effects exist in the currency market. Using hourly time-series exchange rates of | jours of the week. Our hypothesis is that the intraday-of-the-v | posted on 202 | strategies offer statistically significant profits for investors. | tested 12 currencies | trading hours of the week; (b) currencies generally tend to depreciate mostly on
+[   36s] 24-06: | Brazil, India, Me: | Nu l | Russia, Turkey, and South Africa’ | against the dollar | hor | is that the intraday-of-th | namely, Australia, Canada, the EU, Japan, Switzerland, the UK, | nd to depreciate mostly on | s vs the dollar | trading hours of the week; (b) currencies generall | tribution pos | urnal | urs of the week. Our hypothe:
+[   37s] 1amely, Australia, Canada, the E “Japan Switzerland the UK | Brazil, India, Mexico, Russia, Turkey, and South Africa | Journal contrit | Tan | authored b' | f-the-week (IDOW) | ignificant profits for investors | including the | including the yen | ion | is that the intraday | ist | jours of the week. Our hypothes | strategies offer statistical | ted on | trading hours of the week; (b) currencies generally tend to depreciate mos! | vs the dollar
+[   38s] Brazil, India. | Journ: | Ney | contribution posted on 2 | effects exist in the currency market. Using | es exchange rates of | find that: (a) significant IDOW patterns exist in the currency market across | hourly data | including the y | is that the intraday-of-the- | jen « | k (IDOW) | ly time | namely, Australia, Canada, the E "Japan, Switzerland the UK, | ored by | s vs the dollar | sevier B.V. We examine currency market intraday patterns within the | strategies offer statistically significant profits for investors. | the | trading hours of the week; (b) currencies generally tend to depreciate mostly on | urs of the week. Our hypothe: | using hourly datz | xico, Russia, Turkey, and South Africa
+[   39s] 2020 Elsevier B.V. We examine currency market intraday patterns within the | 3 authored by S Khademalomoom, | Brazil, India, Me: | Journal contribution posted on 2 | Mon-Tue: | PK Narayan | The result | cally significant profits for investors | co, Russia, Turkey, and South Africa) vis-a-vis the US dollar, v | effects exist in the currency market. Using hourly time-series exchange rates of | find that: (a) significant IDOW patterns exist in the currency market across the | strategies offer sta! | trading hours of the week. Our hypothesis is that the intraday-of-the-week (IDOW) | twelve countries (namely, Australia, Canada, the EU, Japan, Switzerland, the U!
+[   40s] ) 2020 Elsevier B.V. We examine currency market intraday patterns within the | -vis the US dollar, we | Brazil, India, | Journa | authored by S Khademalomoom, | cies generally tend to depreciate mostly on | fexico, Russia, Turkey, and South Africa) vis | ntribution posted on 2024-06-13, 1 | on Mondays and Tus | strategies offer statistically significant profits for investors. | trading hours of the week; (b | twelve countries (namely, Australia, Canada, the EU, Japan, Switzerland, the UK,
+[   41s] 020 Elsevier B.V. We examine currency market intraday patterns within the | 24-06-13, 13 | 43 authored | Brazil, India, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, | Journal contribution posted on 2 | d to depreciate mostly on | is that the intraday-of-the-week (IDOW) | on Mondays and Tuesdays | trading hours of the week. Our hypothe: | trading hours of the week; (b’ | y S Khademalomoom,
+[   42s] 2020 Elsevier B.V. We examine currency market intraday patterns within the | Brazil, India, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, we | Journ: | autho! | d by S Khademalomoom, | ibution | ostly on | sted on 2024-06-13, 1 | those currencies tend | trading hours of the week. Our hypothesis is that the intraday-of-the-week (IDOW) | trading hours of the week; (b)
+[   43s] Journal contribution po | Mondays | and (c) IDOW trading | and Tuesdays and appreciate on rest of the day: | authored by S Khademalomoom | d on 2024 | f-the-week (IDOW) | is that the intrada’ | trading hours of the week. Our hypothe: | weaken against the dc
+[   44s] 124-06- | 13:43 | Journal contribution posted on 2 | authored by S Khademalomoom, | ek; (b) | find that: (a) | nd appreciate on rest of the days; and (c) IDOW trading | nificant IDOW patterns exist in the currency market across the | rest of the week: | then st | trading hours of the v | trading hours of the week. Our hypothesis is that the intraday-of-the-week (IDOW) | © 2020 Elsevier B.V. We examine currency market intraday patterns within the
+[   45s] -13, 13:43 authored by S Khademalomoom, | 2020 Elsevier B.V. We examine currency market intraday patterns within the | Journal | and (c) IDOW trading | find that: (a) significant IDOW patterns exist in the currency market across the | for the | of the w | ontribution posted on 20: | rest of the week: stronger again | t of th | tOr | trading hou
+[   46s] 43 authored by S Khademalomoom, | Brazil, India, Mexico, Russia, Turkey, and South Africa) vis-a-vis the US dollar, | Journal contribution posted on 202 | for the rest of the week | tly | trading hours of the v | © 2020 Elsevier B.V. We examine currency market intraday patterns within the
+[   47s] 2015 - OCT 2026 | Dollar | FRI | MON | So the dollar is strong | THU | TUE | USDUPY - 609-week average | WED
+[   48s] Dollar strong early week | USDUJPY - 609-week average | early in the week
+[   49s] 2015 | MOA | THE | USDJPY | and when the dollar is strong
+[   51s] STRONG DOLLAR | USDJPY GOES UP | USDUJPY goes up
+[   52s] BET ms | Buy moved to | USDJPY | | tried moving the buy
+[   53s] 2015 - OCT 2026 | FRI | MON | THU | TUE | Thursday-Friday? | USDUJPY - 609-week average | WED | to Thursday and Friday
+[   54s] USDUJPY - 609-week avera’
+[   55s] Aceemieaion | It actually lost | MON-TUE TUE-WED WED-THU THU-FRI | it actually lost $3,389
+[   56s] -$3,389 | IN-TUE TUE-WED WED-THU THU-FRI
+[   57s] N-TUE TUE-WED WED-THU THU-FRI
+[   58s] $3,389, | It really is | N-TUE | So it really is the start | THU-FRI | TUE-WED | WED-THU
+[   59s] Buy for 2 days, shifted | ‘S$ss80°
+[   60s] =S3380" | USDJPY - 01 lot - 1-pip spread - 2015 - Oct 2026 | of the week that's different | the start of the week
+[   61s] Eas8o | USDJPY - 0.1 lot - 1-pip spread - 2015 - Oct 2026
+[   62s] Best trade | The best trade | USDUJPY - 2-hour candles
+[   63s] NOV 9-11, 2022 | USDUPY - 2-hour candies | a sell on November 9 2022
+[   64s] USDJPY - 2-hour
+[   65s] The next day | USDUJPY - 2-hour candles | aCe eee
+[   66s] Saeeeeee eee eS | US inflation | US inflation data came out
+[   67s] Ha+ @ig*t0* | Hy ila | USDJPY - 2-hour candles | ees ee
+[   68s] +$495 | 4 jlo | P+ tee | US inflation +$495 | USDJPY - 2-hour candies | Wat @ring* | bad | for a $495 profit
+[   69s] Has @ritg* | Tae aS | USDUJPY - 2-hour | y ila
+[   70s] 235
+[   71s] The worst | USDUJPY - 2-hour candi | Worst trade
+[   72s] DEC 19-20, 2022 | USDUJPY - 2-hour | a buy on December 19 2022
+[   73s] DEC 19 - 20, 2022 | USDJPY - 2-hour
+[   74s] DEC 19-20, 2022 | USDUPY - 2-hour candles
+[   75s] Bank of Japan | Seesseeeese | USDJPY - 2-hour | the Bank of Japan suddenly
+[   76s] 4288 | Cr] er | JANK OF JAPAN | USDJPY : 2-hour candies | lessee Ve | wee
+[   77s] USDUJPY - 2-hour candles | changed its policy | ly _ a | mn AR eae! Lee ae ect | toy
+[   78s] for a $351 loss | se $201 | wae AR ed a
+[   79s] 4 a a | Bank of Japan -$351 | USDJPY - 2-hour candies | cult | ee Ces
+[   80s] -$351_ | ANK OF JAPAN | | Ba OE BPN) | USDUPY - 2-hour candles | ee De | tomy poset | weet
+[   81s] $ exchange rates of | (b) curre | (nom | -anadi | 020 E | 10 de | 10536/D) | 3 auth | 30136024 | Applied economics | DRO Besse | Deakin | EU, Japan. | Intraday-of-the-week effects: What do the exchange rate data tell us? | K (ID | Share | Version 2 | Want to read it yourself? | about usa | acros: | am more | amine | ayal | die.ne | effect | find that: ( | generally ten | i, India, | in the | in the cu | ith | land, the UK. | lar, | mar | ncy market intraday pattern: | ng he | nine | nt IDOV | of the | of the wee | raday. | ribu | that the | the | to read it yourself | tradin | trading ho | twelve count | ty tin | urn | uth Afri | xico, Ri | y, Au | yndl.hat | ‘Mondays and Tuesdays and appreciate on sest of the days. and (c) IDOW trading
+[   82s] (2) significant ID | (b) curren | 3 ARR | 43 author | 6/DF | >sth | DRO Reese | DU:301 | U, Japan. | ale | alot | amine curre | ar, we | att | azil, In | earn m | effe | ere | fects: What do the ex | find th | gen | hang | he intrad | hin | ing | inge rate data tell us? | k (IOC | mdi han | n the currency mar | nite | ns ex | ount | pon | ralia, Canad | rency market | rket in | the UK, | the study's title | the title is in the | trading hi | twe | tze | uth At | utus | xis | ‘oss the
+[   83s] & THE TITLE IS IN THE CAPTION | (name | 1 posted | 13, 13: | 2020 Elsevier B.V. We examine currenc | 9k; (b) curr | Appl | Brazil, India, Mexico, Ru | DRO fesearen | Deakin | EU, Japan, | Indi handle.nev10536/DRO/DU:301360 | Jou | Online | PK Nara: | Ss ex | US dollar, w | ade | al cor | ally tend to d | am more about us | and | as within the | ate | authore | avis | ay p | cle | currenc’ | effect | esis is that the intraday-of-the-week (IDO | exist in the curr | find that: (a) significant IDOW patterns | https: | ia, T | int | ion | is in the caption | market intr | market. Usin | mostly on | preciat | ralia, Canada, t! | s of the week. Our hypo! | tern | th Africa) | the | time-s | trading hou | trading hours of th | twelve | untrie | witzerland, th | y market across the | ~>a nt
+[   85s] Oh by the way
+[   86s] My main strategies | my main strategies
+[   87s] built on a much stronger foundation
+[   88s] ona much stronger foundation
+[   89s] than this
+[   90s] @ TradingView indicator | indicators
+[   91s] indicators and EAs | © MetaTrader 5EA | © TradingView indicator
+[   92s] Link in my | MetaTrader 5 EA | TradingView indicator
+[   93s] Link in my bio
+[   94s] @ TradingView indicator | built on a much stronger foundation | © MetaTrader 5 EA

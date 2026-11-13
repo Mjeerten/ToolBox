@@ -1,0 +1,15 @@
+language: en (100%)
+[   0.0-   5.9] The only rule in this dollar yen strategy is the calendar. Buy Monday to Tuesday, sell Wednesday
+[   5.9-  11.8] to Friday. Buy at the open of Monday's candle, close at the end of Tuesday. Then sell at the
+[  11.8-  19.6] open of Wednesday's candle, close at the end of Friday. From 2015 to October 2026 trading 0.1
+[  19.6-  28.1] lots with no stop-loss, this rule made $6,808 profitable in 10 out of 12 years after spread.
+[  28.1-  35.6] So why those days? Sirus Kadimalomum and Pareshkumar Narayan in a 2020 study tested 12 currencies
+[  35.6-  41.5] against the dollar, including the yen, using hourly data. The result? On Mondays and Tuesdays,
+[  41.5-  46.5] those currencies tend to weaken against the dollar, then strengthen again for the rest of the week.
+[  46.5-  51.9] So the dollar is strong early in the week, and when the dollar is strong, dollar yen goes up.
+[  51.9-  59.8] I tried moving the buy to Thursday and Friday. It actually lost $3,389. So it really is the start
+[  59.8-  65.9] of the week that's different. The best trade? A sell on November 9th, 2022. The next day,
+[  65.9-  74.8] US inflation data came out for a $495 profit. The worst? A buy on December 19th, 2022. The next
+[  74.8-  81.3] day, the Bank of Japan suddenly changed its policy for a $351 loss. If you want to read
+[  81.3-  87.4] it yourself, the study's title is in the caption. Oh, by the way, my main strategies are built on a
+[  87.4-  95.4] much stronger foundation than this, and they come with indicators and EAs. Link in my bio.

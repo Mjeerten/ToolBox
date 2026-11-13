@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tradebydata.en/video/7706935729087073558?_r=1&_t=ZG-9BMYCOZ70wT
+uploader: tradebydata.en (7331833486741472289)
+date: 2026-11-12
+duration_s: 95
+views: 2054  likes: 116  comments: 0
+frames: 96, one every 1 s (frames/0001.jpg = second 0); sheets: 4 (12 frames each; 48 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+research title: Intraday-of-the-week effects: What do the exchange rate data tell us? #forextrading #algotrading
