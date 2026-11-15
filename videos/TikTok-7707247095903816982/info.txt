@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tradewriter441/video/7707247095903816982?_r=1&_t=ZG-9BQKPYvQRf7
+uploader: tradewriter441 (7690578197582332950)
+date: 2026-11-12
+duration_s: 766
+views: 74700  likes: 6963  comments: 74
+frames: 766, one every 1 s (frames/0001.jpg = second 0); sheets: 17 (12 frames each; 201 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+How I trade the market open with scary accuracy

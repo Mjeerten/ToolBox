@@ -1,0 +1,289 @@
+language: en (100%)
+[   0.0-   4.6] The market open at 9.30 a.m. is where some of the biggest and most profitable moves of the day
+[   4.6-  10.3] happen. It's also where traders get absolutely destroyed. Most traders either jump in immediately
+[  10.3-  15.0] and get chopped to pieces or wait for the volatility to calm down and end up missing the
+[  15.0-  19.8] best opportunities. But I've been trading the open profitably for years and I've developed a
+[  19.8-  24.4] simple process that lets me catch these moves with a very high level of accuracy while avoiding
+[  24.4-  30.0] all the chaos. Now everything I teach on this channel is for one purpose, to turn trading
+[  30.0-  35.4] from a job that consumes your life into a business that pays you using the LCE model.
+[  35.4-  38.8] So in this video, I'm going to break down the four step formula to trading the open that
+[  38.8-  42.4] I repeat every single day. And then I'm going to show you how to trade it in the real
+[  42.4-  47.5] market. Now, most traders make the mistake of entering right away or waiting 30 minutes
+[  47.5-  52.1] to an hour after the open and missing some perfectly good opportunities. Both of these
+[  52.1-  57.0] are wrong. The first few minutes of the market open are extremely volatile. You have a massive
+[  57.0-  61.2] influx of buying and selling orders coming in all at once and the market is trying to
+[  61.2-  66.1] find a balance between the two. So you'll often see the price shoot up or down aggressively
+[  66.1-  70.5] only to reverse just as quickly. And if you're trying to trade this, you're essentially
+[  70.5-  74.6] guessing which side is going to win. Even if you get the direction right, you might
+[  74.6-  79.0] get stopped out by the initial volatility before the actual move happens. Or you might
+[  79.0-  82.7] widen your stop to avoid getting caught, only to take a much larger loss when the
+[  82.7-  86.8] market reverses. It just doesn't have a strong edge. So you do need to wait for the
+[  86.8-  90.3] dust to settle. But you don't need to wait half an hour either because you're
+[  90.3-  93.5] losing some profitable opportunities that actually have a clean edge compared to
+[  93.5-  98.0] the open. So don't jump into the extreme volatility at the open, but don't be
+[  98.0- 101.4] afraid of volatility itself either. That's why the first step is to wait
+[ 101.4- 104.8] 10 to 15 minutes after the open. Now, you might be asking yourself what
+[ 104.8- 108.4] happens if there's a clean opportunity before this time. Because you might
+[ 108.4- 111.6] definitely get FOMO for missing a move that you could have easily spotted and
+[ 111.6- 116.2] traded. Let's say the ES opens and has a clean 30-point drop in the first few
+[ 116.2- 119.6] minutes. You might feel like you're leaving money on the table for nothing.
+[ 119.6- 123.0] But let me reassure you, from the thousands of trades I've taken and
+[ 123.0- 126.6] the thousands of market opens I've been through, if we have a sharp move
+[ 126.6- 129.6] within the first few minutes of the open, it's very likely that we'll
+[ 129.6- 133.8] have another sharp move later on. Because think about it, there are at least
+[ 133.8- 137.4] six hours in a trading session. What are the chances that the market has a
+[ 137.4- 141.6] sharp, volatile move in the first 10 minutes and then goes completely flat for
+[ 141.6- 146.0] the rest of the session? Think about how much time that is. So no, you're not
+[ 146.0- 149.6] missing out on anything worthwhile in those first 10 minutes. If the move is
+[ 149.6- 153.7] volatile, then we're likely to get more volatility and you'll catch a move
+[ 153.7- 157.4] later on. Now, it's important that you fully internalize this before the
+[ 157.4- 161.3] next step. The first 10 minutes of the market are a no-go zone and you
+[ 161.3- 164.8] can't be slipping back into trading it. So once those first 10 minutes are
+[ 164.8- 168.6] over, that doesn't mean we can suddenly start taking trades. We've
+[ 168.6- 172.0] established when not to trade, but we still need to figure out when we
+[ 172.0- 176.0] actually should trade. And that brings us to step two, which is to wait for
+[ 176.0- 180.3] the price to reach a supply and demand level. Now, this is extremely
+[ 180.3- 184.1] important because most traders look for opportunities based on momentum or
+[ 184.1- 188.0] price action. They'll see a strong move in one direction and
+[ 188.0- 191.3] immediately start looking for an entry. But here's the problem. Just
+[ 191.3- 194.0] because the price is moving aggressively in one direction doesn't
+[ 194.0- 198.4] mean it's a good place to enter. You could be buying right into resistance or
+[ 198.4- 202.3] shorting right into support and get caught in a reversal even though your
+[ 202.3- 206.3] original direction was correct. Instead of looking for momentum first, we need
+[ 206.3- 209.7] to establish exactly where in the market a trade makes sense. And that's
+[ 209.7- 213.5] what supply and demand levels allow us to do. Now, supply and demand levels
+[ 213.5- 216.3] are areas on the chart where a large amount of trading activity has taken
+[ 216.3- 219.6] place. These are areas where buyers and sellers have exchanged massive
+[ 219.6- 222.8] amounts of volume and where the price is likely to react again in the
+[ 222.8- 226.1] future. And the reason these levels are so important is because trading
+[ 226.1- 229.7] activity isn't distributed evenly throughout the market. Some prices
+[ 229.7- 233.3] attract enormous amounts of volume while other prices barely attract any at
+[ 233.3- 237.1] all. And this is the key distinction that allows you to enter high quality
+[ 237.1- 240.3] trades at the right spot. Instead of looking at the entire chart and
+[ 240.3- 243.6] trying to figure out where to trade, we can narrow our attention down to
+[ 243.6- 247.8] just a few specific areas. So if we open at 9.30 and the price is at a
+[ 247.8- 250.7] level, we want to wait for the price to either enter the level above
+[ 250.8- 254.1] or the level under. We don't trade the opening level directly because
+[ 254.1- 256.9] that's where the market is still fighting for control. Once we've
+[ 256.9- 260.7] finally broken out of the opening level and into another, then it's
+[ 260.7- 264.2] clear that one side is starting to dominate, which gives us clarity on
+[ 264.2- 268.4] the direction. That brings us to step three, which is to set alerts
+[ 268.4- 271.3] and wait for confirmation. This is one of the biggest advantages of
+[ 271.3- 274.9] trading this way because once we've identified our levels, we don't
+[ 274.9- 278.2] actually need to sit there watching every single candlestick. That's
+[ 278.2- 280.9] actually a bad idea because all it does is cause overthinking that
+[ 280.9- 283.9] will throw you off course. It's designed that way on purpose so
+[ 283.9- 286.1] that you're tempted to fiddle with your trade when you shouldn't.
+[ 286.3- 289.2] The worst thing you can do is watch your chart. You should
+[ 289.2- 292.3] actually be trying to get off your screen as soon as you can. So
+[ 292.3- 294.9] we set alerts at the outer edge of our level, and we wait
+[ 294.9- 299.0] for one of them to hit. Then when one of them does hit, we
+[ 299.0- 302.4] come to our screen and look for confirmation. Confirmation in
+[ 302.4- 305.3] this case is using the cloud indicator to determine the
+[ 305.3- 308.4] direction of the trend. What this allows us to do is identify the
+[ 308.4- 310.8] direction of the market without having to interpret every little
+[ 310.8- 313.8] movement and price. So if the price is breaking the upper
+[ 313.8- 316.5] level, for example, we want the cloud on the five minute
+[ 316.5- 319.4] timeframe to be sloping up, which shows us that it's a
+[ 319.4- 322.4] bullish trend overall. And we also need the cloud on the one
+[ 322.4- 325.2] hour to be bullish, because this shows us that long term
+[ 325.2- 328.2] buyers are also active, and it increases the chances of us
+[ 328.2- 331.4] continuing to the next level rather than reversing. Now,
+[ 331.6- 333.8] look at what a difference this is already from trading the
+[ 333.8- 337.3] open blindly. Instead of taking any random trade, we have a
+[ 337.3- 340.2] refined process that tilts the odds in our favor before we even
+[ 340.2- 344.0] look at the chart. The advantage is already in our court. Now
+[ 344.0- 346.9] from here, we move on to the final step, which is
+[ 346.9- 349.9] execution. At this point, we don't need to do any more
+[ 349.9- 353.4] analysis. We don't need to think anymore. We just need to
+[ 353.4- 356.1] execute the trade properly. And this is extremely
+[ 356.1- 358.8] important, because you can have an excellent setup and
+[ 358.8- 360.7] still lose money if you don't know where to place your
+[ 360.7- 363.8] stop loss or take profit. Once your alert is triggered and
+[ 363.8- 366.8] you have confirmation, you enter immediately. You don't
+[ 366.8- 369.5] wait for a candle close or anything, because your trade is
+[ 369.5- 372.6] immediately valid and now in play. For our take profit,
+[ 373.0- 375.5] we're simply targeting the next supply and demand level in
+[ 375.5- 378.1] the direction of our trade. So if we're breaking out to the
+[ 378.1- 380.6] upside, our target is going to be a few points into the
+[ 380.6- 384.4] next level above us. Now for our stop loss, we want to
+[ 384.4- 386.3] place it behind the market structure that supports our
+[ 386.3- 389.4] trade. Usually, that's beyond the most recent swing
+[ 389.4- 392.2] high or low or behind the EMA cloud, depending on the
+[ 392.2- 396.0] setup. Then we simply let the trade play out. We do not
+[ 396.0- 398.7] interfere with it at all. The only other thing we can do is
+[ 398.7- 401.2] adjust our stop to break even once the price crosses the
+[ 401.2- 404.6] halfway point to our target. That way, we give the price
+[ 404.6- 407.1] enough room to breathe, but also don't give all of our
+[ 407.1- 410.7] gains back if it reverses. Now, if you want to take this
+[ 410.7- 413.2] exact approach and build your entire trading around it,
+[ 413.4- 415.8] that's exactly what we help you do inside the LCE
+[ 415.8- 418.7] accelerator. You'll get full access to the LCE
+[ 418.7- 421.4] system, along with all the tools and indicators you
+[ 421.4- 423.6] need to apply it to your own trading. But more
+[ 423.6- 426.5] importantly, you'll have a dedicated coach who follows
+[ 426.5- 429.1] your progress throughout the week, with private one on
+[ 429.1- 432.2] one calls every week to review your trades, identify
+[ 432.2- 434.9] exactly what you need to improve, and give you a clear
+[ 434.9- 437.5] plan to work on. And the reason this is so
+[ 437.5- 439.6] important is because becoming a great trader is a
+[ 439.6- 442.5] stair step process. You identify a weakness, work
+[ 442.5- 445.0] on it until it's no longer holding you back, and
+[ 445.0- 448.6] then move on to the next one. Over time, all those
+[ 448.6- 450.7] small improvements compound into something much
+[ 450.7- 453.1] bigger. But you need accountability to make
+[ 453.1- 455.4] sure you're actually moving forward, instead of
+[ 455.4- 458.0] making the same mistakes over and over, and being
+[ 458.0- 460.5] stuck at the same spot. You'll also have access
+[ 460.5- 462.5] to our private trading community and live group
+[ 462.5- 464.9] coaching calls with me every week, where we go
+[ 464.9- 467.5] through trades and answer your questions. We've
+[ 467.5- 469.2] applied the same process with hundreds of
+[ 469.2- 471.2] traders, and we've seen some incredible
+[ 471.2- 473.9] progress across the board. Now, we only have a
+[ 473.9- 476.2] limited number of spots available. So if you're
+[ 476.2- 478.2] interested, click the link in the description
+[ 478.2- 480.4] below to apply. So let's look at how this
+[ 480.4- 483.5] setup comes together on a real ES trade. Let's
+[ 483.5- 485.8] start on the one hour. This is where we're
+[ 485.8- 489.8] opening. And as you can see, the market is in
+[ 489.8- 492.3] a pretty chaotic state. The price dropped
+[ 492.3- 494.8] heavily, then bounced back up, formed a
+[ 494.8- 497.5] range, then made a higher low and high, and
+[ 497.5- 499.9] is now in another range. Looking at this
+[ 499.9- 501.1] without the right context would be
+[ 501.1- 503.1] confusing, and could be interpreted a
+[ 503.1- 505.3] number of ways, and would probably lead to
+[ 505.3- 507.7] some bad trades. But the cloud gives us
+[ 507.7- 509.5] clarity in just a few seconds. We're
+[ 509.5- 511.7] mildly bullish and attempting to break out
+[ 511.7- 515.0] higher. Therefore, we should only be looking
+[ 515.0- 516.9] for a breakout here. If we want to take a
+[ 516.9- 518.7] short, we would need the price to break
+[ 518.7- 520.6] out of this range to the downside and
+[ 520.6- 522.7] flip this cloud bearish like it did here
+[ 522.7- 525.3] before. But unless that happens, we're
+[ 525.3- 527.5] looking for a break higher. So now that
+[ 527.5- 529.6] we have our bias, we can go down to
+[ 529.6- 531.7] the five-minute time frame. The five
+[ 531.7- 533.3] minute is flat and has no direction
+[ 533.3- 535.1] because of all the ranging recently.
+[ 535.1- 536.4] This doesn't give us any new
+[ 536.4- 537.8] information other than we should
+[ 537.8- 539.2] continue following the direction of the
+[ 539.2- 540.8] one hour, because there's no strong
+[ 540.8- 541.9] disagreement with that on the lower
+[ 541.9- 543.9] time frames. So that's to establish the
+[ 543.9- 545.9] context here. But if you were trading
+[ 545.9- 547.9] this right at the open, we'd start with
+[ 547.9- 550.5] step one, which is to wait at least 10 to
+[ 550.5- 552.6] 15 minutes. And that's very important
+[ 552.6- 554.6] here, because as you see, the price
+[ 554.6- 557.1] chops around for the first half hour. It
+[ 557.1- 558.3] doesn't even break out of our opening
+[ 558.3- 560.0] level. If you would have tried
+[ 560.0- 561.6] entering this, you would have probably
+[ 561.6- 563.9] gotten chopped up. So we avoid the
+[ 563.9- 567.0] vagueness and the volatility. Now we're
+[ 567.0- 568.9] on to step two, which is to wait for
+[ 568.9- 571.1] a real break to either side. That means
+[ 571.1- 572.6] setting our alerts at the edge of both
+[ 572.6- 575.9] levels and waiting. And we don't need to
+[ 575.9- 577.6] wait long because the price breaks down.
+[ 577.6- 580.5] Now, something interesting happens here.
+[ 580.5- 582.7] The price breaks into the lower level
+[ 582.7- 584.9] and triggers our alert. But remember,
+[ 584.9- 586.9] our bias on the one hour is bullish
+[ 586.9- 588.5] and we can't take a trade if both
+[ 588.5- 590.3] time frames don't agree, because that
+[ 590.3- 591.6] lowers the probability that it'll
+[ 591.6- 593.3] work. It's a low quality setup
+[ 593.3- 594.7] without a clear direction from either
+[ 594.7- 596.7] buyers or sellers, so we don't trade
+[ 596.7- 599.1] here. What we do instead is treat this
+[ 599.1- 601.3] as our new opening level and reset our
+[ 601.3- 603.4] alerts in the upper and lower level. What
+[ 603.4- 605.7] that means is, if the price continues
+[ 605.7- 607.7] dropping down to our next level, then
+[ 607.7- 609.3] we might seriously consider a short,
+[ 609.3- 611.7] because at that point the cloud here
+[ 611.7- 613.6] will become bearish. The one hour cloud
+[ 613.6- 615.8] will also start tilting down, so both
+[ 615.8- 617.8] time frames will agree, sellers will
+[ 617.8- 619.3] take over, and the price will
+[ 619.3- 621.5] collapse. That's just like the drop we
+[ 621.5- 623.5] saw earlier on the one hour. So
+[ 623.5- 624.7] that's the case for the downside
+[ 624.7- 627.7] scenario. But the key is, we want to take
+[ 627.7- 629.8] it level by level. We don't want to be
+[ 629.8- 631.2] thinking about what happens in the next
+[ 631.2- 633.8] hour or how to plan five moves ahead.
+[ 633.8- 635.1] We're just waiting for price to hit a
+[ 635.1- 637.1] level, assessing if a trade is valid
+[ 637.1- 638.7] or not, and then moving to the next
+[ 638.7- 641.1] level. And that's it. We just have a
+[ 641.1- 643.1] single-minded focus on that, without
+[ 643.1- 644.9] anticipation or predicting anything
+[ 644.9- 647.9] else. So that's our downside scenario. On
+[ 647.9- 649.7] the other hand, if the price bounces
+[ 649.7- 651.4] higher from here and moves back into
+[ 651.4- 653.0] the upper level, then we could
+[ 653.1- 654.7] consider a long. That would mean the
+[ 654.7- 656.4] price bounced off the one hour cloud.
+[ 656.4- 659.3] Buyers soaked up sellers, and sellers are
+[ 659.3- 661.6] being squeezed as we push higher. So
+[ 661.6- 662.4] that's what we're looking for
+[ 662.4- 664.9] currently. And if we wait, we see that
+[ 664.9- 666.7] price eventually bounces back up and
+[ 666.7- 668.9] triggers our alert. At this point, we
+[ 668.9- 670.8] move to step three, which is to wait
+[ 670.8- 672.3] for confirmation. For that to
+[ 672.3- 673.7] happen here, we would need an
+[ 673.7- 675.5] indication from the cloud that the
+[ 675.5- 677.6] overall trend is bullish, and that
+[ 677.6- 679.1] buyers are more likely to continue
+[ 679.1- 681.2] moving higher. If we look at the
+[ 681.2- 683.5] cloud here, we can see it's already
+[ 683.5- 686.3] well positioned. It's curved upward and
+[ 686.3- 688.4] about to flip. Combine this with the one
+[ 688.4- 689.9] hour bullish cloud that didn't break
+[ 689.9- 692.1] with the price bouncing off it, and we
+[ 692.1- 693.5] have a strong breakout set up over
+[ 693.5- 695.9] here. Then we move on to step four,
+[ 695.9- 698.6] which is execution. We enter
+[ 698.6- 700.7] immediately and place our target at
+[ 700.7- 702.5] the next level. We place our stop
+[ 702.5- 704.3] right under the cloud, because if the
+[ 704.3- 705.9] price breaks under the cloud again,
+[ 705.9- 707.9] then it means buyers were too weak
+[ 707.9- 710.0] currently to support a move higher, and
+[ 710.0- 712.6] our idea was invalid. Once we have that
+[ 712.6- 714.4] in place, we simply let the trade
+[ 714.4- 717.2] play out. And that's it. One clean
+[ 717.2- 719.6] trade. So think about how trading the
+[ 719.6- 720.7] open would have been without this
+[ 720.7- 722.2] context. There were so many
+[ 722.2- 724.3] opportunities to get chopped up or
+[ 724.3- 727.0] buy the top or sell at the bottom. We
+[ 727.0- 728.9] avoid all that here, which would have
+[ 728.9- 731.1] dragged our P&L to the floor and take
+[ 731.1- 732.6] one clean trade that's aligned with
+[ 732.6- 734.3] the trend and overall market
+[ 734.3- 736.1] structure. And this is really what I
+[ 736.1- 737.2] want you to take away from this
+[ 737.2- 738.9] video. You don't need to trade every
+[ 738.9- 740.5] move, and you certainly don't need to
+[ 740.5- 741.9] spend your entire morning glued to
+[ 741.9- 744.1] the screen. You just need a repeatable
+[ 744.1- 745.5] process that tells you when there's an
+[ 745.5- 747.5] opportunity worth taking and when it's
+[ 747.5- 749.7] better to do absolutely nothing. Because
+[ 749.7- 751.2] the goal isn't to spend your entire
+[ 751.2- 753.2] life trading. It's to get good enough
+[ 753.2- 754.8] at trading that you can actually enjoy
+[ 754.8- 756.0] the freedom it's supposed to give
+[ 756.0- 757.7] you. And if you want our help
+[ 757.7- 759.8] building that process, you can apply
+[ 759.8- 761.7] to the LCE accelerator using the link
+[ 761.7- 764.9] below. Be sure to like, subscribe, and
+[ 764.9- 766.1] I'll see you in the next video.
