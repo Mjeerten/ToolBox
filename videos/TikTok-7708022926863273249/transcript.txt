@@ -1,0 +1,22 @@
+language: en (100%)
+[   0.0-   5.8] A strategy so simple, a 10-year-old could run it, and for 17 years, it crushed Wall
+[   5.8-   6.8] Street.
+[   6.8-  10.9] Then, a book made it famous, and that's exactly what killed it.
+[  10.9-  13.8] Wall Street calls them the Dogs of the Dow.
+[  13.8-  15.0] Here's the trade.
+[  15.0-  17.9] Every January, take the 30 stocks in the Dow.
+[  17.9-  22.4] Buy the 10 with the highest dividend, the ugly ones, the dogs.
+[  22.4-  24.4] Hold for a year, repeat.
+[  24.4-  29.8] From 1973 to 1989, $1 in the dogs became 16.
+[  29.8-  32.0] The rest of the Dow, 6.
+[  32.0-  36.8] 1991, a money manager puts it in a book, beating the Dow.
+[  36.8-  38.2] It becomes a bestseller.
+[  38.2-  42.9] Then, the Motley Fool turns it into the Foolish Four, funds launch.
+[  42.9-  48.3] Every January, millions of people buy the same 10 stocks, and it gets worse.
+[  48.3-  52.0] Researchers test the 90s, the dogs lose to the Dow.
+[  52.0-  59.0] 2000 to 2020, $1 in the dogs becomes 2.63, the plain Dow, 3.19.
+[  59.0-  62.8] They win 11 years out of 21, a coin flip.
+[  62.8-  70.6] 2008, the dogs fall 42%, the Dow 34%, cause of death, a bestseller.
+[  70.6-  73.5] Once a strategy fits in a book, it's priced in.
+[  73.5-  77.2] That's why we only trade what still works today, Lincoln Bio.
+[  77.2-  80.7] So, if someone tells you about a strategy so simple...

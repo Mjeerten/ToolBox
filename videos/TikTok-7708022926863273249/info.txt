@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7708022926863273249
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-11-14
+duration_s: 80
+views: 2355  likes: 60  comments: 0
+frames: 81, one every 1 s (frames/0001.jpg = second 0); sheets: 4 (12 frames each; 42 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+What if the simplest trading strategy actually works? 👀📊 Buy the 10 worst-performing stocks, hold for a year, and repeat. Sounds almost too easy, right? 😂 Would you try this strategy? 👇 #trading #stockmarket #investing #tradingstrategy #wallstreet

@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@thequantbuilder/video/7708351462971116832
+uploader: thequantbuilder (7673208874096722967)
+date: 2026-11-15
+duration_s: 63
+views: 693  likes: 19  comments: 1
+frames: 64, one every 1 s (frames/0001.jpg = second 0); sheets: 2 (12 frames each; 19 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+Everyone tells you to wait for the dip before buying. So we tested every single S&P 500 all-time high since 1950, all 1,510 of them. One, three and five years later, buying the record beat buying on a random day. Would you still wait for the dip? 📈 #stockmarket #sp500 #investing #alltimehigh #stocks
