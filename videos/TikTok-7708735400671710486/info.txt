@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@tradewriter441/video/7708735400671710486?_r=1&_t=ZG-9BTbNpnnEtk
+uploader: tradewriter441 (7690578197582332950)
+date: 2026-11-16
+duration_s: 776
+views: 31200  likes: 1900  comments: 20
+frames: 776, one every 1 s (frames/0001.jpg = second 0); sheets: 17 (12 frames each; 195 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+The only volume profile strategy that actually works

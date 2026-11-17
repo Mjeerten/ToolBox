@@ -1,0 +1,283 @@
+language: en (100%)
+[   0.0-   5.0] Volume profile is, by far, the most profitable indicator I've ever used.
+[   5.0-   8.0] It's the closest thing to a cheat code in trading.
+[   8.0-  13.0] But the problem is, 99% of traders have no idea how to use it properly
+[  13.0-  15.0] and completely squander its potential.
+[  15.0-  20.0] They take the most powerful tool in trading and reduce it to another collection of patterns.
+[  20.0-  26.0] Things like p-shaped profiles, b-shaped, d-shaped, and a hundred different setups to memorize.
+[  26.0-  30.0] A lot of traders get into volume profile because they're tired of memorizing candlestick patterns
+[  30.0-  33.0] and want to understand how the market actually works.
+[  33.0-  36.0] But then they make the exact same mistake all over again.
+[  36.0-  39.0] You know that price action patterns are fundamentally useless for this reason.
+[  39.0-  43.0] But the critical mistake is approaching volume profile like other strategies.
+[  43.0-  47.0] Then it just becomes a fancier version of a price action strategy.
+[  47.0-  50.0] That's a criminal waste of what this indicator can actually do.
+[  50.0-  55.0] Because volume profile isn't just another indicator you use to find setups.
+[  55.0-  59.0] It shows you how the market operates, where the most important trading activity happens,
+[  59.0-  62.0] and where the price is likely to go next.
+[  62.0-  65.0] And once you understand that, you can look at virtually any chart,
+[  65.0-  70.0] understand what you're dealing with, and know exactly what you should be looking for.
+[  70.0-  73.0] And that's exactly the kind of simplicity we're looking for.
+[  73.0-  76.0] Because everything I teach on this channel is for one purpose.
+[  76.0-  80.0] To turn trading from a job that consumes your life into a business that pays you,
+[  80.0-  82.0] using the LCE model.
+[  82.0-  86.0] So in this video, I'm going to show you the real way to trade volume profile,
+[  86.0-  88.0] and how I've used it to hit five figure months.
+[  88.0-  93.0] Now, there's a huge difference between knowing a setup or memorizing certain patterns,
+[  93.0-  96.0] and understanding the mechanism that makes that setup work.
+[  96.0- 100.0] Someone who memorizes a P-shaped profile only knows what they've been taught to do
+[ 100.0- 102.0] when that specific formation appears.
+[ 102.0- 104.0] If the market does something slightly different,
+[ 104.0- 106.0] they're basically back to trading blind.
+[ 106.0- 109.0] And the market doesn't simply lay out easy patterns all the time.
+[ 109.0- 111.0] It's not that simple.
+[ 111.0- 114.0] If you don't have the ability to understand what the market is doing
+[ 114.0- 116.0] and adapt to different conditions,
+[ 116.0- 118.0] you'll never sustain profitability long term.
+[ 118.0- 122.0] Volume profile isn't showing you some magical formation that the market has to follow.
+[ 122.0- 125.0] It's showing you something much more fundamental,
+[ 125.0- 129.0] which is how much trading actually took place at every price.
+[ 129.0- 131.0] And if you think about that for a second,
+[ 131.0- 133.0] it's incredibly valuable information,
+[ 133.0- 136.0] because not every price is equally important.
+[ 136.0- 140.0] There are certain prices where enormous amounts of trading take place,
+[ 140.0- 143.0] and others where barely anyone trades at all.
+[ 143.0- 145.0] And this isn't random.
+[ 145.0- 148.0] It tells us where buyers and sellers have been most active,
+[ 148.0- 150.0] where the market has spent time doing business,
+[ 150.0- 153.0] and where it has moved through relatively quickly.
+[ 153.0- 156.0] Now, instead of asking yourself what pattern you're looking at,
+[ 156.0- 159.0] you can start asking much more useful questions.
+[ 159.0- 162.0] Where is the most important trading activity concentrated?
+[ 162.0- 164.0] Where are the areas with very little volume?
+[ 164.0- 167.0] And how can we use that information to find our next trade?
+[ 167.0- 169.0] See the difference?
+[ 169.0- 172.0] You're no longer dependent on a particular formation appearing.
+[ 172.0- 175.0] Whether the market is trending, ranging,
+[ 175.0- 177.0] or doing something completely different,
+[ 177.0- 179.0] you're still looking at the same underlying information,
+[ 179.0- 182.0] and that's what makes this approach so powerful.
+[ 182.0- 184.0] The more deeply you understand something,
+[ 184.0- 186.0] the fewer rules you need to operate it,
+[ 186.0- 188.0] and that's exactly what we want
+[ 188.0- 190.0] if we're trying to turn trading into a real business.
+[ 190.0- 193.0] We don't want to be constantly studying new strategies,
+[ 193.0- 196.0] looking for patterns, and trying to figure out what to do next.
+[ 196.0- 199.0] We want one simple process that we can repeat every single day,
+[ 199.0- 201.0] regardless of what the market looks like.
+[ 201.0- 204.0] So let's actually break down what the volume profile is showing us,
+[ 204.0- 206.0] and how we can use that information
+[ 206.0- 209.0] to identify the most important trading levels on our chart.
+[ 209.0- 212.0] Now, price movement and trading activity
+[ 212.0- 214.0] are two completely different things,
+[ 214.0- 216.0] and understanding the difference between them
+[ 216.0- 218.0] is going to change how you look at the market.
+[ 218.0- 220.0] Let's say we have a candlestick chart here,
+[ 220.0- 223.0] and the price is moving sideways in a relatively tight range.
+[ 223.0- 226.0] Now, if you're just looking at price action,
+[ 226.0- 228.0] this probably doesn't seem particularly interesting.
+[ 228.0- 230.0] The market isn't really going anywhere.
+[ 230.0- 232.0] It's just consolidating.
+[ 232.0- 234.0] But let's add the volume profile
+[ 234.0- 236.0] and see what's actually happening underneath.
+[ 236.0- 238.0] As the price moves around this range,
+[ 238.0- 240.0] thousands upon thousands of contracts
+[ 240.0- 242.0] are being exchanged between buyers and sellers.
+[ 242.0- 245.0] So even though the price hasn't really moved anywhere,
+[ 245.0- 248.0] there's actually an enormous amount of trading happening here.
+[ 248.0- 250.0] And as that volume accumulates,
+[ 250.0- 253.0] we start seeing these horizontal bars getting larger and larger.
+[ 253.0- 256.0] This creates what we call a high-volume node, or HVN.
+[ 256.0- 259.0] It's an area where the market has done a large amount of business.
+[ 259.0- 262.0] We have all this buying and selling happening,
+[ 262.0- 264.0] but the price isn't making any meaningful progress
+[ 264.0- 266.0] in either direction.
+[ 266.0- 269.0] That's because buying and selling pressure is relatively balanced.
+[ 269.0- 271.0] Buyers are willing to do business at these prices,
+[ 271.0- 273.0] and sellers are willing to accommodate them.
+[ 273.0- 275.0] So the market can continue trading around this area
+[ 275.0- 277.0] for a considerable amount of time.
+[ 277.0- 279.0] Now, compare that to what happens next.
+[ 279.0- 282.0] Suddenly, buyers become much more aggressive,
+[ 282.0- 284.0] and the price starts pushing higher.
+[ 284.0- 288.0] But this time, instead of spending hours trading around the same prices,
+[ 288.0- 290.0] the market moves through them relatively quickly.
+[ 290.0- 292.0] Despite the price moving considerably,
+[ 292.0- 295.0] there isn't nearly as much volume concentrated at each of these prices.
+[ 295.0- 298.0] We have a relatively thin area in the profile,
+[ 298.0- 301.0] which we call a low-volume node, or LVN.
+[ 301.0- 304.0] Now think about the difference between these two situations.
+[ 304.0- 308.0] In the first, we had enormous amounts of trading activity,
+[ 308.0- 310.0] but very little price movement.
+[ 310.0- 313.0] In the second, we had relatively little trading activity
+[ 313.0- 316.0] at each individual price, but a much larger price movement.
+[ 316.0- 319.0] So the amount of volume traded at a price
+[ 319.0- 322.0] and how far the market moves are not the same thing.
+[ 322.0- 325.0] And this is why volume profile is so valuable,
+[ 325.0- 328.0] because if you only look at candlesticks,
+[ 328.0- 331.0] all you see is a consolidation followed by a breakout.
+[ 331.0- 334.0] But with volume profile, you can actually see the difference
+[ 334.0- 337.0] between an area where the market spent a lot of time doing business
+[ 337.0- 340.0] and an area where it moved through prices relatively quickly.
+[ 340.0- 343.0] Now, here's where this gets really useful.
+[ 343.0- 346.0] The market doesn't simply move higher forever.
+[ 346.0- 349.0] At some point, it's going to encounter more buying and selling activity,
+[ 349.0- 353.0] and the way price behaves around that activity is extremely important.
+[ 353.0- 356.0] We have our original high-volume node down here,
+[ 356.0- 358.0] a thin area in between,
+[ 358.0- 361.0] and another major concentration of volume above.
+[ 361.0- 364.0] Now, as the price approaches this upper concentration,
+[ 364.0- 368.0] we're entering an area where a tremendous amount of trading previously took place,
+[ 368.0- 371.0] and this changes the situation entirely.
+[ 371.0- 373.0] The price was able to move quickly through the thinner area
+[ 373.0- 377.0] because there wasn't much historical trading activity concentrated there,
+[ 377.0- 379.0] but now we're approaching a price where buyers and sellers
+[ 379.0- 382.0] have previously done enormous amounts of business,
+[ 382.0- 384.0] so we need to pay much closer attention.
+[ 384.0- 387.0] The market might slow down and consolidate here.
+[ 387.0- 391.0] It might reject the area and move back toward the previous concentration,
+[ 391.0- 395.0] or, if buying pressure is strong enough, it might continue breaking higher.
+[ 395.0- 397.0] And notice something important.
+[ 397.0- 400.0] We're not predicting which of these outcomes has to happen.
+[ 400.0- 404.0] We're identifying where the market is more likely to encounter an important decision.
+[ 404.0- 407.0] That's already a massive advantage over looking at price action alone,
+[ 407.0- 411.0] because instead of treating every candlestick and every price as equally important,
+[ 411.0- 414.0] we have a map of where substantial trading has taken place
+[ 414.0- 417.0] and where the market has historically moved relatively freely.
+[ 417.0- 421.0] So basically, we know where price action means something,
+[ 421.0- 425.0] and we should pay attention, and we know where it's just noise.
+[ 425.0- 429.0] But there's another layer to this that makes volume profile even more interesting.
+[ 429.0- 431.0] Let's go back to our first example.
+[ 431.0- 434.0] We have the market consolidating around this high volume node
+[ 434.0- 437.0] and then breaking higher into the low volume area.
+[ 437.0- 441.0] Now, imagine the market suddenly loses its upward momentum.
+[ 441.0- 443.0] Buyers stop pushing the price higher,
+[ 443.0- 445.0] sellers become more aggressive,
+[ 445.0- 447.0] and the price starts dropping back down.
+[ 447.0- 449.0] And because we're moving back through that same thin area,
+[ 449.0- 451.0] the price can retrace very quickly,
+[ 451.0- 454.0] right back toward the previous high volume node.
+[ 454.0- 457.0] This is one reason you can see such violent reversals in the market.
+[ 457.0- 460.0] The price moves away from an area where it was doing substantial business,
+[ 460.0- 463.0] fails to establish itself at the new prices,
+[ 463.0- 465.0] and returns toward the previous concentration.
+[ 465.0- 468.0] Now, if you were trading candlestick patterns,
+[ 468.0- 471.0] you might call this a failed breakout, a bull trap,
+[ 471.0- 474.0] a reversal pattern, or whatever else.
+[ 474.0- 477.0] And none of those names really explain the underlying process.
+[ 477.0- 479.0] We're looking at a market that attempted to move away
+[ 479.0- 481.0] from an established trading area,
+[ 481.0- 483.0] but couldn't sustain that move.
+[ 483.0- 485.0] Now, let's take the exact same starting point,
+[ 485.0- 487.0] but change what happens next.
+[ 487.0- 490.0] Instead of immediately returning to the previous concentration,
+[ 490.0- 494.0] the price starts spending time around these higher prices.
+[ 494.0- 497.0] Buyers and sellers begin exchanging more and more contracts here.
+[ 497.0- 499.0] The volume profile starts building out,
+[ 499.0- 503.0] and eventually we have an entirely new high volume node.
+[ 503.0- 506.0] Now, something very important has changed.
+[ 506.0- 509.0] The market isn't just briefly passing through these prices anymore.
+[ 509.0- 511.0] It's actually doing substantial business here.
+[ 511.0- 514.0] We've gone from one major area of trading activity to another,
+[ 514.0- 517.0] and the volume distribution has changed along with it.
+[ 517.0- 520.0] And this is the underlying process behind how the market develops.
+[ 520.0- 524.0] Sometimes price explores new areas and quickly returns.
+[ 524.0- 526.0] Other times it moves into a new area,
+[ 526.0- 529.0] and substantial trading activity begins accumulating there.
+[ 529.0- 532.0] Sometimes that happens above the previous concentration,
+[ 532.0- 534.0] sometimes below it,
+[ 534.0- 536.0] and sometimes the market simply continues trading
+[ 536.0- 538.0] around the same prices for hours.
+[ 538.0- 540.0] But regardless of how the candlesticks look,
+[ 540.0- 543.0] we're still interpreting the market through the same underlying information.
+[ 543.0- 545.0] Where has the most trading taken place?
+[ 545.0- 548.0] Where has relatively little trading occurred?
+[ 548.0- 551.0] And how is that distribution changing as the market moves?
+[ 551.0- 554.0] Now, let's zoom out and look at the entire sequence.
+[ 554.0- 557.0] Notice how much clearer everything becomes.
+[ 557.0- 560.0] We can see where the market spent time doing business,
+[ 560.0- 562.0] where it moved quickly,
+[ 562.0- 564.0] where it attempted to establish new trading areas,
+[ 564.0- 566.0] and where those attempts failed.
+[ 566.0- 568.0] All the different consolidations,
+[ 568.0- 570.0] breakouts, and reversals we saw earlier
+[ 570.0- 573.0] are now part of one much simpler picture.
+[ 573.0- 576.0] Now, let's look at an actual example on ES futures.
+[ 576.0- 579.0] Here we have three major high volume nodes.
+[ 579.0- 581.0] One around 7,650,
+[ 581.0- 584.0] another around 7,615,
+[ 584.0- 587.0] and another down here around 7,530.
+[ 587.0- 589.0] These are our main points of interest,
+[ 589.0- 591.0] and we're looking to trade from one to the other.
+[ 591.0- 593.0] So if we look at the market structure,
+[ 593.0- 595.0] we can see that we've recently had some bullish price action.
+[ 595.0- 598.0] That means we're interested in a move toward the upper high volume nodes.
+[ 598.0- 600.0] And the price does move higher,
+[ 600.0- 603.0] reaching this upper node around 7,650.
+[ 603.0- 607.0] But now, notice that the price is rejecting this area,
+[ 607.0- 610.0] and we haven't been able to break the previous highs.
+[ 610.0- 614.0] That makes a continuation lower toward the middle high volume node a possibility.
+[ 614.0- 617.0] And that's exactly what starts happening.
+[ 617.0- 620.0] The price drops back down toward 7,615.
+[ 620.0- 623.0] Now, here's where we need to make a decision.
+[ 623.0- 625.0] After this sharp drop,
+[ 625.0- 628.0] is the price more likely to continue toward the high volume node below,
+[ 628.0- 630.0] or return to the one it just came from?
+[ 630.0- 634.0] Well, we can use market structure and trend to determine that.
+[ 634.0- 636.0] We've rejected the highs.
+[ 636.0- 638.0] The market is showing aggressive selling pressure,
+[ 638.0- 641.0] and we're now threatening to break through this middle concentration.
+[ 641.0- 644.0] So probability is pointing toward a continuation lower.
+[ 644.0- 648.0] Through this large low volume area, toward the next major node.
+[ 648.0- 652.0] And then price absolutely collapses through the low volume area.
+[ 652.0- 655.0] That's how we use volume profile to find these enormous trading opportunities
+[ 655.0- 657.0] with extreme precision.
+[ 657.0- 660.0] We know where the important concentrations of volume are,
+[ 660.0- 663.0] and we use trend and market structure to determine which one price
+[ 663.0- 665.0] is most likely to reach next.
+[ 665.0- 667.0] So what we see on our chart isn't separate mysteries
+[ 667.0- 669.0] that require 100 different strategies to trade.
+[ 669.0- 672.0] They're all part of the same underlying mechanics.
+[ 672.0- 675.0] We're just understanding how the market actually operates
+[ 675.0- 677.0] and using that information to take our trades.
+[ 677.0- 680.0] Because you no longer need to spend hours trying to make sense
+[ 680.0- 682.0] of every little movement.
+[ 682.0- 684.0] You can identify the important locations in advance,
+[ 684.0- 686.0] wait for price to reach them,
+[ 686.0- 688.0] and only get involved when the conditions make sense.
+[ 688.0- 690.0] And as we've just seen,
+[ 690.0- 693.0] even capturing a fraction of these moves can be incredibly lucrative.
+[ 693.0- 696.0] That's what makes volume profile the greatest indicator in trading.
+[ 696.0- 699.0] Now, what I've shown you here is just one piece of the system
+[ 699.0- 702.0] I use to trade ES futures every single day.
+[ 702.0- 705.0] And the full system is actually even simpler than this.
+[ 705.0- 707.0] I've stripped it down to just three steps
+[ 707.0- 709.0] that tell me where to trade, when to enter,
+[ 709.0- 711.0] and when to walk away.
+[ 711.0- 713.0] And if you want to learn exactly how to do the same thing,
+[ 713.0- 716.0] that's what we help traders with inside the LCE Accelerator.
+[ 716.0- 719.0] You'll get full access to the LCE system,
+[ 719.0- 721.0] along with all the tools and indicators you need
+[ 721.0- 723.0] to apply it to your own trading.
+[ 723.0- 726.0] You'll work directly with a dedicated coach who reviews your trades,
+[ 726.0- 728.0] identifies exactly what's holding you back,
+[ 728.0- 731.0] and helps you apply the system to your own trading.
+[ 731.0- 734.0] Instead of spending months trying to figure out what you're doing wrong,
+[ 734.0- 736.0] you'll have someone working with you to correct those mistakes
+[ 736.0- 738.0] and improve your execution.
+[ 738.0- 741.0] You'll also get two group coaching calls every week,
+[ 741.0- 743.0] where we break down trades, answer questions,
+[ 743.0- 746.0] and help you apply everything in the real market.
+[ 746.0- 749.0] Plus, you'll get access to my exact trading charts,
+[ 749.0- 751.0] levels, and indicators,
+[ 751.0- 753.0] along with our private community of traders.
+[ 753.0- 755.0] So you're getting the complete system,
+[ 755.0- 757.0] the tools to execute it,
+[ 757.0- 760.0] and the coaching to make sure you're actually applying it correctly.
+[ 760.0- 762.0] Spots are limited, so if you're interested,
+[ 762.0- 764.0] the link to apply is below.
+[ 764.0- 768.0] Because ultimately, we're trying to build a trading business that pays you,
+[ 768.0- 771.0] not another job that consumes your life.
+[ 771.0- 773.0] And if you found this video useful,
+[ 773.0- 775.0] be sure to leave a like and subscribe.
+[ 775.0- 777.0] I'll see you in the next one.
