@@ -1,0 +1,12 @@
+language: en (100%)
+[   0.0-   5.0] Every time IB spikes, options get expensive. That's how 90% of traders use volatility. But
+[   5.0-  10.1] what if I told you you can use implied vol combined with options data to know exactly when market
+[  10.1-  14.8] crashes are going to happen. Implied volatility is the market's forecast of how big of a price
+[  14.8-  20.6] swing it expects to happen in the future. Think of it as home insurance. A mansion in Miami
+[  20.6-  25.8] would cost way more to ensure than an apartment in Lisbon. Basically, it's price of fear.
+[  25.8-  31.0] After 1980s, investors got so traumatized, so they started to always buy this downside
+[  31.0-  36.2] protection. That's why out of the money puts are permanently more expensive than calls,
+[  36.2-  41.4] creating what we call volatility smile. When the smirk on a smile gets extreme, that means
+[  41.4-  47.0] customers are buying downside protection. On November 4, puts IV was significantly larger
+[  47.0-  52.2] than calls and combined with other factors you can screenshot it or save it that resulted in
+[  52.2-  55.4] the biggest market drop since April 2025.

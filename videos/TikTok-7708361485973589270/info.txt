@@ -1,0 +1,9 @@
+url: https://www.tiktok.com/@aleks_rosme/video/7708361485973589270?_r=1&_t=ZG-9BTzeGh6xc0
+uploader: aleks_rosme (7162365782730621957)
+date: 2026-11-15
+duration_s: 55
+views: 12700  likes: 1371  comments: 21
+frames: 56, one every 1 s (frames/0001.jpg = second 0); sheets: 5 (12 frames each; 50 frames where the picture changes, at least one every 4 s; all frames in frames/)
+
+title/caption:
+How to Trade w IV & Vol Smirk #gamma #orderflow #nasdaq #daytrading #volatility
